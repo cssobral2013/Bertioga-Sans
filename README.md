@@ -1,4 +1,4 @@
-# Bertioga-Sans
+# Bertioga Sans
 Is developed from Arimo and Libra Sans.
 Main changes include:
 
