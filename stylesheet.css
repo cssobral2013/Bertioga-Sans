@@ -70,16 +70,6 @@
     font-display: swap;
 }
 
-@font-face {
-    font-family: 'Bertioga Sans';
-    src: url('web/BertiogaSans-Black.woff2') format('woff2'),
-        url('web/BertiogaSans-Black.woff') format('woff'),
-        url('ttf/BertiogaSans-Black.ttf') format('truetype');
-    font-weight: 900;
-    font-style: normal;
-    font-display: swap;
-}
-
 
 
 @font-face {
@@ -152,12 +142,3 @@
     font-display: swap;
 }
 
-@font-face {
-    font-family: 'Bertioga Sans';
-    src: url('web/BertiogaSans-BlackItalic.woff2') format('woff2'),
-        url('web/BertiogaSans-BlackItalic.woff') format('woff'),
-        url('ttf/BertiogaSans-BlackItalic.ttf') format('truetype');
-    font-weight: 900;
-    font-style: italic;
-    font-display: swap;
-}
