@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'Bertioga Sans';
-    src: url('web/BertiogaSans-Light.woff2') format('woff2'),
-        url('web/BertiogaSans-Light.woff') format('woff'),
-        url('ttf/BertiogaSans-Light.ttf') format('truetype');
-    font-weight: 300;
+    src: url('web/BertiogaSans-ExtraLight.woff2') format('woff2'),
+        url('web/BertiogaSans-ExtraLight.woff') format('woff'),
+        url('ttf/BertiogaSans-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
     font-style: normal;
     font-display: swap;
 }
@@ -12,10 +12,10 @@
 
 @font-face {
     font-family: 'Bertioga Sans';
-    src: url('web/BertiogaSans-Book.woff2') format('woff2'),
-        url('web/BertiogaSans-Book.woff') format('woff'),
-        url('ttf/BertiogaSans-Book.ttf') format('truetype');
-    font-weight: 350;
+    src: url('web/BertiogaSans-Light.woff2') format('woff2'),
+        url('web/BertiogaSans-Light.woff') format('woff'),
+        url('ttf/BertiogaSans-Light.ttf') format('truetype');
+    font-weight: 300;
     font-style: normal;
     font-display: swap;
 }
@@ -74,20 +74,20 @@
 
 @font-face {
     font-family: 'Bertioga Sans';
-    src: url('web/BertiogaSans-LightItalic.woff2') format('woff2'),
-        url('web/BertiogaSans-LightItalic.woff') format('woff'),
-        url('ttf/BertiogaSans-LightItalic.ttf') format('truetype');
-    font-weight: 300;
+    src: url('web/BertiogaSans-ExtraLightItalic.woff2') format('woff2'),
+        url('web/BertiogaSans-ExtraLightItalic.woff') format('woff'),
+        url('ttf/BertiogaSans-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
     font-style: italic;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Bertioga Sans';
-    src: url('web/BertiogaSans-BookItalic.woff2') format('woff2'),
-        url('web/BertiogaSans-BookItalic.woff') format('woff'),
-        url('ttf/BertiogaSans-BookItalic.ttf') format('truetype');
-    font-weight: 350;
+    src: url('web/BertiogaSans-LightItalic.woff2') format('woff2'),
+        url('web/BertiogaSans-LightItalic.woff') format('woff'),
+        url('ttf/BertiogaSans-LightItalic.ttf') format('truetype');
+    font-weight: 300;
     font-style: italic;
     font-display: swap;
 }
