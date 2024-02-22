@@ -17,16 +17,16 @@ with TTFont(srcPath) as font:
     font.flavor = 'woff'
     font.save(woffPath)
     
-srcPath  = './ttf/BertiogaSans-ExtraLight.ttf'
-woffPath = './web/BertiogaSans-ExtraLight.woff'
+srcPath  = './ttf/BertiogaSans-Black.ttf'
+woffPath = './web/BertiogaSans-Black.woff'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff'
     font.save(woffPath)    
 
     
-srcPath  = './ttf/BertiogaSans-ExtraLightItalic.ttf'
-woffPath = './web/BertiogaSans-ExtraLightItalic.woff'
+srcPath  = './ttf/BertiogaSans-BlackItalic.ttf'
+woffPath = './web/BertiogaSans-BlackItalic.woff'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff'
@@ -147,16 +147,16 @@ with TTFont(srcPath) as font:
     font.flavor = 'woff2'
     font.save(woff2Path)
     
-srcPath  = './ttf/BertiogaSans-ExtraLight.ttf'
-woff2Path = './web/BertiogaSans-ExtraLight.woff2'
+srcPath  = './ttf/BertiogaSans-Black.ttf'
+woff2Path = './web/BertiogaSans-Black.woff2'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff2'
     font.save(woff2Path)    
 
     
-srcPath  = './ttf/BertiogaSans-ExtraLightItalic.ttf'
-woff2Path = './web/BertiogaSans-ExtraLightItalic.woff2'
+srcPath  = './ttf/BertiogaSans-BlackItalic.ttf'
+woff2Path = './web/BertiogaSans-BlackItalic.woff2'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff2'
