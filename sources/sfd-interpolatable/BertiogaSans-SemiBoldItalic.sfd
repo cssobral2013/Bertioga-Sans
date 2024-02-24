@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1708629968
-ModificationTime: 1708631101
+ModificationTime: 1708737933
 PfmFamily: 17
 TTFWeight: 600
 TTFWidth: 5
@@ -75,7 +75,7 @@ Lookup: 1 0 0 "Single Substitution lookup 14" { "Single Substitution lookup 14 s
 Lookup: 258 0 0 "'kern' Kerning Horizontal in Cyrillic lookup 0" { "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable"  } ['kern' ('cyrl' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Kerning Horizontal in Greek lookup 0" { "'kern' Kerning Horizontal in Greek lookup 0 subtable"  } ['kern' ('grek' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Kerning Horizontal in Latin lookup 0" { "'kern' Kerning Horizontal in Latin lookup 0 subtable"  } ['kern' ('latn' <'dflt' > ) ]
-Lookup: 258 0 0 "'kern' Kerning Horizontal lookup 0" { "'kern' Kerning Horizontal lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > ) ]
+Lookup: 258 0 0 "'kern' Kerning Horizontal lookup 0" { "'kern' Kerning Horizontal lookup 0 subtable" [307,30,0] } ['kern' ('DFLT' <'dflt' > ) ]
 Lookup: 258 8 0 "kernHorizontalKerninglookup0" { "kernHorizontalKerninglookup0 subtable"  } ['kern' ('latn' <'dflt' 'MAH ' > 'hebr' <'dflt' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' > 'DFLT' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -176,7 +176,7 @@ Width: 569
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Kerns2: 866 0 "kernHorizontalKerninglookup0 subtable" 860 0 "kernHorizontalKerninglookup0 subtable" 851 0 "kernHorizontalKerninglookup0 subtable" 844 0 "kernHorizontalKerninglookup0 subtable" 841 0 "kernHorizontalKerninglookup0 subtable" 838 0 "kernHorizontalKerninglookup0 subtable" 832 0 "kernHorizontalKerninglookup0 subtable" 60 0 "kernHorizontalKerninglookup0 subtable" 36 0 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 36 0 "kernHorizontalKerninglookup0 subtable" 60 0 "kernHorizontalKerninglookup0 subtable" 832 0 "kernHorizontalKerninglookup0 subtable" 838 0 "kernHorizontalKerninglookup0 subtable" 841 0 "kernHorizontalKerninglookup0 subtable" 844 0 "kernHorizontalKerninglookup0 subtable" 851 0 "kernHorizontalKerninglookup0 subtable" 860 0 "kernHorizontalKerninglookup0 subtable" 866 0 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: exclam
@@ -679,7 +679,7 @@ SplineSet
  678.61 205.26 l 1,0,0
  1008.21 205.26 l 1,0,0
 EndSplineSet
-Kerns2: 20 -152 "'kern' Kerning Horizontal lookup 0 subtable" 20 -152 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 20 -152 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: two
@@ -1250,7 +1250,7 @@ SplineSet
  873.12 1118.5 873.12 1118.5 868.125 1157.505 c 0,0,0
  863.13 1196.51 863.13 1196.51 860.82 1216.09 c 1,0,0
 EndSplineSet
-Kerns2: 3 -25 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 2129 -113 "kernHorizontalKerninglookup0 subtable" 92 0 "kernHorizontalKerninglookup0 subtable" 90 0 "kernHorizontalKerninglookup0 subtable" 89 0 "kernHorizontalKerninglookup0 subtable" 60 -152 "kernHorizontalKerninglookup0 subtable" 58 -113 "kernHorizontalKerninglookup0 subtable" 57 -152 "kernHorizontalKerninglookup0 subtable" 55 -152 "kernHorizontalKerninglookup0 subtable" 3 0 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 3 -25 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 3 0 "kernHorizontalKerninglookup0 subtable" 55 -152 "kernHorizontalKerninglookup0 subtable" 57 -152 "kernHorizontalKerninglookup0 subtable" 58 -113 "kernHorizontalKerninglookup0 subtable" 60 -152 "kernHorizontalKerninglookup0 subtable" 89 0 "kernHorizontalKerninglookup0 subtable" 90 0 "kernHorizontalKerninglookup0 subtable" 92 0 "kernHorizontalKerninglookup0 subtable" 2129 -113 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: B
@@ -1398,7 +1398,7 @@ SplineSet
  1119.13 534.82 l 1,0,0
  408.89 534.82 l 1,0,0
 EndSplineSet
-Kerns2: 36 -125 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 17 -239 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 15 -239 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 3 -12 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 36 -113 "kernHorizontalKerninglookup0 subtable" 17 -227 "kernHorizontalKerninglookup0 subtable" 15 -227 "kernHorizontalKerninglookup0 subtable" 3 0 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 3 -12 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 3 0 "kernHorizontalKerninglookup0 subtable" 15 -239 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 15 -227 "kernHorizontalKerninglookup0 subtable" 17 -239 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 17 -227 "kernHorizontalKerninglookup0 subtable" 36 -125 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 36 -113 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: G
@@ -1543,7 +1543,7 @@ SplineSet
  344.97 204.24 l 1,0,0
  1086.45 204.24 l 1,0,0
 EndSplineSet
-Kerns2: 3 -12 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 2129 -152 "kernHorizontalKerninglookup0 subtable" 92 0 "kernHorizontalKerninglookup0 subtable" 60 -152 "kernHorizontalKerninglookup0 subtable" 58 -113 "kernHorizontalKerninglookup0 subtable" 57 -113 "kernHorizontalKerninglookup0 subtable" 55 -152 "kernHorizontalKerninglookup0 subtable" 3 0 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 3 -12 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 3 0 "kernHorizontalKerninglookup0 subtable" 55 -152 "kernHorizontalKerninglookup0 subtable" 57 -113 "kernHorizontalKerninglookup0 subtable" 58 -113 "kernHorizontalKerninglookup0 subtable" 60 -152 "kernHorizontalKerninglookup0 subtable" 92 0 "kernHorizontalKerninglookup0 subtable" 2129 -152 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: M
@@ -1675,7 +1675,7 @@ SplineSet
  539.54 1205.08 l 1,0,0
  444.27 715.41 l 1,0,0
 EndSplineSet
-Kerns2: 36 -152 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 17 -264 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 15 -264 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 3 -25 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 36 -152 "kernHorizontalKerninglookup0 subtable" 17 -264 "kernHorizontalKerninglookup0 subtable" 15 -264 "kernHorizontalKerninglookup0 subtable" 3 0 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 3 -25 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 3 0 "kernHorizontalKerninglookup0 subtable" 15 -264 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 15 -264 "kernHorizontalKerninglookup0 subtable" 17 -264 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 17 -264 "kernHorizontalKerninglookup0 subtable" 36 -152 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 36 -152 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: Q
@@ -1753,7 +1753,7 @@ SplineSet
  451.94 754.76 l 1,0,0
  867.05 754.76 l 2,0,0
 EndSplineSet
-Kerns2: 60 -37 "kernHorizontalKerninglookup0 subtable" 58 -37 "kernHorizontalKerninglookup0 subtable" 57 0 "kernHorizontalKerninglookup0 subtable" 55 -37 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 55 -37 "kernHorizontalKerninglookup0 subtable" 57 0 "kernHorizontalKerninglookup0 subtable" 58 -37 "kernHorizontalKerninglookup0 subtable" 60 -37 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: S
@@ -1820,7 +1820,7 @@ SplineSet
  1348.03 1204.76 l 1,0,0
  882.79 1204.76 l 1,0,0
 EndSplineSet
-Kerns2: 50 -37 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 36 -152 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 30 -152 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 29 -152 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 17 -163 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 16 -137 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 15 -163 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 92 -76 "kernHorizontalKerninglookup0 subtable" 90 -76 "kernHorizontalKerninglookup0 subtable" 88 -37 "kernHorizontalKerninglookup0 subtable" 86 -76 "kernHorizontalKerninglookup0 subtable" 85 -37 "kernHorizontalKerninglookup0 subtable" 82 -76 "kernHorizontalKerninglookup0 subtable" 76 -37 "kernHorizontalKerninglookup0 subtable" 72 -76 "kernHorizontalKerninglookup0 subtable" 70 -76 "kernHorizontalKerninglookup0 subtable" 68 -76 "kernHorizontalKerninglookup0 subtable" 50 -37 "kernHorizontalKerninglookup0 subtable" 36 -152 "kernHorizontalKerninglookup0 subtable" 30 -152 "kernHorizontalKerninglookup0 subtable" 29 -152 "kernHorizontalKerninglookup0 subtable" 17 -152 "kernHorizontalKerninglookup0 subtable" 16 -113 "kernHorizontalKerninglookup0 subtable" 15 -152 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 15 -163 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 15 -152 "kernHorizontalKerninglookup0 subtable" 16 -137 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 16 -113 "kernHorizontalKerninglookup0 subtable" 17 -163 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 17 -152 "kernHorizontalKerninglookup0 subtable" 29 -152 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 29 -152 "kernHorizontalKerninglookup0 subtable" 30 -152 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 30 -152 "kernHorizontalKerninglookup0 subtable" 36 -152 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 36 -152 "kernHorizontalKerninglookup0 subtable" 50 -37 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 50 -37 "kernHorizontalKerninglookup0 subtable" 68 -76 "kernHorizontalKerninglookup0 subtable" 70 -76 "kernHorizontalKerninglookup0 subtable" 72 -76 "kernHorizontalKerninglookup0 subtable" 76 -37 "kernHorizontalKerninglookup0 subtable" 82 -76 "kernHorizontalKerninglookup0 subtable" 85 -37 "kernHorizontalKerninglookup0 subtable" 86 -76 "kernHorizontalKerninglookup0 subtable" 88 -37 "kernHorizontalKerninglookup0 subtable" 90 -76 "kernHorizontalKerninglookup0 subtable" 92 -76 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: U
@@ -1873,7 +1873,7 @@ SplineSet
  1239.28 1409 l 1,0,0
  1514.28 1409 l 1,0,0
 EndSplineSet
-Kerns2: 36 -139 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 30 -63 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 29 -63 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 17 -176 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 16 -76 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 15 -176 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 92 -37 "kernHorizontalKerninglookup0 subtable" 88 -37 "kernHorizontalKerninglookup0 subtable" 85 -37 "kernHorizontalKerninglookup0 subtable" 82 -76 "kernHorizontalKerninglookup0 subtable" 76 -76 "kernHorizontalKerninglookup0 subtable" 72 -76 "kernHorizontalKerninglookup0 subtable" 68 -76 "kernHorizontalKerninglookup0 subtable" 36 -152 "kernHorizontalKerninglookup0 subtable" 30 -76 "kernHorizontalKerninglookup0 subtable" 29 -76 "kernHorizontalKerninglookup0 subtable" 17 -188 "kernHorizontalKerninglookup0 subtable" 16 -76 "kernHorizontalKerninglookup0 subtable" 15 -188 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 15 -176 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 15 -188 "kernHorizontalKerninglookup0 subtable" 16 -76 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 16 -76 "kernHorizontalKerninglookup0 subtable" 17 -176 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 17 -188 "kernHorizontalKerninglookup0 subtable" 29 -63 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 29 -76 "kernHorizontalKerninglookup0 subtable" 30 -63 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 30 -76 "kernHorizontalKerninglookup0 subtable" 36 -139 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 36 -152 "kernHorizontalKerninglookup0 subtable" 68 -76 "kernHorizontalKerninglookup0 subtable" 72 -76 "kernHorizontalKerninglookup0 subtable" 76 -76 "kernHorizontalKerninglookup0 subtable" 82 -76 "kernHorizontalKerninglookup0 subtable" 85 -37 "kernHorizontalKerninglookup0 subtable" 88 -37 "kernHorizontalKerninglookup0 subtable" 92 -37 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: W
@@ -1911,7 +1911,7 @@ SplineSet
  1038.57 1063.39 1038.57 1063.39 1012.275 996.795 c 0,0,0
  985.98 930.2 985.98 930.2 965.69 882.94 c 2,0,0
 EndSplineSet
-Kerns2: 36 -87 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 17 -126 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 16 -63 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 15 -126 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 76 -18 "kernHorizontalKerninglookup0 subtable" 72 -37 "kernHorizontalKerninglookup0 subtable" 68 -37 "kernHorizontalKerninglookup0 subtable" 36 -113 "kernHorizontalKerninglookup0 subtable" 17 -152 "kernHorizontalKerninglookup0 subtable" 16 -76 "kernHorizontalKerninglookup0 subtable" 15 -152 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 15 -126 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 15 -152 "kernHorizontalKerninglookup0 subtable" 16 -63 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 16 -76 "kernHorizontalKerninglookup0 subtable" 17 -126 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 17 -152 "kernHorizontalKerninglookup0 subtable" 36 -87 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 36 -113 "kernHorizontalKerninglookup0 subtable" 68 -37 "kernHorizontalKerninglookup0 subtable" 72 -37 "kernHorizontalKerninglookup0 subtable" 76 -18 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: X
@@ -1957,7 +1957,7 @@ SplineSet
  1509.77 1409 l 1,0,0
  819.17 579.98 l 1,0,0
 EndSplineSet
-Kerns2: 36 -139 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 30 -100 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 29 -100 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 17 -188 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 16 -152 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 15 -188 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 3 -12 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 89 -76 "kernHorizontalKerninglookup0 subtable" 88 -76 "kernHorizontalKerninglookup0 subtable" 84 -76 "kernHorizontalKerninglookup0 subtable" 83 -76 "kernHorizontalKerninglookup0 subtable" 82 -76 "kernHorizontalKerninglookup0 subtable" 76 -76 "kernHorizontalKerninglookup0 subtable" 72 -76 "kernHorizontalKerninglookup0 subtable" 68 -76 "kernHorizontalKerninglookup0 subtable" 36 -152 "kernHorizontalKerninglookup0 subtable" 30 -113 "kernHorizontalKerninglookup0 subtable" 29 -113 "kernHorizontalKerninglookup0 subtable" 17 -188 "kernHorizontalKerninglookup0 subtable" 16 -152 "kernHorizontalKerninglookup0 subtable" 15 -188 "kernHorizontalKerninglookup0 subtable" 3 0 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 3 -12 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 3 0 "kernHorizontalKerninglookup0 subtable" 15 -188 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 15 -188 "kernHorizontalKerninglookup0 subtable" 16 -152 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 16 -152 "kernHorizontalKerninglookup0 subtable" 17 -188 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 17 -188 "kernHorizontalKerninglookup0 subtable" 29 -100 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 29 -113 "kernHorizontalKerninglookup0 subtable" 30 -100 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 30 -113 "kernHorizontalKerninglookup0 subtable" 36 -139 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 36 -152 "kernHorizontalKerninglookup0 subtable" 68 -76 "kernHorizontalKerninglookup0 subtable" 72 -76 "kernHorizontalKerninglookup0 subtable" 76 -76 "kernHorizontalKerninglookup0 subtable" 82 -76 "kernHorizontalKerninglookup0 subtable" 83 -76 "kernHorizontalKerninglookup0 subtable" 84 -76 "kernHorizontalKerninglookup0 subtable" 88 -76 "kernHorizontalKerninglookup0 subtable" 89 -76 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: Z
@@ -2791,7 +2791,7 @@ SplineSet
  788.44 1102 788.44 1102 844.13 1088 c 1,0,0
  802.42 881.05 l 1,0,0
 EndSplineSet
-Kerns2: 17 -100 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 16 -12 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 15 -113 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 2129 76 "kernHorizontalKerninglookup0 subtable" 17 -113 "kernHorizontalKerninglookup0 subtable" 16 0 "kernHorizontalKerninglookup0 subtable" 15 -113 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 15 -113 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 15 -113 "kernHorizontalKerninglookup0 subtable" 16 -12 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 16 0 "kernHorizontalKerninglookup0 subtable" 17 -100 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 17 -113 "kernHorizontalKerninglookup0 subtable" 2129 76 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: s
@@ -2927,7 +2927,7 @@ SplineSet
  928.68 1082 l 1,0,0
  1195.7 1082 l 1,0,0
 EndSplineSet
-Kerns2: 17 -125 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 15 -125 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 17 -113 "kernHorizontalKerninglookup0 subtable" 15 -113 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 15 -125 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 15 -113 "kernHorizontalKerninglookup0 subtable" 17 -125 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 17 -113 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: w
@@ -2964,7 +2964,7 @@ SplineSet
  824.45 844.74 824.45 844.74 803.915 794.99 c 0,0,0
  783.38 745.24 783.38 745.24 765.35 705.85 c 2,0,0
 EndSplineSet
-Kerns2: 17 -88 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 15 -88 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 17 -76 "kernHorizontalKerninglookup0 subtable" 15 -76 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 15 -88 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 15 -76 "kernHorizontalKerninglookup0 subtable" 17 -88 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 17 -76 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: x
@@ -3023,7 +3023,7 @@ SplineSet
  304.91 -356.04 304.91 -356.04 230.91 -390.52 c 0,0,0
  156.91 -425 156.91 -425 64.24 -425 c 0,0,0
 EndSplineSet
-Kerns2: 17 -101 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 15 -101 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 17 -76 "kernHorizontalKerninglookup0 subtable" 15 -76 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 15 -101 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 15 -76 "kernHorizontalKerninglookup0 subtable" 17 -101 "'kern' Kerning Horizontal in Latin lookup 0 subtable" 17 -76 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: z
@@ -20461,7 +20461,7 @@ LayerCount: 2
 Fore
 Refer: 36 65 N 1 0 0 1 0 0 0
 Refer: 830 900 N 1 0 0 1 -32.05 -109.55 0
-Kerns2: 3 -25 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 894 -59 "kernHorizontalKerninglookup0 subtable" 884 -59 "kernHorizontalKerninglookup0 subtable" 874 -59 "kernHorizontalKerninglookup0 subtable" 866 -252 "kernHorizontalKerninglookup0 subtable" 861 -117 "kernHorizontalKerninglookup0 subtable" 860 -252 "kernHorizontalKerninglookup0 subtable" 859 -188 "kernHorizontalKerninglookup0 subtable" 855 -117 "kernHorizontalKerninglookup0 subtable" 848 -117 "kernHorizontalKerninglookup0 subtable" 3 0 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 3 -25 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 3 0 "kernHorizontalKerninglookup0 subtable" 848 -117 "kernHorizontalKerninglookup0 subtable" 855 -117 "kernHorizontalKerninglookup0 subtable" 859 -188 "kernHorizontalKerninglookup0 subtable" 860 -252 "kernHorizontalKerninglookup0 subtable" 861 -117 "kernHorizontalKerninglookup0 subtable" 866 -252 "kernHorizontalKerninglookup0 subtable" 874 -59 "kernHorizontalKerninglookup0 subtable" 884 -59 "kernHorizontalKerninglookup0 subtable" 894 -59 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: anoteleia
@@ -20522,7 +20522,7 @@ LayerCount: 2
 Fore
 Refer: 50 79 N 1 0 0 1 102.01 0 0
 Refer: 830 900 N 1 0 0 1 -144.18 -109.55 0
-Kerns2: 866 -82 "kernHorizontalKerninglookup0 subtable" 860 -82 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 860 -82 "kernHorizontalKerninglookup0 subtable" 866 -82 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: Upsilontonos
@@ -20534,7 +20534,7 @@ LayerCount: 2
 Fore
 Refer: 60 89 N 1 0 0 1 495.11 0 0
 Refer: 830 900 N 1 0 0 1 18.6 -109.55 0
-Kerns2: 899 -76 "kernHorizontalKerninglookup0 subtable" 897 131 "kernHorizontalKerninglookup0 subtable" 893 -76 "kernHorizontalKerninglookup0 subtable" 890 -76 "kernHorizontalKerninglookup0 subtable" 886 -76 "kernHorizontalKerninglookup0 subtable" 883 -76 "kernHorizontalKerninglookup0 subtable" 881 -76 "kernHorizontalKerninglookup0 subtable" 880 -76 "kernHorizontalKerninglookup0 subtable" 878 -76 "kernHorizontalKerninglookup0 subtable" 875 -76 "kernHorizontalKerninglookup0 subtable" 872 -76 "kernHorizontalKerninglookup0 subtable" 870 -76 "kernHorizontalKerninglookup0 subtable" 869 -76 "kernHorizontalKerninglookup0 subtable" 867 -76 "kernHorizontalKerninglookup0 subtable" 851 -113 "kernHorizontalKerninglookup0 subtable" 844 -135 "kernHorizontalKerninglookup0 subtable" 841 -182 "kernHorizontalKerninglookup0 subtable" 840 266 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 840 266 "kernHorizontalKerninglookup0 subtable" 841 -182 "kernHorizontalKerninglookup0 subtable" 844 -135 "kernHorizontalKerninglookup0 subtable" 851 -113 "kernHorizontalKerninglookup0 subtable" 867 -76 "kernHorizontalKerninglookup0 subtable" 869 -76 "kernHorizontalKerninglookup0 subtable" 870 -76 "kernHorizontalKerninglookup0 subtable" 872 -76 "kernHorizontalKerninglookup0 subtable" 875 -76 "kernHorizontalKerninglookup0 subtable" 878 -76 "kernHorizontalKerninglookup0 subtable" 880 -76 "kernHorizontalKerninglookup0 subtable" 881 -76 "kernHorizontalKerninglookup0 subtable" 883 -76 "kernHorizontalKerninglookup0 subtable" 886 -76 "kernHorizontalKerninglookup0 subtable" 890 -76 "kernHorizontalKerninglookup0 subtable" 893 -76 "kernHorizontalKerninglookup0 subtable" 897 131 "kernHorizontalKerninglookup0 subtable" 899 -76 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: Omegatonos
@@ -20546,7 +20546,7 @@ LayerCount: 2
 Fore
 Refer: 864 937 N 1 0 0 1 43.74 0 0
 Refer: 830 900 N 1 0 0 1 -233.33 -109.55 0
-Kerns2: 866 0 "kernHorizontalKerninglookup0 subtable" 860 0 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 860 0 "kernHorizontalKerninglookup0 subtable" 866 0 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: iotadieresistonos
@@ -20568,7 +20568,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 36 65 N 1 0 0 1 0 0 0
-Kerns2: 3 -25 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 2129 -113 "kernHorizontalKerninglookup0 subtable" 894 -59 "kernHorizontalKerninglookup0 subtable" 884 -59 "kernHorizontalKerninglookup0 subtable" 874 -59 "kernHorizontalKerninglookup0 subtable" 866 -252 "kernHorizontalKerninglookup0 subtable" 861 -117 "kernHorizontalKerninglookup0 subtable" 860 -252 "kernHorizontalKerninglookup0 subtable" 859 -188 "kernHorizontalKerninglookup0 subtable" 855 -117 "kernHorizontalKerninglookup0 subtable" 848 -117 "kernHorizontalKerninglookup0 subtable" 3 0 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 3 -25 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 3 0 "kernHorizontalKerninglookup0 subtable" 848 -117 "kernHorizontalKerninglookup0 subtable" 855 -117 "kernHorizontalKerninglookup0 subtable" 859 -188 "kernHorizontalKerninglookup0 subtable" 860 -252 "kernHorizontalKerninglookup0 subtable" 861 -117 "kernHorizontalKerninglookup0 subtable" 866 -252 "kernHorizontalKerninglookup0 subtable" 874 -59 "kernHorizontalKerninglookup0 subtable" 884 -59 "kernHorizontalKerninglookup0 subtable" 894 -59 "kernHorizontalKerninglookup0 subtable" 2129 -113 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: Beta
@@ -20597,7 +20597,7 @@ SplineSet
  1261.25 1205.09 l 1,0,0
  539.54 1205.09 l 1,0,0
 EndSplineSet
-Kerns2: 841 -183 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 840 247 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 17 -237 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 15 -237 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 897 131 "kernHorizontalKerninglookup0 subtable" 880 -37 "kernHorizontalKerninglookup0 subtable" 851 -178 "kernHorizontalKerninglookup0 subtable" 844 -178 "kernHorizontalKerninglookup0 subtable" 841 -178 "kernHorizontalKerninglookup0 subtable" 840 266 "kernHorizontalKerninglookup0 subtable" 17 -225 "kernHorizontalKerninglookup0 subtable" 15 -225 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 15 -237 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 15 -225 "kernHorizontalKerninglookup0 subtable" 17 -237 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 17 -225 "kernHorizontalKerninglookup0 subtable" 840 247 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 840 266 "kernHorizontalKerninglookup0 subtable" 841 -183 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 841 -178 "kernHorizontalKerninglookup0 subtable" 844 -178 "kernHorizontalKerninglookup0 subtable" 851 -178 "kernHorizontalKerninglookup0 subtable" 880 -37 "kernHorizontalKerninglookup0 subtable" 897 131 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: uni0394
@@ -20624,7 +20624,7 @@ SplineSet
  746.73 1047.24 746.73 1047.24 713.04 987.86 c 2,0,0
  266.67 214.96 l 1,0,0
 EndSplineSet
-Kerns2: 3 -25 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 866 -252 "kernHorizontalKerninglookup0 subtable" 860 -252 "kernHorizontalKerninglookup0 subtable" 859 -188 "kernHorizontalKerninglookup0 subtable" 855 -43 "kernHorizontalKerninglookup0 subtable" 848 -43 "kernHorizontalKerninglookup0 subtable" 3 0 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 3 -25 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 3 0 "kernHorizontalKerninglookup0 subtable" 848 -43 "kernHorizontalKerninglookup0 subtable" 855 -43 "kernHorizontalKerninglookup0 subtable" 859 -188 "kernHorizontalKerninglookup0 subtable" 860 -252 "kernHorizontalKerninglookup0 subtable" 866 -252 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: Epsilon
@@ -20697,7 +20697,7 @@ SplineSet
  551.05 816.11 l 1,0,0
  1138.05 816.11 l 1,0,0
 EndSplineSet
-Kerns2: 844 -7 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 841 -45 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 866 -82 "kernHorizontalKerninglookup0 subtable" 860 -82 "kernHorizontalKerninglookup0 subtable" 851 0 "kernHorizontalKerninglookup0 subtable" 844 0 "kernHorizontalKerninglookup0 subtable" 841 -57 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 841 -45 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 841 -57 "kernHorizontalKerninglookup0 subtable" 844 -7 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 844 0 "kernHorizontalKerninglookup0 subtable" 851 0 "kernHorizontalKerninglookup0 subtable" 860 -82 "kernHorizontalKerninglookup0 subtable" 866 -82 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: Iota
@@ -20718,7 +20718,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 46 75 N 1 0 0 1 0 0 0
-Kerns2: 848 -130 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 901 -39 "kernHorizontalKerninglookup0 subtable" 899 -39 "kernHorizontalKerninglookup0 subtable" 896 -39 "kernHorizontalKerninglookup0 subtable" 893 -39 "kernHorizontalKerninglookup0 subtable" 890 -39 "kernHorizontalKerninglookup0 subtable" 886 -39 "kernHorizontalKerninglookup0 subtable" 885 -39 "kernHorizontalKerninglookup0 subtable" 879 -39 "kernHorizontalKerninglookup0 subtable" 877 -39 "kernHorizontalKerninglookup0 subtable" 875 -39 "kernHorizontalKerninglookup0 subtable" 872 -39 "kernHorizontalKerninglookup0 subtable" 867 -39 "kernHorizontalKerninglookup0 subtable" 861 -147 "kernHorizontalKerninglookup0 subtable" 855 -147 "kernHorizontalKerninglookup0 subtable" 848 -147 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 848 -130 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 848 -147 "kernHorizontalKerninglookup0 subtable" 855 -147 "kernHorizontalKerninglookup0 subtable" 861 -147 "kernHorizontalKerninglookup0 subtable" 867 -39 "kernHorizontalKerninglookup0 subtable" 872 -39 "kernHorizontalKerninglookup0 subtable" 875 -39 "kernHorizontalKerninglookup0 subtable" 877 -39 "kernHorizontalKerninglookup0 subtable" 879 -39 "kernHorizontalKerninglookup0 subtable" 885 -39 "kernHorizontalKerninglookup0 subtable" 886 -39 "kernHorizontalKerninglookup0 subtable" 890 -39 "kernHorizontalKerninglookup0 subtable" 893 -39 "kernHorizontalKerninglookup0 subtable" 896 -39 "kernHorizontalKerninglookup0 subtable" 899 -39 "kernHorizontalKerninglookup0 subtable" 901 -39 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: Lambda
@@ -20742,7 +20742,7 @@ SplineSet
  785.62 1114.37 785.62 1114.37 753.625 1049.525 c 0,0,0
  721.63 984.68 721.63 984.68 688.97 921.31 c 2,0,0
 EndSplineSet
-Kerns2: 848 -63 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 3 -12 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 866 -252 "kernHorizontalKerninglookup0 subtable" 860 -252 "kernHorizontalKerninglookup0 subtable" 859 -188 "kernHorizontalKerninglookup0 subtable" 855 -43 "kernHorizontalKerninglookup0 subtable" 848 -43 "kernHorizontalKerninglookup0 subtable" 3 0 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 3 -12 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 3 0 "kernHorizontalKerninglookup0 subtable" 848 -63 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 848 -43 "kernHorizontalKerninglookup0 subtable" 855 -43 "kernHorizontalKerninglookup0 subtable" 859 -188 "kernHorizontalKerninglookup0 subtable" 860 -252 "kernHorizontalKerninglookup0 subtable" 866 -252 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: Mu
@@ -20799,7 +20799,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 50 79 N 1 0 0 1 0 0 0
-Kerns2: 851 -7 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 844 -7 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 841 -45 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 832 -7 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 866 -82 "kernHorizontalKerninglookup0 subtable" 860 -82 "kernHorizontalKerninglookup0 subtable" 851 0 "kernHorizontalKerninglookup0 subtable" 844 0 "kernHorizontalKerninglookup0 subtable" 841 -57 "kernHorizontalKerninglookup0 subtable" 832 0 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 832 -7 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 832 0 "kernHorizontalKerninglookup0 subtable" 841 -45 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 841 -57 "kernHorizontalKerninglookup0 subtable" 844 -7 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 844 0 "kernHorizontalKerninglookup0 subtable" 851 -7 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 851 0 "kernHorizontalKerninglookup0 subtable" 860 -82 "kernHorizontalKerninglookup0 subtable" 866 -82 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: Pi
@@ -20830,7 +20830,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 51 80 N 1 0 0 1 0 0 0
-Kerns2: 851 -152 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 844 -152 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 841 -152 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 17 -262 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 15 -262 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 851 -152 "kernHorizontalKerninglookup0 subtable" 844 -152 "kernHorizontalKerninglookup0 subtable" 841 -152 "kernHorizontalKerninglookup0 subtable" 17 -262 "kernHorizontalKerninglookup0 subtable" 15 -262 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 15 -262 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 15 -262 "kernHorizontalKerninglookup0 subtable" 17 -262 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 17 -262 "kernHorizontalKerninglookup0 subtable" 841 -152 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 841 -152 "kernHorizontalKerninglookup0 subtable" 844 -152 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 844 -152 "kernHorizontalKerninglookup0 subtable" 851 -152 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 851 -152 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: Sigma
@@ -20867,7 +20867,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 55 84 N 1 0 0 1 0 0 0
-Kerns2: 855 -37 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 851 -111 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 848 -37 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 844 -111 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 841 -152 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 840 258 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 30 -152 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 29 -152 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 17 -163 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 16 -137 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 15 -163 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 900 -37 "kernHorizontalKerninglookup0 subtable" 899 -76 "kernHorizontalKerninglookup0 subtable" 898 -37 "kernHorizontalKerninglookup0 subtable" 897 131 "kernHorizontalKerninglookup0 subtable" 895 -55 "kernHorizontalKerninglookup0 subtable" 894 -76 "kernHorizontalKerninglookup0 subtable" 893 -76 "kernHorizontalKerninglookup0 subtable" 892 -37 "kernHorizontalKerninglookup0 subtable" 890 -76 "kernHorizontalKerninglookup0 subtable" 886 -76 "kernHorizontalKerninglookup0 subtable" 884 -76 "kernHorizontalKerninglookup0 subtable" 883 -37 "kernHorizontalKerninglookup0 subtable" 880 -37 "kernHorizontalKerninglookup0 subtable" 878 -37 "kernHorizontalKerninglookup0 subtable" 876 -76 "kernHorizontalKerninglookup0 subtable" 875 -76 "kernHorizontalKerninglookup0 subtable" 874 -55 "kernHorizontalKerninglookup0 subtable" 872 -76 "kernHorizontalKerninglookup0 subtable" 871 0 "kernHorizontalKerninglookup0 subtable" 868 -76 "kernHorizontalKerninglookup0 subtable" 867 -76 "kernHorizontalKerninglookup0 subtable" 864 -37 "kernHorizontalKerninglookup0 subtable" 861 -37 "kernHorizontalKerninglookup0 subtable" 855 -37 "kernHorizontalKerninglookup0 subtable" 851 -92 "kernHorizontalKerninglookup0 subtable" 848 -37 "kernHorizontalKerninglookup0 subtable" 844 -92 "kernHorizontalKerninglookup0 subtable" 841 -152 "kernHorizontalKerninglookup0 subtable" 840 281 "kernHorizontalKerninglookup0 subtable" 30 -152 "kernHorizontalKerninglookup0 subtable" 29 -152 "kernHorizontalKerninglookup0 subtable" 17 -152 "kernHorizontalKerninglookup0 subtable" 16 -113 "kernHorizontalKerninglookup0 subtable" 15 -152 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 15 -163 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 15 -152 "kernHorizontalKerninglookup0 subtable" 16 -137 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 16 -113 "kernHorizontalKerninglookup0 subtable" 17 -163 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 17 -152 "kernHorizontalKerninglookup0 subtable" 29 -152 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 29 -152 "kernHorizontalKerninglookup0 subtable" 30 -152 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 30 -152 "kernHorizontalKerninglookup0 subtable" 840 258 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 840 281 "kernHorizontalKerninglookup0 subtable" 841 -152 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 841 -152 "kernHorizontalKerninglookup0 subtable" 844 -111 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 844 -92 "kernHorizontalKerninglookup0 subtable" 848 -37 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 848 -37 "kernHorizontalKerninglookup0 subtable" 851 -111 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 851 -92 "kernHorizontalKerninglookup0 subtable" 855 -37 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 855 -37 "kernHorizontalKerninglookup0 subtable" 861 -37 "kernHorizontalKerninglookup0 subtable" 864 -37 "kernHorizontalKerninglookup0 subtable" 867 -76 "kernHorizontalKerninglookup0 subtable" 868 -76 "kernHorizontalKerninglookup0 subtable" 871 0 "kernHorizontalKerninglookup0 subtable" 872 -76 "kernHorizontalKerninglookup0 subtable" 874 -55 "kernHorizontalKerninglookup0 subtable" 875 -76 "kernHorizontalKerninglookup0 subtable" 876 -76 "kernHorizontalKerninglookup0 subtable" 878 -37 "kernHorizontalKerninglookup0 subtable" 880 -37 "kernHorizontalKerninglookup0 subtable" 883 -37 "kernHorizontalKerninglookup0 subtable" 884 -76 "kernHorizontalKerninglookup0 subtable" 886 -76 "kernHorizontalKerninglookup0 subtable" 890 -76 "kernHorizontalKerninglookup0 subtable" 892 -37 "kernHorizontalKerninglookup0 subtable" 893 -76 "kernHorizontalKerninglookup0 subtable" 894 -76 "kernHorizontalKerninglookup0 subtable" 895 -55 "kernHorizontalKerninglookup0 subtable" 897 131 "kernHorizontalKerninglookup0 subtable" 898 -37 "kernHorizontalKerninglookup0 subtable" 899 -76 "kernHorizontalKerninglookup0 subtable" 900 -37 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: Upsilon
@@ -20878,7 +20878,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 60 89 N 1 0 0 1 0 0 0
-Kerns2: 851 -125 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 844 -140 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 841 -172 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 840 248 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 30 -100 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 29 -100 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 17 -186 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 16 -152 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 15 -186 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 899 -76 "kernHorizontalKerninglookup0 subtable" 897 131 "kernHorizontalKerninglookup0 subtable" 893 -76 "kernHorizontalKerninglookup0 subtable" 890 -76 "kernHorizontalKerninglookup0 subtable" 886 -76 "kernHorizontalKerninglookup0 subtable" 883 -76 "kernHorizontalKerninglookup0 subtable" 881 -76 "kernHorizontalKerninglookup0 subtable" 880 -76 "kernHorizontalKerninglookup0 subtable" 878 -76 "kernHorizontalKerninglookup0 subtable" 875 -76 "kernHorizontalKerninglookup0 subtable" 874 -43 "kernHorizontalKerninglookup0 subtable" 872 -76 "kernHorizontalKerninglookup0 subtable" 870 -76 "kernHorizontalKerninglookup0 subtable" 869 -76 "kernHorizontalKerninglookup0 subtable" 867 -76 "kernHorizontalKerninglookup0 subtable" 851 -113 "kernHorizontalKerninglookup0 subtable" 844 -135 "kernHorizontalKerninglookup0 subtable" 841 -182 "kernHorizontalKerninglookup0 subtable" 840 266 "kernHorizontalKerninglookup0 subtable" 30 -113 "kernHorizontalKerninglookup0 subtable" 29 -113 "kernHorizontalKerninglookup0 subtable" 17 -186 "kernHorizontalKerninglookup0 subtable" 16 -152 "kernHorizontalKerninglookup0 subtable" 15 -186 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 15 -186 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 15 -186 "kernHorizontalKerninglookup0 subtable" 16 -152 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 16 -152 "kernHorizontalKerninglookup0 subtable" 17 -186 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 17 -186 "kernHorizontalKerninglookup0 subtable" 29 -100 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 29 -113 "kernHorizontalKerninglookup0 subtable" 30 -100 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 30 -113 "kernHorizontalKerninglookup0 subtable" 840 248 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 840 266 "kernHorizontalKerninglookup0 subtable" 841 -172 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 841 -182 "kernHorizontalKerninglookup0 subtable" 844 -140 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 844 -135 "kernHorizontalKerninglookup0 subtable" 851 -125 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 851 -113 "kernHorizontalKerninglookup0 subtable" 867 -76 "kernHorizontalKerninglookup0 subtable" 869 -76 "kernHorizontalKerninglookup0 subtable" 870 -76 "kernHorizontalKerninglookup0 subtable" 872 -76 "kernHorizontalKerninglookup0 subtable" 874 -43 "kernHorizontalKerninglookup0 subtable" 875 -76 "kernHorizontalKerninglookup0 subtable" 878 -76 "kernHorizontalKerninglookup0 subtable" 880 -76 "kernHorizontalKerninglookup0 subtable" 881 -76 "kernHorizontalKerninglookup0 subtable" 883 -76 "kernHorizontalKerninglookup0 subtable" 886 -76 "kernHorizontalKerninglookup0 subtable" 890 -76 "kernHorizontalKerninglookup0 subtable" 893 -76 "kernHorizontalKerninglookup0 subtable" 897 131 "kernHorizontalKerninglookup0 subtable" 899 -76 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: Phi
@@ -20929,7 +20929,7 @@ SplineSet
  364.89 538.35 364.89 538.35 433.46 461.24 c 0,0,0
  502.03 384.13 502.03 384.13 620.54 384.13 c 2,0,0
 EndSplineSet
-Kerns2: 860 -111 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 841 -64 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 866 -111 "kernHorizontalKerninglookup0 subtable" 860 -111 "kernHorizontalKerninglookup0 subtable" 841 -57 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 841 -64 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 841 -57 "kernHorizontalKerninglookup0 subtable" 860 -111 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 860 -111 "kernHorizontalKerninglookup0 subtable" 866 -111 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: Chi
@@ -20940,7 +20940,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 59 88 N 1 0 0 1 0 0 0
-Kerns2: 901 -70 "kernHorizontalKerninglookup0 subtable" 896 -70 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 896 -70 "kernHorizontalKerninglookup0 subtable" 901 -70 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: Psi
@@ -20980,7 +20980,7 @@ SplineSet
  869.49 0 l 1,0,0
  621.51 0 l 1,0,0
 EndSplineSet
-Kerns2: 901 -41 "kernHorizontalKerninglookup0 subtable" 899 -41 "kernHorizontalKerninglookup0 subtable" 896 -41 "kernHorizontalKerninglookup0 subtable" 893 -41 "kernHorizontalKerninglookup0 subtable" 890 -41 "kernHorizontalKerninglookup0 subtable" 886 -41 "kernHorizontalKerninglookup0 subtable" 875 -57 "kernHorizontalKerninglookup0 subtable" 872 -41 "kernHorizontalKerninglookup0 subtable" 867 -41 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 867 -41 "kernHorizontalKerninglookup0 subtable" 872 -41 "kernHorizontalKerninglookup0 subtable" 875 -57 "kernHorizontalKerninglookup0 subtable" 886 -41 "kernHorizontalKerninglookup0 subtable" 890 -41 "kernHorizontalKerninglookup0 subtable" 893 -41 "kernHorizontalKerninglookup0 subtable" 896 -41 "kernHorizontalKerninglookup0 subtable" 899 -41 "kernHorizontalKerninglookup0 subtable" 901 -41 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: uni03A9
@@ -21030,7 +21030,7 @@ SplineSet
  422.38 1310.96 422.38 1310.96 572.46 1370.48 c 0,0,0
  722.54 1430 722.54 1430 902.4 1430 c 0,0,0
 EndSplineSet
-Kerns2: 860 -91 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 866 -82 "kernHorizontalKerninglookup0 subtable" 860 -82 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 860 -91 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 860 -82 "kernHorizontalKerninglookup0 subtable" 866 -82 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: Iotadieresis
@@ -21053,7 +21053,7 @@ LayerCount: 2
 Fore
 Refer: 60 89 N 1 0 0 1 -19.43 0 0
 Refer: 3019 -1 N 1 0 0 1 314.64 0 0
-Kerns2: 851 -125 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 844 -140 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 841 -172 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 840 248 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 899 -76 "kernHorizontalKerninglookup0 subtable" 897 131 "kernHorizontalKerninglookup0 subtable" 893 -76 "kernHorizontalKerninglookup0 subtable" 890 -76 "kernHorizontalKerninglookup0 subtable" 886 -76 "kernHorizontalKerninglookup0 subtable" 883 -76 "kernHorizontalKerninglookup0 subtable" 881 -76 "kernHorizontalKerninglookup0 subtable" 880 -76 "kernHorizontalKerninglookup0 subtable" 878 -76 "kernHorizontalKerninglookup0 subtable" 875 -76 "kernHorizontalKerninglookup0 subtable" 872 -76 "kernHorizontalKerninglookup0 subtable" 869 -76 "kernHorizontalKerninglookup0 subtable" 867 -76 "kernHorizontalKerninglookup0 subtable" 851 -113 "kernHorizontalKerninglookup0 subtable" 844 -135 "kernHorizontalKerninglookup0 subtable" 841 -182 "kernHorizontalKerninglookup0 subtable" 840 266 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 840 248 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 840 266 "kernHorizontalKerninglookup0 subtable" 841 -172 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 841 -182 "kernHorizontalKerninglookup0 subtable" 844 -140 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 844 -135 "kernHorizontalKerninglookup0 subtable" 851 -125 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 851 -113 "kernHorizontalKerninglookup0 subtable" 867 -76 "kernHorizontalKerninglookup0 subtable" 869 -76 "kernHorizontalKerninglookup0 subtable" 872 -76 "kernHorizontalKerninglookup0 subtable" 875 -76 "kernHorizontalKerninglookup0 subtable" 878 -76 "kernHorizontalKerninglookup0 subtable" 880 -76 "kernHorizontalKerninglookup0 subtable" 881 -76 "kernHorizontalKerninglookup0 subtable" 883 -76 "kernHorizontalKerninglookup0 subtable" 886 -76 "kernHorizontalKerninglookup0 subtable" 890 -76 "kernHorizontalKerninglookup0 subtable" 893 -76 "kernHorizontalKerninglookup0 subtable" 897 131 "kernHorizontalKerninglookup0 subtable" 899 -76 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: alphatonos
@@ -21274,7 +21274,7 @@ SplineSet
  316.29 296.52 316.29 296.52 377.085 226.2 c 0,0,0
  437.88 155.88 437.88 155.88 541.82 155.88 c 0,0,0
 EndSplineSet
-Kerns2: 874 -37 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 894 -57 "kernHorizontalKerninglookup0 subtable" 891 0 "kernHorizontalKerninglookup0 subtable" 887 -35 "kernHorizontalKerninglookup0 subtable" 874 -37 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 874 -37 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 874 -37 "kernHorizontalKerninglookup0 subtable" 887 -35 "kernHorizontalKerninglookup0 subtable" 891 0 "kernHorizontalKerninglookup0 subtable" 894 -57 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: epsilon
@@ -21361,7 +21361,7 @@ SplineSet
  818.62 -17.27 818.62 -17.27 818.62 -65.57 c 0,0,0
  818.62 -137.72 818.62 -137.72 787.87 -209.2 c 0,0,0
 EndSplineSet
-Kerns2: 876 -41 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 875 -69 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 874 -57 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 872 -181 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 869 -90 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 868 -41 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 867 -181 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 901 -221 "kernHorizontalKerninglookup0 subtable" 900 0 "kernHorizontalKerninglookup0 subtable" 899 -221 "kernHorizontalKerninglookup0 subtable" 897 0 "kernHorizontalKerninglookup0 subtable" 896 -221 "kernHorizontalKerninglookup0 subtable" 893 -221 "kernHorizontalKerninglookup0 subtable" 892 0 "kernHorizontalKerninglookup0 subtable" 891 -57 "kernHorizontalKerninglookup0 subtable" 890 -221 "kernHorizontalKerninglookup0 subtable" 887 -57 "kernHorizontalKerninglookup0 subtable" 886 -221 "kernHorizontalKerninglookup0 subtable" 884 -57 "kernHorizontalKerninglookup0 subtable" 880 -78 "kernHorizontalKerninglookup0 subtable" 879 -43 "kernHorizontalKerninglookup0 subtable" 878 -78 "kernHorizontalKerninglookup0 subtable" 876 0 "kernHorizontalKerninglookup0 subtable" 875 -74 "kernHorizontalKerninglookup0 subtable" 874 -57 "kernHorizontalKerninglookup0 subtable" 872 -221 "kernHorizontalKerninglookup0 subtable" 869 -78 "kernHorizontalKerninglookup0 subtable" 868 0 "kernHorizontalKerninglookup0 subtable" 867 -221 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 867 -181 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 867 -221 "kernHorizontalKerninglookup0 subtable" 868 -41 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 868 0 "kernHorizontalKerninglookup0 subtable" 869 -90 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 869 -78 "kernHorizontalKerninglookup0 subtable" 872 -181 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 872 -221 "kernHorizontalKerninglookup0 subtable" 874 -57 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 874 -57 "kernHorizontalKerninglookup0 subtable" 875 -69 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 875 -74 "kernHorizontalKerninglookup0 subtable" 876 -41 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 876 0 "kernHorizontalKerninglookup0 subtable" 878 -78 "kernHorizontalKerninglookup0 subtable" 879 -43 "kernHorizontalKerninglookup0 subtable" 880 -78 "kernHorizontalKerninglookup0 subtable" 884 -57 "kernHorizontalKerninglookup0 subtable" 886 -221 "kernHorizontalKerninglookup0 subtable" 887 -57 "kernHorizontalKerninglookup0 subtable" 890 -221 "kernHorizontalKerninglookup0 subtable" 891 -57 "kernHorizontalKerninglookup0 subtable" 892 0 "kernHorizontalKerninglookup0 subtable" 893 -221 "kernHorizontalKerninglookup0 subtable" 896 -221 "kernHorizontalKerninglookup0 subtable" 897 0 "kernHorizontalKerninglookup0 subtable" 899 -221 "kernHorizontalKerninglookup0 subtable" 900 0 "kernHorizontalKerninglookup0 subtable" 901 -221 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: eta
@@ -21486,7 +21486,7 @@ SplineSet
  526.7 459.79 l 1,0,0
  353.34 343.16 l 1,0,0
 EndSplineSet
-Kerns2: 877 -71 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 875 -60 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 872 -60 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 867 -60 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 901 -78 "kernHorizontalKerninglookup0 subtable" 899 -78 "kernHorizontalKerninglookup0 subtable" 896 -78 "kernHorizontalKerninglookup0 subtable" 893 -78 "kernHorizontalKerninglookup0 subtable" 890 -78 "kernHorizontalKerninglookup0 subtable" 889 -78 "kernHorizontalKerninglookup0 subtable" 886 -78 "kernHorizontalKerninglookup0 subtable" 885 -78 "kernHorizontalKerninglookup0 subtable" 877 -78 "kernHorizontalKerninglookup0 subtable" 875 -78 "kernHorizontalKerninglookup0 subtable" 872 -78 "kernHorizontalKerninglookup0 subtable" 867 -78 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 867 -60 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 867 -78 "kernHorizontalKerninglookup0 subtable" 872 -60 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 872 -78 "kernHorizontalKerninglookup0 subtable" 875 -60 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 875 -78 "kernHorizontalKerninglookup0 subtable" 877 -71 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 877 -78 "kernHorizontalKerninglookup0 subtable" 885 -78 "kernHorizontalKerninglookup0 subtable" 886 -78 "kernHorizontalKerninglookup0 subtable" 889 -78 "kernHorizontalKerninglookup0 subtable" 890 -78 "kernHorizontalKerninglookup0 subtable" 893 -78 "kernHorizontalKerninglookup0 subtable" 896 -78 "kernHorizontalKerninglookup0 subtable" 899 -78 "kernHorizontalKerninglookup0 subtable" 901 -78 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: lambda
@@ -21525,7 +21525,7 @@ SplineSet
  640.15 679.69 640.15 679.69 637.495 705.67 c 0,0,0
  634.84 731.65 634.84 731.65 633.19 749.25 c 1,0,0
 EndSplineSet
-Kerns2: 877 -29 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 875 -29 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 872 -29 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 871 -47 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 867 -29 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 901 -29 "kernHorizontalKerninglookup0 subtable" 900 -39 "kernHorizontalKerninglookup0 subtable" 899 -29 "kernHorizontalKerninglookup0 subtable" 898 -39 "kernHorizontalKerninglookup0 subtable" 896 -29 "kernHorizontalKerninglookup0 subtable" 893 -29 "kernHorizontalKerninglookup0 subtable" 892 -39 "kernHorizontalKerninglookup0 subtable" 890 -29 "kernHorizontalKerninglookup0 subtable" 889 -29 "kernHorizontalKerninglookup0 subtable" 886 -29 "kernHorizontalKerninglookup0 subtable" 885 -29 "kernHorizontalKerninglookup0 subtable" 877 -29 "kernHorizontalKerninglookup0 subtable" 875 -29 "kernHorizontalKerninglookup0 subtable" 872 -29 "kernHorizontalKerninglookup0 subtable" 871 -39 "kernHorizontalKerninglookup0 subtable" 867 -29 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 867 -29 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 867 -29 "kernHorizontalKerninglookup0 subtable" 871 -47 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 871 -39 "kernHorizontalKerninglookup0 subtable" 872 -29 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 872 -29 "kernHorizontalKerninglookup0 subtable" 875 -29 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 875 -29 "kernHorizontalKerninglookup0 subtable" 877 -29 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 877 -29 "kernHorizontalKerninglookup0 subtable" 885 -29 "kernHorizontalKerninglookup0 subtable" 886 -29 "kernHorizontalKerninglookup0 subtable" 889 -29 "kernHorizontalKerninglookup0 subtable" 890 -29 "kernHorizontalKerninglookup0 subtable" 892 -39 "kernHorizontalKerninglookup0 subtable" 893 -29 "kernHorizontalKerninglookup0 subtable" 896 -29 "kernHorizontalKerninglookup0 subtable" 898 -39 "kernHorizontalKerninglookup0 subtable" 899 -29 "kernHorizontalKerninglookup0 subtable" 900 -39 "kernHorizontalKerninglookup0 subtable" 901 -29 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: uni03BC
@@ -21647,7 +21647,7 @@ SplineSet
  739.57 1292.49 739.57 1292.49 642.94 1227.25 c 0,0,0
  556.22 1168.93 556.22 1168.93 556.22 1074.28 c 0,0,0
 EndSplineSet
-Kerns2: 885 -38 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 877 -38 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 875 -38 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 872 -38 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 867 -38 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 899 -43 "kernHorizontalKerninglookup0 subtable" 893 -43 "kernHorizontalKerninglookup0 subtable" 890 -43 "kernHorizontalKerninglookup0 subtable" 889 -43 "kernHorizontalKerninglookup0 subtable" 886 -43 "kernHorizontalKerninglookup0 subtable" 885 -43 "kernHorizontalKerninglookup0 subtable" 877 -43 "kernHorizontalKerninglookup0 subtable" 875 -43 "kernHorizontalKerninglookup0 subtable" 872 -43 "kernHorizontalKerninglookup0 subtable" 867 -43 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 867 -38 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 867 -43 "kernHorizontalKerninglookup0 subtable" 872 -38 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 872 -43 "kernHorizontalKerninglookup0 subtable" 875 -38 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 875 -43 "kernHorizontalKerninglookup0 subtable" 877 -38 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 877 -43 "kernHorizontalKerninglookup0 subtable" 885 -38 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 885 -43 "kernHorizontalKerninglookup0 subtable" 886 -43 "kernHorizontalKerninglookup0 subtable" 889 -43 "kernHorizontalKerninglookup0 subtable" 890 -43 "kernHorizontalKerninglookup0 subtable" 893 -43 "kernHorizontalKerninglookup0 subtable" 899 -43 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: omicron
@@ -21658,7 +21658,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 82 111 N 1 0 0 1 0 0 0
-Kerns2: 874 -37 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 894 -57 "kernHorizontalKerninglookup0 subtable" 891 -35 "kernHorizontalKerninglookup0 subtable" 887 -35 "kernHorizontalKerninglookup0 subtable" 874 -37 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 874 -37 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 874 -37 "kernHorizontalKerninglookup0 subtable" 887 -35 "kernHorizontalKerninglookup0 subtable" 891 -35 "kernHorizontalKerninglookup0 subtable" 894 -57 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: pi
@@ -21702,7 +21702,7 @@ SplineSet
  1068.62 308.21 l 2,0,0
  1062.29 275.54 1062.29 275.54 1062.29 248.56 c 0,0,0
 EndSplineSet
-Kerns2: 886 -9 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 877 -9 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 875 -9 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 872 -9 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 867 -9 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 901 29 "kernHorizontalKerninglookup0 subtable" 896 29 "kernHorizontalKerninglookup0 subtable" 893 29 "kernHorizontalKerninglookup0 subtable" 890 0 "kernHorizontalKerninglookup0 subtable" 889 0 "kernHorizontalKerninglookup0 subtable" 886 0 "kernHorizontalKerninglookup0 subtable" 877 0 "kernHorizontalKerninglookup0 subtable" 875 0 "kernHorizontalKerninglookup0 subtable" 872 0 "kernHorizontalKerninglookup0 subtable" 867 0 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 867 -9 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 867 0 "kernHorizontalKerninglookup0 subtable" 872 -9 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 872 0 "kernHorizontalKerninglookup0 subtable" 875 -9 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 875 0 "kernHorizontalKerninglookup0 subtable" 877 -9 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 877 0 "kernHorizontalKerninglookup0 subtable" 886 -9 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 886 0 "kernHorizontalKerninglookup0 subtable" 889 0 "kernHorizontalKerninglookup0 subtable" 890 0 "kernHorizontalKerninglookup0 subtable" 893 29 "kernHorizontalKerninglookup0 subtable" 896 29 "kernHorizontalKerninglookup0 subtable" 901 29 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: rho
@@ -21740,7 +21740,7 @@ SplineSet
  896.56 782.53 896.56 782.53 841.12 855.665 c 0,0,0
  785.68 928.8 785.68 928.8 688.12 928.8 c 0,0,0
 EndSplineSet
-Kerns2: 887 -38 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 891 0 "kernHorizontalKerninglookup0 subtable" 887 -35 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 887 -38 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 887 -35 "kernHorizontalKerninglookup0 subtable" 891 0 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: sigma1
@@ -21853,7 +21853,7 @@ SplineSet
  342.91 911.47 l 1,0,0
  318.59 911.47 l 2,0,0
 EndSplineSet
-Kerns2: 890 -9 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 889 -9 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 886 -9 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 877 -9 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 875 -9 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 872 -9 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 867 -9 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 901 29 "kernHorizontalKerninglookup0 subtable" 896 29 "kernHorizontalKerninglookup0 subtable" 893 29 "kernHorizontalKerninglookup0 subtable" 890 0 "kernHorizontalKerninglookup0 subtable" 889 0 "kernHorizontalKerninglookup0 subtable" 886 0 "kernHorizontalKerninglookup0 subtable" 877 0 "kernHorizontalKerninglookup0 subtable" 875 0 "kernHorizontalKerninglookup0 subtable" 872 0 "kernHorizontalKerninglookup0 subtable" 867 0 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 867 -9 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 867 0 "kernHorizontalKerninglookup0 subtable" 872 -9 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 872 0 "kernHorizontalKerninglookup0 subtable" 875 -9 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 875 0 "kernHorizontalKerninglookup0 subtable" 877 -9 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 877 0 "kernHorizontalKerninglookup0 subtable" 886 -9 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 886 0 "kernHorizontalKerninglookup0 subtable" 889 -9 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 889 0 "kernHorizontalKerninglookup0 subtable" 890 -9 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 890 0 "kernHorizontalKerninglookup0 subtable" 893 29 "kernHorizontalKerninglookup0 subtable" 896 29 "kernHorizontalKerninglookup0 subtable" 901 29 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: upsilon
@@ -21928,7 +21928,7 @@ SplineSet
  1104.42 640.42 1104.42 640.42 1104.42 725.17 c 0,0,0
  1104.42 943.53 1104.42 943.53 998.49 943.53 c 0,0,0
 EndSplineSet
-Kerns2: 891 -14 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 887 -38 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 874 -37 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 894 -57 "kernHorizontalKerninglookup0 subtable" 891 0 "kernHorizontalKerninglookup0 subtable" 887 -35 "kernHorizontalKerninglookup0 subtable" 874 -37 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 874 -37 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 874 -37 "kernHorizontalKerninglookup0 subtable" 887 -38 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 887 -35 "kernHorizontalKerninglookup0 subtable" 891 -14 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 891 0 "kernHorizontalKerninglookup0 subtable" 894 -57 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: chi
@@ -21966,7 +21966,7 @@ SplineSet
  703.25 -424.67 l 1,0,0
  527.37 211.53 l 1,0,0
 EndSplineSet
-Kerns2: 893 -30 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 890 -30 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 889 -30 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 886 -30 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 877 -30 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 875 -30 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 872 -30 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 867 -30 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 901 -29 "kernHorizontalKerninglookup0 subtable" 899 -29 "kernHorizontalKerninglookup0 subtable" 896 -29 "kernHorizontalKerninglookup0 subtable" 893 -29 "kernHorizontalKerninglookup0 subtable" 890 -29 "kernHorizontalKerninglookup0 subtable" 889 -29 "kernHorizontalKerninglookup0 subtable" 886 -29 "kernHorizontalKerninglookup0 subtable" 877 -29 "kernHorizontalKerninglookup0 subtable" 875 -29 "kernHorizontalKerninglookup0 subtable" 872 -29 "kernHorizontalKerninglookup0 subtable" 867 -29 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 867 -30 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 867 -29 "kernHorizontalKerninglookup0 subtable" 872 -30 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 872 -29 "kernHorizontalKerninglookup0 subtable" 875 -30 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 875 -29 "kernHorizontalKerninglookup0 subtable" 877 -30 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 877 -29 "kernHorizontalKerninglookup0 subtable" 886 -30 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 886 -29 "kernHorizontalKerninglookup0 subtable" 889 -30 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 889 -29 "kernHorizontalKerninglookup0 subtable" 890 -30 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 890 -29 "kernHorizontalKerninglookup0 subtable" 893 -30 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 893 -29 "kernHorizontalKerninglookup0 subtable" 896 -29 "kernHorizontalKerninglookup0 subtable" 899 -29 "kernHorizontalKerninglookup0 subtable" 901 -29 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: psi
@@ -22048,7 +22048,7 @@ SplineSet
  934.99 478.48 l 2,0,0
  921.31 413.16 921.31 413.16 921.31 352.72 c 0,0,0
 EndSplineSet
-Kerns2: 894 -57 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 891 -14 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 887 -38 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 874 -37 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 894 -57 "kernHorizontalKerninglookup0 subtable" 891 0 "kernHorizontalKerninglookup0 subtable" 887 -35 "kernHorizontalKerninglookup0 subtable" 874 -37 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 874 -37 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 874 -37 "kernHorizontalKerninglookup0 subtable" 887 -38 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 887 -35 "kernHorizontalKerninglookup0 subtable" 891 -14 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 891 0 "kernHorizontalKerninglookup0 subtable" 894 -57 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 894 -57 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: iotadieresis
@@ -22082,7 +22082,7 @@ LayerCount: 2
 Fore
 Refer: 82 111 N 1 0 0 1 0 0 0
 Refer: 830 900 N 1 0 0 1 459.71 0 0
-Kerns2: 894 -57 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 891 -14 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 887 -38 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 874 -37 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 894 -57 "kernHorizontalKerninglookup0 subtable" 891 0 "kernHorizontalKerninglookup0 subtable" 887 -35 "kernHorizontalKerninglookup0 subtable" 874 -37 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 874 -37 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 874 -37 "kernHorizontalKerninglookup0 subtable" 887 -38 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 887 -35 "kernHorizontalKerninglookup0 subtable" 891 -14 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 891 0 "kernHorizontalKerninglookup0 subtable" 894 -57 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 894 -57 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: upsilontonos
@@ -22105,7 +22105,7 @@ LayerCount: 2
 Fore
 Refer: 896 969 N 1 0 0 1 0 0 0
 Refer: 830 900 N 1 0 0 1 699.03 0 0
-Kerns2: 894 -57 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 891 -14 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 887 -38 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 874 -37 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 894 -57 "kernHorizontalKerninglookup0 subtable" 891 0 "kernHorizontalKerninglookup0 subtable" 887 -35 "kernHorizontalKerninglookup0 subtable" 874 -37 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 874 -37 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 874 -37 "kernHorizontalKerninglookup0 subtable" 887 -38 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 887 -35 "kernHorizontalKerninglookup0 subtable" 891 -14 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 891 0 "kernHorizontalKerninglookup0 subtable" 894 -57 "'kern' Kerning Horizontal in Greek lookup 0 subtable" 894 -57 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: uni03CF
@@ -23914,7 +23914,7 @@ LayerCount: 2
 Fore
 Refer: 843 915 N 1 0 0 1 0 0 0
 Refer: 3025 -1 N 1 0 0 1 370.65 0 0
-Kerns2: 124 -37 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 109 -37 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 17 -205 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 15 -205 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 124 0 "kernHorizontalKerninglookup0 subtable" 109 0 "kernHorizontalKerninglookup0 subtable" 17 -205 "kernHorizontalKerninglookup0 subtable" 15 -205 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 15 -205 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 15 -205 "kernHorizontalKerninglookup0 subtable" 17 -205 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 17 -205 "kernHorizontalKerninglookup0 subtable" 109 -37 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 109 0 "kernHorizontalKerninglookup0 subtable" 124 -37 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 124 0 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10053
@@ -24201,7 +24201,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 36 65 N 1 0 0 1 0 0 0
-Kerns2: 2129 -154 "kernHorizontalKerninglookup0 subtable" 1019 -51 "kernHorizontalKerninglookup0 subtable" 1018 -51 "kernHorizontalKerninglookup0 subtable" 1016 -51 "kernHorizontalKerninglookup0 subtable" 1013 -51 "kernHorizontalKerninglookup0 subtable" 1004 -51 "kernHorizontalKerninglookup0 subtable" 1000 -51 "kernHorizontalKerninglookup0 subtable" 996 -102 "kernHorizontalKerninglookup0 subtable" 990 -102 "kernHorizontalKerninglookup0 subtable" 987 -129 "kernHorizontalKerninglookup0 subtable" 986 -129 "kernHorizontalKerninglookup0 subtable" 985 -207 "kernHorizontalKerninglookup0 subtable" 984 -102 "kernHorizontalKerninglookup0 subtable" 982 -51 "kernHorizontalKerninglookup0 subtable" 981 -102 "kernHorizontalKerninglookup0 subtable" 974 -78 "kernHorizontalKerninglookup0 subtable" 971 76 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 971 76 "kernHorizontalKerninglookup0 subtable" 974 -78 "kernHorizontalKerninglookup0 subtable" 981 -102 "kernHorizontalKerninglookup0 subtable" 982 -51 "kernHorizontalKerninglookup0 subtable" 984 -102 "kernHorizontalKerninglookup0 subtable" 985 -207 "kernHorizontalKerninglookup0 subtable" 986 -129 "kernHorizontalKerninglookup0 subtable" 987 -129 "kernHorizontalKerninglookup0 subtable" 990 -102 "kernHorizontalKerninglookup0 subtable" 996 -102 "kernHorizontalKerninglookup0 subtable" 1000 -51 "kernHorizontalKerninglookup0 subtable" 1004 -51 "kernHorizontalKerninglookup0 subtable" 1013 -51 "kernHorizontalKerninglookup0 subtable" 1016 -51 "kernHorizontalKerninglookup0 subtable" 1018 -51 "kernHorizontalKerninglookup0 subtable" 1019 -51 "kernHorizontalKerninglookup0 subtable" 2129 -154 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10018
@@ -24233,7 +24233,7 @@ SplineSet
  428.23 634.2 l 1,0,0
  344.31 203.93 l 1,0,0
 EndSplineSet
-Kerns2: 967 -74 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1030 25 "kernHorizontalKerninglookup0 subtable" 1018 -27 "kernHorizontalKerninglookup0 subtable" 1003 0 "kernHorizontalKerninglookup0 subtable" 998 -51 "kernHorizontalKerninglookup0 subtable" 996 -51 "kernHorizontalKerninglookup0 subtable" 993 -102 "kernHorizontalKerninglookup0 subtable" 990 -27 "kernHorizontalKerninglookup0 subtable" 988 -27 "kernHorizontalKerninglookup0 subtable" 987 -53 "kernHorizontalKerninglookup0 subtable" 986 -51 "kernHorizontalKerninglookup0 subtable" 985 -78 "kernHorizontalKerninglookup0 subtable" 984 -27 "kernHorizontalKerninglookup0 subtable" 981 -27 "kernHorizontalKerninglookup0 subtable" 978 25 "kernHorizontalKerninglookup0 subtable" 974 -27 "kernHorizontalKerninglookup0 subtable" 973 -27 "kernHorizontalKerninglookup0 subtable" 971 25 "kernHorizontalKerninglookup0 subtable" 967 -78 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 967 -74 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 967 -78 "kernHorizontalKerninglookup0 subtable" 971 25 "kernHorizontalKerninglookup0 subtable" 973 -27 "kernHorizontalKerninglookup0 subtable" 974 -27 "kernHorizontalKerninglookup0 subtable" 978 25 "kernHorizontalKerninglookup0 subtable" 981 -27 "kernHorizontalKerninglookup0 subtable" 984 -27 "kernHorizontalKerninglookup0 subtable" 985 -78 "kernHorizontalKerninglookup0 subtable" 986 -51 "kernHorizontalKerninglookup0 subtable" 987 -53 "kernHorizontalKerninglookup0 subtable" 988 -27 "kernHorizontalKerninglookup0 subtable" 990 -27 "kernHorizontalKerninglookup0 subtable" 993 -102 "kernHorizontalKerninglookup0 subtable" 996 -51 "kernHorizontalKerninglookup0 subtable" 998 -51 "kernHorizontalKerninglookup0 subtable" 1003 0 "kernHorizontalKerninglookup0 subtable" 1018 -27 "kernHorizontalKerninglookup0 subtable" 1030 25 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10019
@@ -24244,7 +24244,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 37 66 N 1 0 0 1 0 0 0
-Kerns2: 967 -74 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1022 -78 "kernHorizontalKerninglookup0 subtable" 1020 -27 "kernHorizontalKerninglookup0 subtable" 1018 -27 "kernHorizontalKerninglookup0 subtable" 998 -51 "kernHorizontalKerninglookup0 subtable" 993 -129 "kernHorizontalKerninglookup0 subtable" 990 0 "kernHorizontalKerninglookup0 subtable" 988 -78 "kernHorizontalKerninglookup0 subtable" 987 -78 "kernHorizontalKerninglookup0 subtable" 986 -129 "kernHorizontalKerninglookup0 subtable" 985 -129 "kernHorizontalKerninglookup0 subtable" 984 -51 "kernHorizontalKerninglookup0 subtable" 981 -51 "kernHorizontalKerninglookup0 subtable" 978 0 "kernHorizontalKerninglookup0 subtable" 974 -51 "kernHorizontalKerninglookup0 subtable" 973 -51 "kernHorizontalKerninglookup0 subtable" 971 0 "kernHorizontalKerninglookup0 subtable" 967 -78 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 967 -74 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 967 -78 "kernHorizontalKerninglookup0 subtable" 971 0 "kernHorizontalKerninglookup0 subtable" 973 -51 "kernHorizontalKerninglookup0 subtable" 974 -51 "kernHorizontalKerninglookup0 subtable" 978 0 "kernHorizontalKerninglookup0 subtable" 981 -51 "kernHorizontalKerninglookup0 subtable" 984 -51 "kernHorizontalKerninglookup0 subtable" 985 -129 "kernHorizontalKerninglookup0 subtable" 986 -129 "kernHorizontalKerninglookup0 subtable" 987 -78 "kernHorizontalKerninglookup0 subtable" 988 -78 "kernHorizontalKerninglookup0 subtable" 990 0 "kernHorizontalKerninglookup0 subtable" 993 -129 "kernHorizontalKerninglookup0 subtable" 998 -51 "kernHorizontalKerninglookup0 subtable" 1018 -27 "kernHorizontalKerninglookup0 subtable" 1020 -27 "kernHorizontalKerninglookup0 subtable" 1022 -78 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10020
@@ -24263,7 +24263,7 @@ SplineSet
  1263.26 1205.09 l 1,0,0
  539.54 1205.09 l 1,0,0
 EndSplineSet
-Kerns2: 967 -122 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 124 -37 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 109 -37 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 30 -7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 29 -14 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 17 -154 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 15 -154 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1030 -51 "kernHorizontalKerninglookup0 subtable" 1029 -51 "kernHorizontalKerninglookup0 subtable" 1027 -51 "kernHorizontalKerninglookup0 subtable" 1026 -51 "kernHorizontalKerninglookup0 subtable" 1018 -51 "kernHorizontalKerninglookup0 subtable" 1015 -51 "kernHorizontalKerninglookup0 subtable" 1013 -102 "kernHorizontalKerninglookup0 subtable" 1012 -51 "kernHorizontalKerninglookup0 subtable" 1011 -51 "kernHorizontalKerninglookup0 subtable" 1010 -78 "kernHorizontalKerninglookup0 subtable" 1007 -78 "kernHorizontalKerninglookup0 subtable" 1004 -102 "kernHorizontalKerninglookup0 subtable" 1003 -27 "kernHorizontalKerninglookup0 subtable" 1001 -104 "kernHorizontalKerninglookup0 subtable" 999 -27 "kernHorizontalKerninglookup0 subtable" 998 -27 "kernHorizontalKerninglookup0 subtable" 984 0 "kernHorizontalKerninglookup0 subtable" 981 -27 "kernHorizontalKerninglookup0 subtable" 978 -27 "kernHorizontalKerninglookup0 subtable" 974 -27 "kernHorizontalKerninglookup0 subtable" 971 -51 "kernHorizontalKerninglookup0 subtable" 967 -104 "kernHorizontalKerninglookup0 subtable" 124 0 "kernHorizontalKerninglookup0 subtable" 109 0 "kernHorizontalKerninglookup0 subtable" 30 0 "kernHorizontalKerninglookup0 subtable" 29 0 "kernHorizontalKerninglookup0 subtable" 17 -129 "kernHorizontalKerninglookup0 subtable" 15 -129 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 15 -154 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 15 -129 "kernHorizontalKerninglookup0 subtable" 17 -154 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 17 -129 "kernHorizontalKerninglookup0 subtable" 29 -14 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 29 0 "kernHorizontalKerninglookup0 subtable" 30 -7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 30 0 "kernHorizontalKerninglookup0 subtable" 109 -37 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 109 0 "kernHorizontalKerninglookup0 subtable" 124 -37 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 124 0 "kernHorizontalKerninglookup0 subtable" 967 -122 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 967 -104 "kernHorizontalKerninglookup0 subtable" 971 -51 "kernHorizontalKerninglookup0 subtable" 974 -27 "kernHorizontalKerninglookup0 subtable" 978 -27 "kernHorizontalKerninglookup0 subtable" 981 -27 "kernHorizontalKerninglookup0 subtable" 984 0 "kernHorizontalKerninglookup0 subtable" 998 -27 "kernHorizontalKerninglookup0 subtable" 999 -27 "kernHorizontalKerninglookup0 subtable" 1001 -104 "kernHorizontalKerninglookup0 subtable" 1003 -27 "kernHorizontalKerninglookup0 subtable" 1004 -102 "kernHorizontalKerninglookup0 subtable" 1007 -78 "kernHorizontalKerninglookup0 subtable" 1010 -78 "kernHorizontalKerninglookup0 subtable" 1011 -51 "kernHorizontalKerninglookup0 subtable" 1012 -51 "kernHorizontalKerninglookup0 subtable" 1013 -102 "kernHorizontalKerninglookup0 subtable" 1015 -51 "kernHorizontalKerninglookup0 subtable" 1018 -51 "kernHorizontalKerninglookup0 subtable" 1026 -51 "kernHorizontalKerninglookup0 subtable" 1027 -51 "kernHorizontalKerninglookup0 subtable" 1029 -51 "kernHorizontalKerninglookup0 subtable" 1030 -51 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10021
@@ -24297,7 +24297,7 @@ SplineSet
  625.2 664.98 625.2 664.98 547.04 492.985 c 0,0,0
  468.88 320.99 468.88 320.99 391.22 216.28 c 1,0,0
 EndSplineSet
-Kerns2: 1018 51 "kernHorizontalKerninglookup0 subtable" 1006 25 "kernHorizontalKerninglookup0 subtable" 996 0 "kernHorizontalKerninglookup0 subtable" 990 51 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 990 51 "kernHorizontalKerninglookup0 subtable" 996 0 "kernHorizontalKerninglookup0 subtable" 1006 25 "kernHorizontalKerninglookup0 subtable" 1018 51 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10022
@@ -24354,7 +24354,7 @@ SplineSet
  709.52 0 l 1,0,0
  830.49 622.82 l 1,0,0
 EndSplineSet
-Kerns2: 1018 -27 "kernHorizontalKerninglookup0 subtable" 993 25 "kernHorizontalKerninglookup0 subtable" 990 76 "kernHorizontalKerninglookup0 subtable" 984 -27 "kernHorizontalKerninglookup0 subtable" 981 -27 "kernHorizontalKerninglookup0 subtable" 974 -27 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 974 -27 "kernHorizontalKerninglookup0 subtable" 981 -27 "kernHorizontalKerninglookup0 subtable" 984 -27 "kernHorizontalKerninglookup0 subtable" 990 76 "kernHorizontalKerninglookup0 subtable" 993 25 "kernHorizontalKerninglookup0 subtable" 1018 -27 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10025
@@ -24397,7 +24397,7 @@ SplineSet
  1165.84 212.29 1165.84 212.29 1010.835 96.145 c 0,0,0
  855.83 -20 855.83 -20 577.12 -20 c 0,0,0
 EndSplineSet
-Kerns2: 973 -56 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 971 -22 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1010 25 "kernHorizontalKerninglookup0 subtable" 998 -51 "kernHorizontalKerninglookup0 subtable" 990 51 "kernHorizontalKerninglookup0 subtable" 987 -51 "kernHorizontalKerninglookup0 subtable" 986 -78 "kernHorizontalKerninglookup0 subtable" 985 -78 "kernHorizontalKerninglookup0 subtable" 984 -51 "kernHorizontalKerninglookup0 subtable" 981 -51 "kernHorizontalKerninglookup0 subtable" 978 0 "kernHorizontalKerninglookup0 subtable" 973 -51 "kernHorizontalKerninglookup0 subtable" 971 0 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 971 -22 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 971 0 "kernHorizontalKerninglookup0 subtable" 973 -56 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 973 -51 "kernHorizontalKerninglookup0 subtable" 978 0 "kernHorizontalKerninglookup0 subtable" 981 -51 "kernHorizontalKerninglookup0 subtable" 984 -51 "kernHorizontalKerninglookup0 subtable" 985 -78 "kernHorizontalKerninglookup0 subtable" 986 -78 "kernHorizontalKerninglookup0 subtable" 987 -51 "kernHorizontalKerninglookup0 subtable" 990 51 "kernHorizontalKerninglookup0 subtable" 998 -51 "kernHorizontalKerninglookup0 subtable" 1010 25 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10026
@@ -24465,7 +24465,7 @@ SplineSet
  554.13 639.54 554.13 639.54 506.155 628.87 c 0,0,0
  458.18 618.2 458.18 618.2 424.56 618.2 c 1,0,0
 EndSplineSet
-Kerns2: 1028 -51 "kernHorizontalKerninglookup0 subtable" 1018 -27 "kernHorizontalKerninglookup0 subtable" 996 0 "kernHorizontalKerninglookup0 subtable" 987 -78 "kernHorizontalKerninglookup0 subtable" 984 -27 "kernHorizontalKerninglookup0 subtable" 981 -27 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 981 -27 "kernHorizontalKerninglookup0 subtable" 984 -27 "kernHorizontalKerninglookup0 subtable" 987 -78 "kernHorizontalKerninglookup0 subtable" 996 0 "kernHorizontalKerninglookup0 subtable" 1018 -27 "kernHorizontalKerninglookup0 subtable" 1028 -51 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10029
@@ -24498,7 +24498,7 @@ SplineSet
  427.49 403.1 427.49 403.1 393.19 327.82 c 0,0,0
  329.22 186.84 329.22 186.84 267.26 112.16 c 0,0,0
 EndSplineSet
-Kerns2: 1000 0 "kernHorizontalKerninglookup0 subtable" 987 -27 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 987 -27 "kernHorizontalKerninglookup0 subtable" 1000 0 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10030
@@ -24509,7 +24509,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 48 77 N 1 0 0 1 0 0 0
-Kerns2: 1028 0 "kernHorizontalKerninglookup0 subtable" 1022 -27 "kernHorizontalKerninglookup0 subtable" 1018 25 "kernHorizontalKerninglookup0 subtable" 999 25 "kernHorizontalKerninglookup0 subtable" 990 76 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 990 76 "kernHorizontalKerninglookup0 subtable" 999 25 "kernHorizontalKerninglookup0 subtable" 1018 25 "kernHorizontalKerninglookup0 subtable" 1022 -27 "kernHorizontalKerninglookup0 subtable" 1028 0 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10031
@@ -24530,7 +24530,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 50 79 N 1 0 0 1 0 0 0
-Kerns2: 978 -40 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 973 -74 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 971 -41 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 967 -67 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1020 0 "kernHorizontalKerninglookup0 subtable" 1010 0 "kernHorizontalKerninglookup0 subtable" 998 -51 "kernHorizontalKerninglookup0 subtable" 990 51 "kernHorizontalKerninglookup0 subtable" 988 -51 "kernHorizontalKerninglookup0 subtable" 986 -129 "kernHorizontalKerninglookup0 subtable" 978 -27 "kernHorizontalKerninglookup0 subtable" 973 -78 "kernHorizontalKerninglookup0 subtable" 971 -27 "kernHorizontalKerninglookup0 subtable" 967 -78 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 967 -67 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 967 -78 "kernHorizontalKerninglookup0 subtable" 971 -41 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 971 -27 "kernHorizontalKerninglookup0 subtable" 973 -74 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 973 -78 "kernHorizontalKerninglookup0 subtable" 978 -40 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 978 -27 "kernHorizontalKerninglookup0 subtable" 986 -129 "kernHorizontalKerninglookup0 subtable" 988 -51 "kernHorizontalKerninglookup0 subtable" 990 51 "kernHorizontalKerninglookup0 subtable" 998 -51 "kernHorizontalKerninglookup0 subtable" 1010 0 "kernHorizontalKerninglookup0 subtable" 1020 0 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10033
@@ -24561,7 +24561,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 51 80 N 1 0 0 1 0 0 0
-Kerns2: 979 -7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 978 -79 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 974 -67 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 973 -81 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 971 -105 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 967 -139 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 124 -56 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 30 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 29 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 17 -276 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 15 -276 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1030 0 "kernHorizontalKerninglookup0 subtable" 1013 -27 "kernHorizontalKerninglookup0 subtable" 1004 -27 "kernHorizontalKerninglookup0 subtable" 1003 -27 "kernHorizontalKerninglookup0 subtable" 998 -51 "kernHorizontalKerninglookup0 subtable" 988 -78 "kernHorizontalKerninglookup0 subtable" 987 0 "kernHorizontalKerninglookup0 subtable" 986 -78 "kernHorizontalKerninglookup0 subtable" 985 -78 "kernHorizontalKerninglookup0 subtable" 979 0 "kernHorizontalKerninglookup0 subtable" 978 -51 "kernHorizontalKerninglookup0 subtable" 974 -78 "kernHorizontalKerninglookup0 subtable" 973 -78 "kernHorizontalKerninglookup0 subtable" 971 -78 "kernHorizontalKerninglookup0 subtable" 967 -129 "kernHorizontalKerninglookup0 subtable" 124 -51 "kernHorizontalKerninglookup0 subtable" 30 -27 "kernHorizontalKerninglookup0 subtable" 29 -27 "kernHorizontalKerninglookup0 subtable" 17 -256 "kernHorizontalKerninglookup0 subtable" 15 -256 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 15 -276 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 15 -256 "kernHorizontalKerninglookup0 subtable" 17 -276 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 17 -256 "kernHorizontalKerninglookup0 subtable" 29 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 29 -27 "kernHorizontalKerninglookup0 subtable" 30 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 30 -27 "kernHorizontalKerninglookup0 subtable" 124 -56 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 124 -51 "kernHorizontalKerninglookup0 subtable" 967 -139 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 967 -129 "kernHorizontalKerninglookup0 subtable" 971 -105 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 971 -78 "kernHorizontalKerninglookup0 subtable" 973 -81 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 973 -78 "kernHorizontalKerninglookup0 subtable" 974 -67 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 974 -78 "kernHorizontalKerninglookup0 subtable" 978 -79 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 978 -51 "kernHorizontalKerninglookup0 subtable" 979 -7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 979 0 "kernHorizontalKerninglookup0 subtable" 985 -78 "kernHorizontalKerninglookup0 subtable" 986 -78 "kernHorizontalKerninglookup0 subtable" 987 0 "kernHorizontalKerninglookup0 subtable" 988 -78 "kernHorizontalKerninglookup0 subtable" 998 -51 "kernHorizontalKerninglookup0 subtable" 1003 -27 "kernHorizontalKerninglookup0 subtable" 1004 -27 "kernHorizontalKerninglookup0 subtable" 1013 -27 "kernHorizontalKerninglookup0 subtable" 1030 0 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10035
@@ -24572,7 +24572,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 38 67 N 1 0 0 1 0 0 0
-Kerns2: 981 -7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 979 -7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 978 -22 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 974 -41 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 971 -22 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 967 -56 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1022 -27 "kernHorizontalKerninglookup0 subtable" 1018 0 "kernHorizontalKerninglookup0 subtable" 999 51 "kernHorizontalKerninglookup0 subtable" 993 -102 "kernHorizontalKerninglookup0 subtable" 990 25 "kernHorizontalKerninglookup0 subtable" 988 -27 "kernHorizontalKerninglookup0 subtable" 986 -78 "kernHorizontalKerninglookup0 subtable" 985 -78 "kernHorizontalKerninglookup0 subtable" 981 0 "kernHorizontalKerninglookup0 subtable" 979 0 "kernHorizontalKerninglookup0 subtable" 978 0 "kernHorizontalKerninglookup0 subtable" 974 -51 "kernHorizontalKerninglookup0 subtable" 971 0 "kernHorizontalKerninglookup0 subtable" 967 -51 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 967 -56 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 967 -51 "kernHorizontalKerninglookup0 subtable" 971 -22 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 971 0 "kernHorizontalKerninglookup0 subtable" 974 -41 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 974 -51 "kernHorizontalKerninglookup0 subtable" 978 -22 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 978 0 "kernHorizontalKerninglookup0 subtable" 979 -7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 979 0 "kernHorizontalKerninglookup0 subtable" 981 -7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 981 0 "kernHorizontalKerninglookup0 subtable" 985 -78 "kernHorizontalKerninglookup0 subtable" 986 -78 "kernHorizontalKerninglookup0 subtable" 988 -27 "kernHorizontalKerninglookup0 subtable" 990 25 "kernHorizontalKerninglookup0 subtable" 993 -102 "kernHorizontalKerninglookup0 subtable" 999 51 "kernHorizontalKerninglookup0 subtable" 1018 0 "kernHorizontalKerninglookup0 subtable" 1022 -27 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10036
@@ -24583,7 +24583,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 55 84 N 1 0 0 1 0 0 0
-Kerns2: 981 -32 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 979 24 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 978 -22 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 974 -7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 973 41 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 971 -14 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 967 -74 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 30 -7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 29 -7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 17 -112 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 15 -112 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1030 -27 "kernHorizontalKerninglookup0 subtable" 1029 -27 "kernHorizontalKerninglookup0 subtable" 1027 -27 "kernHorizontalKerninglookup0 subtable" 1026 -27 "kernHorizontalKerninglookup0 subtable" 1024 -51 "kernHorizontalKerninglookup0 subtable" 1020 -51 "kernHorizontalKerninglookup0 subtable" 1018 -51 "kernHorizontalKerninglookup0 subtable" 1016 -78 "kernHorizontalKerninglookup0 subtable" 1015 -51 "kernHorizontalKerninglookup0 subtable" 1014 -27 "kernHorizontalKerninglookup0 subtable" 1013 -78 "kernHorizontalKerninglookup0 subtable" 1011 -51 "kernHorizontalKerninglookup0 subtable" 1010 -51 "kernHorizontalKerninglookup0 subtable" 1009 -51 "kernHorizontalKerninglookup0 subtable" 1007 -78 "kernHorizontalKerninglookup0 subtable" 1004 -78 "kernHorizontalKerninglookup0 subtable" 1001 -78 "kernHorizontalKerninglookup0 subtable" 999 0 "kernHorizontalKerninglookup0 subtable" 998 0 "kernHorizontalKerninglookup0 subtable" 996 25 "kernHorizontalKerninglookup0 subtable" 987 -27 "kernHorizontalKerninglookup0 subtable" 981 -27 "kernHorizontalKerninglookup0 subtable" 979 25 "kernHorizontalKerninglookup0 subtable" 978 0 "kernHorizontalKerninglookup0 subtable" 974 0 "kernHorizontalKerninglookup0 subtable" 973 51 "kernHorizontalKerninglookup0 subtable" 971 0 "kernHorizontalKerninglookup0 subtable" 967 -78 "kernHorizontalKerninglookup0 subtable" 30 0 "kernHorizontalKerninglookup0 subtable" 29 0 "kernHorizontalKerninglookup0 subtable" 17 -78 "kernHorizontalKerninglookup0 subtable" 15 -78 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 15 -112 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 15 -78 "kernHorizontalKerninglookup0 subtable" 17 -112 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 17 -78 "kernHorizontalKerninglookup0 subtable" 29 -7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 29 0 "kernHorizontalKerninglookup0 subtable" 30 -7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 30 0 "kernHorizontalKerninglookup0 subtable" 967 -74 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 967 -78 "kernHorizontalKerninglookup0 subtable" 971 -14 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 971 0 "kernHorizontalKerninglookup0 subtable" 973 41 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 973 51 "kernHorizontalKerninglookup0 subtable" 974 -7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 974 0 "kernHorizontalKerninglookup0 subtable" 978 -22 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 978 0 "kernHorizontalKerninglookup0 subtable" 979 24 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 979 25 "kernHorizontalKerninglookup0 subtable" 981 -32 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 981 -27 "kernHorizontalKerninglookup0 subtable" 987 -27 "kernHorizontalKerninglookup0 subtable" 996 25 "kernHorizontalKerninglookup0 subtable" 998 0 "kernHorizontalKerninglookup0 subtable" 999 0 "kernHorizontalKerninglookup0 subtable" 1001 -78 "kernHorizontalKerninglookup0 subtable" 1004 -78 "kernHorizontalKerninglookup0 subtable" 1007 -78 "kernHorizontalKerninglookup0 subtable" 1009 -51 "kernHorizontalKerninglookup0 subtable" 1010 -51 "kernHorizontalKerninglookup0 subtable" 1011 -51 "kernHorizontalKerninglookup0 subtable" 1013 -78 "kernHorizontalKerninglookup0 subtable" 1014 -27 "kernHorizontalKerninglookup0 subtable" 1015 -51 "kernHorizontalKerninglookup0 subtable" 1016 -78 "kernHorizontalKerninglookup0 subtable" 1018 -51 "kernHorizontalKerninglookup0 subtable" 1020 -51 "kernHorizontalKerninglookup0 subtable" 1024 -51 "kernHorizontalKerninglookup0 subtable" 1026 -27 "kernHorizontalKerninglookup0 subtable" 1027 -27 "kernHorizontalKerninglookup0 subtable" 1029 -27 "kernHorizontalKerninglookup0 subtable" 1030 -27 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10037
@@ -24613,7 +24613,7 @@ SplineSet
  481.44 23.24 481.44 23.24 415.64 1.62 c 0,0,0
  349.84 -20 349.84 -20 269.9 -20 c 0,0,0
 EndSplineSet
-Kerns2: 978 -32 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 974 -10 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 971 -74 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 967 -125 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 30 -49 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 29 -49 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 17 -155 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 15 -155 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1030 -51 "kernHorizontalKerninglookup0 subtable" 1029 -51 "kernHorizontalKerninglookup0 subtable" 1024 -51 "kernHorizontalKerninglookup0 subtable" 1023 -51 "kernHorizontalKerninglookup0 subtable" 1021 -51 "kernHorizontalKerninglookup0 subtable" 1020 -51 "kernHorizontalKerninglookup0 subtable" 1016 -102 "kernHorizontalKerninglookup0 subtable" 1015 -51 "kernHorizontalKerninglookup0 subtable" 1014 -51 "kernHorizontalKerninglookup0 subtable" 1013 -129 "kernHorizontalKerninglookup0 subtable" 1012 -51 "kernHorizontalKerninglookup0 subtable" 1011 -51 "kernHorizontalKerninglookup0 subtable" 1010 -78 "kernHorizontalKerninglookup0 subtable" 1009 -51 "kernHorizontalKerninglookup0 subtable" 1007 -78 "kernHorizontalKerninglookup0 subtable" 1006 -78 "kernHorizontalKerninglookup0 subtable" 1005 -27 "kernHorizontalKerninglookup0 subtable" 1004 -102 "kernHorizontalKerninglookup0 subtable" 1003 -51 "kernHorizontalKerninglookup0 subtable" 1002 -78 "kernHorizontalKerninglookup0 subtable" 1001 -102 "kernHorizontalKerninglookup0 subtable" 998 -27 "kernHorizontalKerninglookup0 subtable" 996 -27 "kernHorizontalKerninglookup0 subtable" 987 -78 "kernHorizontalKerninglookup0 subtable" 978 -27 "kernHorizontalKerninglookup0 subtable" 974 -27 "kernHorizontalKerninglookup0 subtable" 971 -78 "kernHorizontalKerninglookup0 subtable" 967 -154 "kernHorizontalKerninglookup0 subtable" 30 -51 "kernHorizontalKerninglookup0 subtable" 29 -51 "kernHorizontalKerninglookup0 subtable" 17 -154 "kernHorizontalKerninglookup0 subtable" 15 -154 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 15 -155 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 15 -154 "kernHorizontalKerninglookup0 subtable" 17 -155 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 17 -154 "kernHorizontalKerninglookup0 subtable" 29 -49 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 29 -51 "kernHorizontalKerninglookup0 subtable" 30 -49 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 30 -51 "kernHorizontalKerninglookup0 subtable" 967 -125 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 967 -154 "kernHorizontalKerninglookup0 subtable" 971 -74 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 971 -78 "kernHorizontalKerninglookup0 subtable" 974 -10 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 974 -27 "kernHorizontalKerninglookup0 subtable" 978 -32 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 978 -27 "kernHorizontalKerninglookup0 subtable" 987 -78 "kernHorizontalKerninglookup0 subtable" 996 -27 "kernHorizontalKerninglookup0 subtable" 998 -27 "kernHorizontalKerninglookup0 subtable" 1001 -102 "kernHorizontalKerninglookup0 subtable" 1002 -78 "kernHorizontalKerninglookup0 subtable" 1003 -51 "kernHorizontalKerninglookup0 subtable" 1004 -102 "kernHorizontalKerninglookup0 subtable" 1005 -27 "kernHorizontalKerninglookup0 subtable" 1006 -78 "kernHorizontalKerninglookup0 subtable" 1007 -78 "kernHorizontalKerninglookup0 subtable" 1009 -51 "kernHorizontalKerninglookup0 subtable" 1010 -78 "kernHorizontalKerninglookup0 subtable" 1011 -51 "kernHorizontalKerninglookup0 subtable" 1012 -51 "kernHorizontalKerninglookup0 subtable" 1013 -129 "kernHorizontalKerninglookup0 subtable" 1014 -51 "kernHorizontalKerninglookup0 subtable" 1015 -51 "kernHorizontalKerninglookup0 subtable" 1016 -102 "kernHorizontalKerninglookup0 subtable" 1020 -51 "kernHorizontalKerninglookup0 subtable" 1021 -51 "kernHorizontalKerninglookup0 subtable" 1023 -51 "kernHorizontalKerninglookup0 subtable" 1024 -51 "kernHorizontalKerninglookup0 subtable" 1029 -51 "kernHorizontalKerninglookup0 subtable" 1030 -51 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10038
@@ -24664,7 +24664,7 @@ SplineSet
  351.18 539.34 351.18 539.34 417.275 461.735 c 0,0,0
  483.37 384.13 483.37 384.13 596.93 384.13 c 2,0,0
 EndSplineSet
-Kerns2: 987 7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 986 -146 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 985 -139 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 979 9 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 978 -72 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 971 -79 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 967 -90 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1010 -27 "kernHorizontalKerninglookup0 subtable" 998 -78 "kernHorizontalKerninglookup0 subtable" 990 51 "kernHorizontalKerninglookup0 subtable" 987 0 "kernHorizontalKerninglookup0 subtable" 986 -129 "kernHorizontalKerninglookup0 subtable" 985 -129 "kernHorizontalKerninglookup0 subtable" 979 25 "kernHorizontalKerninglookup0 subtable" 978 -51 "kernHorizontalKerninglookup0 subtable" 971 -51 "kernHorizontalKerninglookup0 subtable" 967 -78 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 967 -90 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 967 -78 "kernHorizontalKerninglookup0 subtable" 971 -79 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 971 -51 "kernHorizontalKerninglookup0 subtable" 978 -72 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 978 -51 "kernHorizontalKerninglookup0 subtable" 979 9 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 979 25 "kernHorizontalKerninglookup0 subtable" 985 -139 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 985 -129 "kernHorizontalKerninglookup0 subtable" 986 -146 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 986 -129 "kernHorizontalKerninglookup0 subtable" 987 7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 987 0 "kernHorizontalKerninglookup0 subtable" 990 51 "kernHorizontalKerninglookup0 subtable" 998 -78 "kernHorizontalKerninglookup0 subtable" 1010 -27 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10039
@@ -24675,7 +24675,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 59 88 N 1 0 0 1 0 0 0
-Kerns2: 987 -56 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 984 -41 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 981 -41 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 974 9 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1018 -27 "kernHorizontalKerninglookup0 subtable" 1013 -78 "kernHorizontalKerninglookup0 subtable" 987 -51 "kernHorizontalKerninglookup0 subtable" 984 -27 "kernHorizontalKerninglookup0 subtable" 981 -27 "kernHorizontalKerninglookup0 subtable" 974 25 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 974 9 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 974 25 "kernHorizontalKerninglookup0 subtable" 981 -41 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 981 -27 "kernHorizontalKerninglookup0 subtable" 984 -41 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 984 -27 "kernHorizontalKerninglookup0 subtable" 987 -56 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 987 -51 "kernHorizontalKerninglookup0 subtable" 1013 -78 "kernHorizontalKerninglookup0 subtable" 1018 -27 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10040
@@ -24700,7 +24700,7 @@ SplineSet
  1218.15 216.28 l 1,0,0
  1406.55 216.28 l 1,0,0
 EndSplineSet
-Kerns2: 1013 0 "kernHorizontalKerninglookup0 subtable" 1004 0 "kernHorizontalKerninglookup0 subtable" 999 51 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 999 51 "kernHorizontalKerninglookup0 subtable" 1004 0 "kernHorizontalKerninglookup0 subtable" 1013 0 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10041
@@ -24785,7 +24785,7 @@ SplineSet
  1707.25 216.28 l 1,0,0
  1896.32 216.28 l 1,0,0
 EndSplineSet
-Kerns2: 1018 51 "kernHorizontalKerninglookup0 subtable" 1004 0 "kernHorizontalKerninglookup0 subtable" 999 51 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 999 51 "kernHorizontalKerninglookup0 subtable" 1004 0 "kernHorizontalKerninglookup0 subtable" 1018 51 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10044
@@ -24817,7 +24817,7 @@ SplineSet
  766.57 634.2 l 1,0,0
  682.65 203.93 l 1,0,0
 EndSplineSet
-Kerns2: 2129 -205 "kernHorizontalKerninglookup0 subtable" 998 -51 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 998 -51 "kernHorizontalKerninglookup0 subtable" 2129 -205 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10045
@@ -24881,7 +24881,7 @@ SplineSet
  428.23 634.2 l 1,0,0
  344.31 203.93 l 1,0,0
 EndSplineSet
-Kerns2: 990 -119 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 988 -72 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 985 -212 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 984 -82 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 981 -82 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 979 -32 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 978 -14 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 974 -56 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 973 -72 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 971 -14 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 967 -63 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 2129 -180 "kernHorizontalKerninglookup0 subtable" 998 -78 "kernHorizontalKerninglookup0 subtable" 996 -78 "kernHorizontalKerninglookup0 subtable" 990 -78 "kernHorizontalKerninglookup0 subtable" 988 -51 "kernHorizontalKerninglookup0 subtable" 985 -205 "kernHorizontalKerninglookup0 subtable" 984 -78 "kernHorizontalKerninglookup0 subtable" 981 -78 "kernHorizontalKerninglookup0 subtable" 979 -27 "kernHorizontalKerninglookup0 subtable" 978 0 "kernHorizontalKerninglookup0 subtable" 974 -51 "kernHorizontalKerninglookup0 subtable" 973 -51 "kernHorizontalKerninglookup0 subtable" 971 0 "kernHorizontalKerninglookup0 subtable" 967 -51 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 967 -63 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 967 -51 "kernHorizontalKerninglookup0 subtable" 971 -14 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 971 0 "kernHorizontalKerninglookup0 subtable" 973 -72 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 973 -51 "kernHorizontalKerninglookup0 subtable" 974 -56 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 974 -51 "kernHorizontalKerninglookup0 subtable" 978 -14 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 978 0 "kernHorizontalKerninglookup0 subtable" 979 -32 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 979 -27 "kernHorizontalKerninglookup0 subtable" 981 -82 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 981 -78 "kernHorizontalKerninglookup0 subtable" 984 -82 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 984 -78 "kernHorizontalKerninglookup0 subtable" 985 -212 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 985 -205 "kernHorizontalKerninglookup0 subtable" 988 -72 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 988 -51 "kernHorizontalKerninglookup0 subtable" 990 -119 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 990 -78 "kernHorizontalKerninglookup0 subtable" 996 -78 "kernHorizontalKerninglookup0 subtable" 998 -78 "kernHorizontalKerninglookup0 subtable" 2129 -180 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10047
@@ -24918,7 +24918,7 @@ SplineSet
  1150.27 1044.27 1150.27 1044.27 1058.16 1133.675 c 0,0,0
  966.05 1223.08 966.05 1223.08 799.43 1223.08 c 0,0,0
 EndSplineSet
-Kerns2: 988 -57 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 987 14 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 981 7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 978 -64 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 973 -49 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 971 -41 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1030 0 "kernHorizontalKerninglookup0 subtable" 1011 0 "kernHorizontalKerninglookup0 subtable" 1005 0 "kernHorizontalKerninglookup0 subtable" 1003 0 "kernHorizontalKerninglookup0 subtable" 998 -78 "kernHorizontalKerninglookup0 subtable" 988 -51 "kernHorizontalKerninglookup0 subtable" 987 0 "kernHorizontalKerninglookup0 subtable" 981 0 "kernHorizontalKerninglookup0 subtable" 978 -51 "kernHorizontalKerninglookup0 subtable" 973 -51 "kernHorizontalKerninglookup0 subtable" 971 -27 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 971 -41 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 971 -27 "kernHorizontalKerninglookup0 subtable" 973 -49 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 973 -51 "kernHorizontalKerninglookup0 subtable" 978 -64 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 978 -51 "kernHorizontalKerninglookup0 subtable" 981 7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 981 0 "kernHorizontalKerninglookup0 subtable" 987 14 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 987 0 "kernHorizontalKerninglookup0 subtable" 988 -57 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 988 -51 "kernHorizontalKerninglookup0 subtable" 998 -78 "kernHorizontalKerninglookup0 subtable" 1003 0 "kernHorizontalKerninglookup0 subtable" 1005 0 "kernHorizontalKerninglookup0 subtable" 1011 0 "kernHorizontalKerninglookup0 subtable" 1030 0 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10048
@@ -24966,7 +24966,7 @@ SplineSet
  1764.64 1021.5 1764.64 1021.5 1678.215 1122.285 c 0,0,0
  1591.79 1223.07 1591.79 1223.07 1433.59 1223.07 c 0,0,0
 EndSplineSet
-Kerns2: 990 -13 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 988 -40 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 985 -114 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 984 -7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 981 -7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 978 -37 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 973 -56 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 971 -37 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 967 -81 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 990 25 "kernHorizontalKerninglookup0 subtable" 988 -27 "kernHorizontalKerninglookup0 subtable" 985 -104 "kernHorizontalKerninglookup0 subtable" 984 0 "kernHorizontalKerninglookup0 subtable" 981 0 "kernHorizontalKerninglookup0 subtable" 978 0 "kernHorizontalKerninglookup0 subtable" 973 -51 "kernHorizontalKerninglookup0 subtable" 971 0 "kernHorizontalKerninglookup0 subtable" 967 -78 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 967 -81 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 967 -78 "kernHorizontalKerninglookup0 subtable" 971 -37 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 971 0 "kernHorizontalKerninglookup0 subtable" 973 -56 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 973 -51 "kernHorizontalKerninglookup0 subtable" 978 -37 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 978 0 "kernHorizontalKerninglookup0 subtable" 981 -7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 981 0 "kernHorizontalKerninglookup0 subtable" 984 -7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 984 0 "kernHorizontalKerninglookup0 subtable" 985 -114 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 985 -104 "kernHorizontalKerninglookup0 subtable" 988 -40 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 988 -27 "kernHorizontalKerninglookup0 subtable" 990 -13 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 990 25 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10049
@@ -25010,7 +25010,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 68 97 N 1 0 0 1 0 0 0
-Kerns2: 1028 -27 "kernHorizontalKerninglookup0 subtable" 1022 -78 "kernHorizontalKerninglookup0 subtable" 1018 -27 "kernHorizontalKerninglookup0 subtable" 1014 0 "kernHorizontalKerninglookup0 subtable" 1010 25 "kernHorizontalKerninglookup0 subtable" 1006 0 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 1006 0 "kernHorizontalKerninglookup0 subtable" 1010 25 "kernHorizontalKerninglookup0 subtable" 1014 0 "kernHorizontalKerninglookup0 subtable" 1018 -27 "kernHorizontalKerninglookup0 subtable" 1022 -78 "kernHorizontalKerninglookup0 subtable" 1028 -27 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10066
@@ -25061,7 +25061,7 @@ SplineSet
  895.66 727.16 895.66 727.16 841.36 790.645 c 0,0,0
  787.06 854.13 787.06 854.13 682.44 854.13 c 0,0,0
 EndSplineSet
-Kerns2: 1030 0 "kernHorizontalKerninglookup0 subtable" 1025 -104 "kernHorizontalKerninglookup0 subtable" 1022 -78 "kernHorizontalKerninglookup0 subtable" 1020 -51 "kernHorizontalKerninglookup0 subtable" 1018 -51 "kernHorizontalKerninglookup0 subtable" 1010 -27 "kernHorizontalKerninglookup0 subtable" 1005 -27 "kernHorizontalKerninglookup0 subtable" 1003 0 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 1003 0 "kernHorizontalKerninglookup0 subtable" 1005 -27 "kernHorizontalKerninglookup0 subtable" 1010 -27 "kernHorizontalKerninglookup0 subtable" 1018 -51 "kernHorizontalKerninglookup0 subtable" 1020 -51 "kernHorizontalKerninglookup0 subtable" 1022 -78 "kernHorizontalKerninglookup0 subtable" 1025 -104 "kernHorizontalKerninglookup0 subtable" 1030 0 "kernHorizontalKerninglookup0 subtable"
 Substitution2: "loclLocalizedFormsinCyrilliclookup9 subtable" afii10066.loclSRB
 Substitution2: "loclLocalizedFormsinCyrilliclookup8 subtable" afii10066.loclSRB
 EndChar
@@ -25106,7 +25106,7 @@ SplineSet
  377 474.23 l 1,0,0
  317.39 167.84 l 1,0,0
 EndSplineSet
-Kerns2: 1000 -41 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 999 -32 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1030 -27 "kernHorizontalKerninglookup0 subtable" 1025 -129 "kernHorizontalKerninglookup0 subtable" 1022 -102 "kernHorizontalKerninglookup0 subtable" 1019 -51 "kernHorizontalKerninglookup0 subtable" 1018 -78 "kernHorizontalKerninglookup0 subtable" 1017 -27 "kernHorizontalKerninglookup0 subtable" 1016 -51 "kernHorizontalKerninglookup0 subtable" 1013 -51 "kernHorizontalKerninglookup0 subtable" 1011 -51 "kernHorizontalKerninglookup0 subtable" 1010 0 "kernHorizontalKerninglookup0 subtable" 1006 -27 "kernHorizontalKerninglookup0 subtable" 1005 -27 "kernHorizontalKerninglookup0 subtable" 1004 -51 "kernHorizontalKerninglookup0 subtable" 1003 -51 "kernHorizontalKerninglookup0 subtable" 1000 -51 "kernHorizontalKerninglookup0 subtable" 999 -27 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 999 -32 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 999 -27 "kernHorizontalKerninglookup0 subtable" 1000 -41 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1000 -51 "kernHorizontalKerninglookup0 subtable" 1003 -51 "kernHorizontalKerninglookup0 subtable" 1004 -51 "kernHorizontalKerninglookup0 subtable" 1005 -27 "kernHorizontalKerninglookup0 subtable" 1006 -27 "kernHorizontalKerninglookup0 subtable" 1010 0 "kernHorizontalKerninglookup0 subtable" 1011 -51 "kernHorizontalKerninglookup0 subtable" 1013 -51 "kernHorizontalKerninglookup0 subtable" 1016 -51 "kernHorizontalKerninglookup0 subtable" 1017 -27 "kernHorizontalKerninglookup0 subtable" 1018 -78 "kernHorizontalKerninglookup0 subtable" 1019 -51 "kernHorizontalKerninglookup0 subtable" 1022 -102 "kernHorizontalKerninglookup0 subtable" 1025 -129 "kernHorizontalKerninglookup0 subtable" 1030 -27 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10068
@@ -25148,7 +25148,7 @@ SplineSet
  774.27 875.23 774.27 875.23 724.29 901.53 c 0,0,0
  674.31 927.83 674.31 927.83 579.67 927.83 c 0,0,0
 EndSplineSet
-Kerns2: 999 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1030 -27 "kernHorizontalKerninglookup0 subtable" 1016 -51 "kernHorizontalKerninglookup0 subtable" 1013 -51 "kernHorizontalKerninglookup0 subtable" 1011 -51 "kernHorizontalKerninglookup0 subtable" 1010 0 "kernHorizontalKerninglookup0 subtable" 1006 -51 "kernHorizontalKerninglookup0 subtable" 1004 -51 "kernHorizontalKerninglookup0 subtable" 1003 -78 "kernHorizontalKerninglookup0 subtable" 999 -27 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 999 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 999 -27 "kernHorizontalKerninglookup0 subtable" 1003 -78 "kernHorizontalKerninglookup0 subtable" 1004 -51 "kernHorizontalKerninglookup0 subtable" 1006 -51 "kernHorizontalKerninglookup0 subtable" 1010 0 "kernHorizontalKerninglookup0 subtable" 1011 -51 "kernHorizontalKerninglookup0 subtable" 1013 -51 "kernHorizontalKerninglookup0 subtable" 1016 -51 "kernHorizontalKerninglookup0 subtable" 1030 -27 "kernHorizontalKerninglookup0 subtable"
 Substitution2: "loclLocalizedFormsinCyrilliclookup9 subtable" afii10068.loclSRB
 Substitution2: "loclLocalizedFormsinCyrilliclookup8 subtable" afii10068.loclSRB
 EndChar
@@ -25210,7 +25210,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 72 101 N 1 0 0 1 0 0 0
-Kerns2: 1003 9 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 999 9 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1022 -51 "kernHorizontalKerninglookup0 subtable" 1020 -27 "kernHorizontalKerninglookup0 subtable" 1019 25 "kernHorizontalKerninglookup0 subtable" 1018 -27 "kernHorizontalKerninglookup0 subtable" 1017 0 "kernHorizontalKerninglookup0 subtable" 1016 25 "kernHorizontalKerninglookup0 subtable" 1011 0 "kernHorizontalKerninglookup0 subtable" 1010 25 "kernHorizontalKerninglookup0 subtable" 1006 0 "kernHorizontalKerninglookup0 subtable" 1005 -27 "kernHorizontalKerninglookup0 subtable" 1003 25 "kernHorizontalKerninglookup0 subtable" 999 25 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 999 9 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 999 25 "kernHorizontalKerninglookup0 subtable" 1003 9 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1003 25 "kernHorizontalKerninglookup0 subtable" 1005 -27 "kernHorizontalKerninglookup0 subtable" 1006 0 "kernHorizontalKerninglookup0 subtable" 1010 25 "kernHorizontalKerninglookup0 subtable" 1011 0 "kernHorizontalKerninglookup0 subtable" 1016 25 "kernHorizontalKerninglookup0 subtable" 1017 0 "kernHorizontalKerninglookup0 subtable" 1018 -27 "kernHorizontalKerninglookup0 subtable" 1019 25 "kernHorizontalKerninglookup0 subtable" 1020 -27 "kernHorizontalKerninglookup0 subtable" 1022 -51 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10072
@@ -25253,7 +25253,7 @@ SplineSet
  520.7 0 l 1,0,0
  610.34 459.54 l 1,0,0
 EndSplineSet
-Kerns2: 1025 25 "kernHorizontalKerninglookup0 subtable" 1022 -27 "kernHorizontalKerninglookup0 subtable" 1018 25 "kernHorizontalKerninglookup0 subtable" 1017 0 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 1017 0 "kernHorizontalKerninglookup0 subtable" 1018 25 "kernHorizontalKerninglookup0 subtable" 1022 -27 "kernHorizontalKerninglookup0 subtable" 1025 25 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10073
@@ -25293,7 +25293,7 @@ SplineSet
  896.7 158.33 896.7 158.33 771.825 69.165 c 0,0,0
  646.95 -20 646.95 -20 426.55 -20 c 0,0,0
 EndSplineSet
-Kerns2: 1005 -7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1004 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1003 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1000 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 999 -7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1025 -102 "kernHorizontalKerninglookup0 subtable" 1022 -102 "kernHorizontalKerninglookup0 subtable" 1019 -27 "kernHorizontalKerninglookup0 subtable" 1018 -78 "kernHorizontalKerninglookup0 subtable" 1016 -27 "kernHorizontalKerninglookup0 subtable" 1013 -27 "kernHorizontalKerninglookup0 subtable" 1011 -27 "kernHorizontalKerninglookup0 subtable" 1010 0 "kernHorizontalKerninglookup0 subtable" 1005 0 "kernHorizontalKerninglookup0 subtable" 1004 -27 "kernHorizontalKerninglookup0 subtable" 1003 -27 "kernHorizontalKerninglookup0 subtable" 1000 -27 "kernHorizontalKerninglookup0 subtable" 999 0 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 999 -7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 999 0 "kernHorizontalKerninglookup0 subtable" 1000 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1000 -27 "kernHorizontalKerninglookup0 subtable" 1003 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1003 -27 "kernHorizontalKerninglookup0 subtable" 1004 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1004 -27 "kernHorizontalKerninglookup0 subtable" 1005 -7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1005 0 "kernHorizontalKerninglookup0 subtable" 1010 0 "kernHorizontalKerninglookup0 subtable" 1011 -27 "kernHorizontalKerninglookup0 subtable" 1013 -27 "kernHorizontalKerninglookup0 subtable" 1016 -27 "kernHorizontalKerninglookup0 subtable" 1018 -78 "kernHorizontalKerninglookup0 subtable" 1019 -27 "kernHorizontalKerninglookup0 subtable" 1022 -102 "kernHorizontalKerninglookup0 subtable" 1025 -102 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10074
@@ -25344,7 +25344,7 @@ SplineSet
  487.82 471.2 l 1,0,0
  450.92 456.9 450.92 456.9 372.33 456.9 c 1,0,0
 EndSplineSet
-Kerns2: 1000 24 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1022 -27 "kernHorizontalKerninglookup0 subtable" 1017 0 "kernHorizontalKerninglookup0 subtable" 1016 0 "kernHorizontalKerninglookup0 subtable" 1000 25 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 1000 24 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1000 25 "kernHorizontalKerninglookup0 subtable" 1016 0 "kernHorizontalKerninglookup0 subtable" 1017 0 "kernHorizontalKerninglookup0 subtable" 1022 -27 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10077
@@ -25381,7 +25381,7 @@ SplineSet
  433.79 386.44 433.79 386.44 396.745 297.975 c 0,0,0
  359.7 209.51 359.7 209.51 325.32 151.09 c 0,0,0
 EndSplineSet
-Kerns2: 1022 -51 "kernHorizontalKerninglookup0 subtable" 1018 -27 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 1018 -27 "kernHorizontalKerninglookup0 subtable" 1022 -51 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10078
@@ -25416,7 +25416,7 @@ SplineSet
  427.88 926.61 427.88 926.61 422.04 881.36 c 0,0,0
  416.2 836.11 416.2 836.11 409.54 794.13 c 0,0,0
 EndSplineSet
-Kerns2: 1006 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1028 0 "kernHorizontalKerninglookup0 subtable" 1019 0 "kernHorizontalKerninglookup0 subtable" 1018 0 "kernHorizontalKerninglookup0 subtable" 1016 0 "kernHorizontalKerninglookup0 subtable" 1006 -27 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 1006 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1006 -27 "kernHorizontalKerninglookup0 subtable" 1016 0 "kernHorizontalKerninglookup0 subtable" 1018 0 "kernHorizontalKerninglookup0 subtable" 1019 0 "kernHorizontalKerninglookup0 subtable" 1028 0 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10079
@@ -25451,7 +25451,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 82 111 N 1 0 0 1 0 0 0
-Kerns2: 1010 -14 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1006 -7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1005 -32 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1030 0 "kernHorizontalKerninglookup0 subtable" 1028 -27 "kernHorizontalKerninglookup0 subtable" 1022 -102 "kernHorizontalKerninglookup0 subtable" 1020 -51 "kernHorizontalKerninglookup0 subtable" 1018 -51 "kernHorizontalKerninglookup0 subtable" 1010 0 "kernHorizontalKerninglookup0 subtable" 1006 0 "kernHorizontalKerninglookup0 subtable" 1005 -27 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 1005 -32 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1005 -27 "kernHorizontalKerninglookup0 subtable" 1006 -7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1006 0 "kernHorizontalKerninglookup0 subtable" 1010 -14 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1010 0 "kernHorizontalKerninglookup0 subtable" 1018 -51 "kernHorizontalKerninglookup0 subtable" 1020 -51 "kernHorizontalKerninglookup0 subtable" 1022 -102 "kernHorizontalKerninglookup0 subtable" 1028 -27 "kernHorizontalKerninglookup0 subtable" 1030 0 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10081
@@ -25474,7 +25474,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 83 112 N 1 0 0 1 0 0 0
-Kerns2: 1011 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1010 -32 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1006 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1005 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1030 0 "kernHorizontalKerninglookup0 subtable" 1028 -27 "kernHorizontalKerninglookup0 subtable" 1022 -102 "kernHorizontalKerninglookup0 subtable" 1020 -51 "kernHorizontalKerninglookup0 subtable" 1018 -53 "kernHorizontalKerninglookup0 subtable" 1011 -27 "kernHorizontalKerninglookup0 subtable" 1010 -27 "kernHorizontalKerninglookup0 subtable" 1006 -27 "kernHorizontalKerninglookup0 subtable" 1005 -27 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 1005 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1005 -27 "kernHorizontalKerninglookup0 subtable" 1006 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1006 -27 "kernHorizontalKerninglookup0 subtable" 1010 -32 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1010 -27 "kernHorizontalKerninglookup0 subtable" 1011 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1011 -27 "kernHorizontalKerninglookup0 subtable" 1018 -53 "kernHorizontalKerninglookup0 subtable" 1020 -51 "kernHorizontalKerninglookup0 subtable" 1022 -102 "kernHorizontalKerninglookup0 subtable" 1028 -27 "kernHorizontalKerninglookup0 subtable" 1030 0 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10083
@@ -25485,7 +25485,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 70 99 N 1 0 0 1 0 0 0
-Kerns2: 1005 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1025 -51 "kernHorizontalKerninglookup0 subtable" 1022 -78 "kernHorizontalKerninglookup0 subtable" 1020 -27 "kernHorizontalKerninglookup0 subtable" 1018 -27 "kernHorizontalKerninglookup0 subtable" 1005 -27 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 1005 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1005 -27 "kernHorizontalKerninglookup0 subtable" 1018 -27 "kernHorizontalKerninglookup0 subtable" 1020 -27 "kernHorizontalKerninglookup0 subtable" 1022 -78 "kernHorizontalKerninglookup0 subtable" 1025 -51 "kernHorizontalKerninglookup0 subtable"
 Substitution2: "loclLocalizedFormsinCyrilliclookup9 subtable" afii10083.loclSRB
 Substitution2: "loclLocalizedFormsinCyrilliclookup8 subtable" afii10083.loclSRB
 EndChar
@@ -25498,7 +25498,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 80 109 N 1 0 0 1 0 0 0
-Kerns2: 1016 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1015 -7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1013 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1011 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1010 -32 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1006 -41 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1005 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1003 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 999 -7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 17 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 15 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1030 0 "kernHorizontalKerninglookup0 subtable" 1028 -51 "kernHorizontalKerninglookup0 subtable" 1018 -51 "kernHorizontalKerninglookup0 subtable" 1016 -27 "kernHorizontalKerninglookup0 subtable" 1015 0 "kernHorizontalKerninglookup0 subtable" 1013 -27 "kernHorizontalKerninglookup0 subtable" 1011 -27 "kernHorizontalKerninglookup0 subtable" 1010 -27 "kernHorizontalKerninglookup0 subtable" 1006 -51 "kernHorizontalKerninglookup0 subtable" 1005 -27 "kernHorizontalKerninglookup0 subtable" 1003 -27 "kernHorizontalKerninglookup0 subtable" 999 0 "kernHorizontalKerninglookup0 subtable" 17 -27 "kernHorizontalKerninglookup0 subtable" 15 -27 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 15 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 15 -27 "kernHorizontalKerninglookup0 subtable" 17 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 17 -27 "kernHorizontalKerninglookup0 subtable" 999 -7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 999 0 "kernHorizontalKerninglookup0 subtable" 1003 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1003 -27 "kernHorizontalKerninglookup0 subtable" 1005 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1005 -27 "kernHorizontalKerninglookup0 subtable" 1006 -41 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1006 -51 "kernHorizontalKerninglookup0 subtable" 1010 -32 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1010 -27 "kernHorizontalKerninglookup0 subtable" 1011 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1011 -27 "kernHorizontalKerninglookup0 subtable" 1013 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1013 -27 "kernHorizontalKerninglookup0 subtable" 1015 -7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1015 0 "kernHorizontalKerninglookup0 subtable" 1016 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1016 -27 "kernHorizontalKerninglookup0 subtable" 1018 -51 "kernHorizontalKerninglookup0 subtable" 1028 -51 "kernHorizontalKerninglookup0 subtable" 1030 0 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10085
@@ -25509,7 +25509,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 92 121 N 1 0 0 1 0 0 0
-Kerns2: 1010 -7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1005 24 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1000 31 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 17 -97 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 15 -97 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1028 0 "kernHorizontalKerninglookup0 subtable" 1010 0 "kernHorizontalKerninglookup0 subtable" 1005 25 "kernHorizontalKerninglookup0 subtable" 1000 25 "kernHorizontalKerninglookup0 subtable" 17 -78 "kernHorizontalKerninglookup0 subtable" 15 -78 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 15 -97 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 15 -78 "kernHorizontalKerninglookup0 subtable" 17 -97 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 17 -78 "kernHorizontalKerninglookup0 subtable" 1000 31 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1000 25 "kernHorizontalKerninglookup0 subtable" 1005 24 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1005 25 "kernHorizontalKerninglookup0 subtable" 1010 -7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1010 0 "kernHorizontalKerninglookup0 subtable" 1028 0 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10086
@@ -25580,7 +25580,7 @@ SplineSet
  1453.98 812.87 1453.98 812.87 1417.34 869.175 c 0,0,0
  1380.7 925.48 1380.7 925.48 1300.42 925.48 c 0,0,0
 EndSplineSet
-Kerns2: 1018 -49 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1013 7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1010 -14 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1004 7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1000 7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1022 -78 "kernHorizontalKerninglookup0 subtable" 1018 -51 "kernHorizontalKerninglookup0 subtable" 1013 0 "kernHorizontalKerninglookup0 subtable" 1010 0 "kernHorizontalKerninglookup0 subtable" 1004 0 "kernHorizontalKerninglookup0 subtable" 1000 0 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 1000 7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1000 0 "kernHorizontalKerninglookup0 subtable" 1004 7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1004 0 "kernHorizontalKerninglookup0 subtable" 1010 -14 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1010 0 "kernHorizontalKerninglookup0 subtable" 1013 7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1013 0 "kernHorizontalKerninglookup0 subtable" 1018 -49 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1018 -51 "kernHorizontalKerninglookup0 subtable" 1022 -78 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10087
@@ -25591,7 +25591,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 91 120 N 1 0 0 1 0 0 0
-Kerns2: 1019 -49 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1016 -41 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1013 -41 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1006 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1004 -41 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 999 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1028 -27 "kernHorizontalKerninglookup0 subtable" 1022 -51 "kernHorizontalKerninglookup0 subtable" 1019 -51 "kernHorizontalKerninglookup0 subtable" 1016 -51 "kernHorizontalKerninglookup0 subtable" 1013 -51 "kernHorizontalKerninglookup0 subtable" 1006 -27 "kernHorizontalKerninglookup0 subtable" 1004 -51 "kernHorizontalKerninglookup0 subtable" 999 -27 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 999 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 999 -27 "kernHorizontalKerninglookup0 subtable" 1004 -41 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1004 -51 "kernHorizontalKerninglookup0 subtable" 1006 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1006 -27 "kernHorizontalKerninglookup0 subtable" 1013 -41 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1013 -51 "kernHorizontalKerninglookup0 subtable" 1016 -41 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1016 -51 "kernHorizontalKerninglookup0 subtable" 1019 -49 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1019 -51 "kernHorizontalKerninglookup0 subtable" 1022 -51 "kernHorizontalKerninglookup0 subtable" 1028 -27 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10088
@@ -25631,7 +25631,7 @@ SplineSet
  999.75 170.53 l 1,0,0
  1148.76 170.53 l 1,0,0
 EndSplineSet
-Kerns2: 1018 -10 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 999 -10 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1018 -27 "kernHorizontalKerninglookup0 subtable" 999 -27 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 999 -10 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 999 -27 "kernHorizontalKerninglookup0 subtable" 1018 -10 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1018 -27 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10089
@@ -25758,7 +25758,7 @@ SplineSet
  1493.56 0 l 1,0,0
  1305.37 0 l 1,0,0
 EndSplineSet
-Kerns2: 1018 14 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 999 7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1018 0 "kernHorizontalKerninglookup0 subtable" 999 0 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 999 7 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 999 0 "kernHorizontalKerninglookup0 subtable" 1018 14 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1018 0 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10092
@@ -25889,7 +25889,7 @@ SplineSet
  146.37 930.92 146.37 930.92 274.265 1015.96 c 0,0,0
  402.16 1101 402.16 1101 593.9 1101 c 0,0,0
 EndSplineSet
-Kerns2: 1020 -49 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1010 -14 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1005 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1030 0 "kernHorizontalKerninglookup0 subtable" 1020 -51 "kernHorizontalKerninglookup0 subtable" 1010 0 "kernHorizontalKerninglookup0 subtable" 1005 -27 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 1005 -25 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1005 -27 "kernHorizontalKerninglookup0 subtable" 1010 -14 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1010 0 "kernHorizontalKerninglookup0 subtable" 1020 -49 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1020 -51 "kernHorizontalKerninglookup0 subtable" 1030 0 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10096
@@ -25931,7 +25931,7 @@ SplineSet
  1291.78 275.13 1291.78 275.13 1327.26 395.72 c 0,0,0
  1362.74 516.31 1362.74 516.31 1369.41 668.26 c 1,0,0
 EndSplineSet
-Kerns2: 1022 -116 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1020 -56 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1010 -32 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1005 -41 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1022 -129 "kernHorizontalKerninglookup0 subtable" 1020 -51 "kernHorizontalKerninglookup0 subtable" 1010 -27 "kernHorizontalKerninglookup0 subtable" 1005 -51 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 1005 -41 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1005 -51 "kernHorizontalKerninglookup0 subtable" 1010 -32 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1010 -27 "kernHorizontalKerninglookup0 subtable" 1020 -56 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1020 -51 "kernHorizontalKerninglookup0 subtable" 1022 -116 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 1022 -129 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10097
@@ -26303,7 +26303,7 @@ LayerCount: 2
 Fore
 Refer: 92 121 N 1 0 0 1 0 0 0
 Refer: 3038 -1 N 1 0 0 1 263.87 0 0
-Kerns2: 17 -90 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 15 -90 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 17 -78 "kernHorizontalKerninglookup0 subtable" 15 -78 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 15 -90 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 15 -78 "kernHorizontalKerninglookup0 subtable" 17 -90 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 17 -78 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10193
@@ -28398,7 +28398,7 @@ SplineSet
  1164.36 1204.43 l 1,0,0
  538.54 1204.76 l 1,0,0
 EndSplineSet
-Kerns2: 124 -14 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 109 -14 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 17 -72 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 15 -72 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 124 0 "kernHorizontalKerninglookup0 subtable" 109 0 "kernHorizontalKerninglookup0 subtable" 17 -51 "kernHorizontalKerninglookup0 subtable" 15 -51 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 15 -72 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 15 -51 "kernHorizontalKerninglookup0 subtable" 17 -72 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 17 -51 "kernHorizontalKerninglookup0 subtable" 109 -14 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 109 0 "kernHorizontalKerninglookup0 subtable" 124 -14 "'kern' Kerning Horizontal in Cyrillic lookup 0 subtable" 124 0 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: afii10098
@@ -51179,7 +51179,7 @@ SplineSet
  556.37 1409 l 1,0,0
  521.67 1230.5 l 2,0,0
 EndSplineSet
-Kerns2: 2129 -76 "'kern' Kerning Horizontal lookup 0 subtable" 86 -37 "'kern' Kerning Horizontal lookup 0 subtable" 3 -37 "'kern' Kerning Horizontal lookup 0 subtable" 2129 -76 "kernHorizontalKerninglookup0 subtable" 86 -37 "kernHorizontalKerninglookup0 subtable" 3 0 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 3 -37 "'kern' Kerning Horizontal lookup 0 subtable" 3 0 "kernHorizontalKerninglookup0 subtable" 86 -37 "'kern' Kerning Horizontal lookup 0 subtable" 86 -37 "kernHorizontalKerninglookup0 subtable" 2129 -76 "'kern' Kerning Horizontal lookup 0 subtable" 2129 -76 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: quotesinglbase
@@ -51314,7 +51314,7 @@ SplineSet
  335.58 238.55 l 1,0,0
  300.88 60.72 l 2,0,0
 EndSplineSet
-Kerns2: 993 -212 "'kern' Kerning Horizontal lookup 0 subtable" 990 -184 "'kern' Kerning Horizontal lookup 0 subtable" 985 -245 "'kern' Kerning Horizontal lookup 0 subtable" 962 -246 "'kern' Kerning Horizontal lookup 0 subtable" 953 -237 "'kern' Kerning Horizontal lookup 0 subtable" 993 -205 "kernHorizontalKerninglookup0 subtable" 990 -129 "kernHorizontalKerninglookup0 subtable" 985 -231 "kernHorizontalKerninglookup0 subtable" 962 -256 "kernHorizontalKerninglookup0 subtable" 953 -231 "kernHorizontalKerninglookup0 subtable"
+Kerns2: 953 -237 "'kern' Kerning Horizontal lookup 0 subtable" 953 -231 "kernHorizontalKerninglookup0 subtable" 962 -246 "'kern' Kerning Horizontal lookup 0 subtable" 962 -256 "kernHorizontalKerninglookup0 subtable" 985 -245 "'kern' Kerning Horizontal lookup 0 subtable" 985 -231 "kernHorizontalKerninglookup0 subtable" 990 -184 "'kern' Kerning Horizontal lookup 0 subtable" 990 -129 "kernHorizontalKerninglookup0 subtable" 993 -212 "'kern' Kerning Horizontal lookup 0 subtable" 993 -205 "kernHorizontalKerninglookup0 subtable"
 EndChar
 
 StartChar: uni201F
