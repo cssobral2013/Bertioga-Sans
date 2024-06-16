@@ -1,0 +1,66 @@
+{
+glyphname = "geresh-hb";
+layers = (
+{
+layerId = "F22D2CAB-3A7F-49A1-9202-DC9343798BDC";
+shapes = (
+{
+closed = 1;
+nodes = (
+(877,1665,l),
+(573,1665,l),
+(313,1030,l),
+(523,1030,l)
+);
+}
+);
+width = 859;
+},
+{
+layerId = "540001E1-6881-4DFA-ACAC-B89E119E0EAF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(850,1665,l),
+(571,1665,l),
+(311,1030,l),
+(496,1030,l)
+);
+}
+);
+width = 831;
+},
+{
+layerId = "85C7CFC8-DA24-401F-A421-248411B25E5A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(811,1665,l),
+(568,1665,l),
+(308,1030,l),
+(457,1030,l)
+);
+}
+);
+width = 788;
+},
+{
+layerId = "9CB70E7F-BC76-4DD2-ACFF-26AC98198772";
+shapes = (
+{
+closed = 1;
+nodes = (
+(791,1665,l),
+(573,1665,l),
+(313,1030,l),
+(437,1030,l)
+);
+}
+);
+width = 773;
+}
+);
+unicode = 1523;
+}

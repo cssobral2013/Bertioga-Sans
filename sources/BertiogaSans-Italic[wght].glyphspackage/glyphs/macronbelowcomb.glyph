@@ -1,0 +1,66 @@
+{
+glyphname = macronbelowcomb;
+layers = (
+{
+layerId = "F22D2CAB-3A7F-49A1-9202-DC9343798BDC";
+shapes = (
+{
+closed = 1;
+nodes = (
+(186,-132,l),
+(-469,-132,l),
+(-516,-327,l),
+(137,-327,l)
+);
+}
+);
+width = 0;
+},
+{
+layerId = "540001E1-6881-4DFA-ACAC-B89E119E0EAF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(220,-154,l),
+(-398,-154,l),
+(-438,-326,l),
+(179,-326,l)
+);
+}
+);
+width = 0;
+},
+{
+layerId = "85C7CFC8-DA24-401F-A421-248411B25E5A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(272,-188,l),
+(-292,-188,l),
+(-320,-324,l),
+(243,-324,l)
+);
+}
+);
+width = 0;
+},
+{
+layerId = "9CB70E7F-BC76-4DD2-ACFF-26AC98198772";
+shapes = (
+{
+closed = 1;
+nodes = (
+(306,-210,l),
+(-221,-210,l),
+(-242,-323,l),
+(285,-323,l)
+);
+}
+);
+width = 0;
+}
+);
+unicode = 817;
+}

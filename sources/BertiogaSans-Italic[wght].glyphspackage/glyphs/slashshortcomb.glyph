@@ -1,0 +1,66 @@
+{
+glyphname = slashshortcomb;
+layers = (
+{
+layerId = "F22D2CAB-3A7F-49A1-9202-DC9343798BDC";
+shapes = (
+{
+closed = 1;
+nodes = (
+(434,719,l),
+(258,903,l),
+(-495,171,l),
+(-316,-18,l)
+);
+}
+);
+width = 0;
+},
+{
+layerId = "540001E1-6881-4DFA-ACAC-B89E119E0EAF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(461,780,l),
+(311,934,l),
+(-501,136,l),
+(-349,-21,l)
+);
+}
+);
+width = 0;
+},
+{
+layerId = "85C7CFC8-DA24-401F-A421-248411B25E5A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(501,872,l),
+(391,982,l),
+(-509,84,l),
+(-399,-27,l)
+);
+}
+);
+width = 0;
+},
+{
+layerId = "9CB70E7F-BC76-4DD2-ACFF-26AC98198772";
+shapes = (
+{
+closed = 1;
+nodes = (
+(528,933,l),
+(444,1013,l),
+(-515,49,l),
+(-432,-30,l)
+);
+}
+);
+width = 0;
+}
+);
+unicode = 823;
+}

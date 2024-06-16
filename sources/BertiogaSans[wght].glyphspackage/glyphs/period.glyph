@@ -1,0 +1,66 @@
+{
+glyphname = period;
+layers = (
+{
+layerId = "9CBD3AC2-9D8D-48B9-985E-25F89544A3BC";
+shapes = (
+{
+closed = 1;
+nodes = (
+(459,363,l),
+(107,363,l),
+(107,0,l),
+(459,0,l)
+);
+}
+);
+width = 569;
+},
+{
+layerId = "9CAA62FE-9EBF-4577-B1F1-D704579B9400";
+shapes = (
+{
+closed = 1;
+nodes = (
+(433,314,l),
+(134,314,l),
+(134,0,l),
+(433,0,l)
+);
+}
+);
+width = 569;
+},
+{
+layerId = "4CFB2959-BEB7-4CB7-85AA-15E8C72B431E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(393,240,l),
+(176,240,l),
+(176,0,l),
+(393,0,l)
+);
+}
+);
+width = 569;
+},
+{
+layerId = "6C107EBF-3F3D-4659-9DBC-490DE09F0738";
+shapes = (
+{
+closed = 1;
+nodes = (
+(367,191,l),
+(203,191,l),
+(203,0,l),
+(367,0,l)
+);
+}
+);
+width = 569;
+}
+);
+unicode = 46;
+}

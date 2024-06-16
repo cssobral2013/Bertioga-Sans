@@ -1,0 +1,82 @@
+{
+glyphname = redebar;
+layers = (
+{
+layerId = "9CBD3AC2-9D8D-48B9-985E-25F89544A3BC";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-5,374,l),
+(-5,178,l),
+(1146,178,l),
+(1146,374,l)
+);
+},
+{
+alignment = -1;
+ref = e;
+}
+);
+width = 1139;
+},
+{
+layerId = "9CAA62FE-9EBF-4577-B1F1-D704579B9400";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-7,400,l),
+(-7,227,l),
+(1147,227,l),
+(1147,400,l)
+);
+},
+{
+alignment = -1;
+ref = e;
+}
+);
+width = 1139;
+},
+{
+layerId = "4CFB2959-BEB7-4CB7-85AA-15E8C72B431E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-11,440,l),
+(-11,299,l),
+(1149,299,l),
+(1149,440,l)
+);
+},
+{
+alignment = -1;
+ref = e;
+}
+);
+width = 1139;
+},
+{
+layerId = "6C107EBF-3F3D-4659-9DBC-490DE09F0738";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-13,466,l),
+(-13,348,l),
+(1150,348,l),
+(1150,466,l)
+);
+},
+{
+alignment = -1;
+ref = e;
+}
+);
+width = 1139;
+}
+);
+unicode = 43827;
+}

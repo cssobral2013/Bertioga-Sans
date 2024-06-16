@@ -1,0 +1,66 @@
+{
+glyphname = lightcentralizationstrokebelowcomb;
+layers = (
+{
+layerId = "F22D2CAB-3A7F-49A1-9202-DC9343798BDC";
+shapes = (
+{
+closed = 1;
+nodes = (
+(180,-32,l),
+(21,35,l),
+(-181,-448,l),
+(-21,-515,l)
+);
+}
+);
+width = 0;
+},
+{
+layerId = "540001E1-6881-4DFA-ACAC-B89E119E0EAF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(169,-20,l),
+(38,35,l),
+(-169,-460,l),
+(-37,-515,l)
+);
+}
+);
+width = 0;
+},
+{
+layerId = "85C7CFC8-DA24-401F-A421-248411B25E5A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(151,-2,l),
+(62,35,l),
+(-151,-478,l),
+(-61,-515,l)
+);
+}
+);
+width = 0;
+},
+{
+layerId = "9CB70E7F-BC76-4DD2-ACFF-26AC98198772";
+shapes = (
+{
+closed = 1;
+nodes = (
+(140,10,l),
+(79,35,l),
+(-139,-490,l),
+(-77,-515,l)
+);
+}
+);
+width = 0;
+}
+);
+unicode = 6841;
+}

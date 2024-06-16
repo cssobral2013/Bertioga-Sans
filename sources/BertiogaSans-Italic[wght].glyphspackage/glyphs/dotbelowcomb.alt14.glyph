@@ -1,0 +1,65 @@
+{
+glyphname = dotbelowcomb.alt14;
+layers = (
+{
+layerId = "F22D2CAB-3A7F-49A1-9202-DC9343798BDC";
+shapes = (
+{
+closed = 1;
+nodes = (
+(775,-176,l),
+(426,-176,l),
+(383,-406,l),
+(731,-406,l)
+);
+}
+);
+width = 0;
+},
+{
+layerId = "540001E1-6881-4DFA-ACAC-B89E119E0EAF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(252,-163,l),
+(-39,-163,l),
+(-80,-373,l),
+(210,-373,l)
+);
+}
+);
+width = 0;
+},
+{
+layerId = "85C7CFC8-DA24-401F-A421-248411B25E5A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-532,-145,l),
+(-737,-145,l),
+(-774,-325,l),
+(-570,-325,l)
+);
+}
+);
+width = 0;
+},
+{
+layerId = "9CB70E7F-BC76-4DD2-ACFF-26AC98198772";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-1055,-132,l),
+(-1202,-132,l),
+(-1237,-292,l),
+(-1091,-292,l)
+);
+}
+);
+width = 0;
+}
+);
+}

@@ -1,0 +1,82 @@
+{
+glyphname = astroke;
+layers = (
+{
+layerId = "9CBD3AC2-9D8D-48B9-985E-25F89544A3BC";
+shapes = (
+{
+closed = 1;
+nodes = (
+(379,-426,l),
+(555,-426,l),
+(705,1484,l),
+(528,1484,l)
+);
+},
+{
+alignment = -1;
+ref = a;
+}
+);
+width = 1139;
+},
+{
+layerId = "9CAA62FE-9EBF-4577-B1F1-D704579B9400";
+shapes = (
+{
+closed = 1;
+nodes = (
+(277,-425,l),
+(441,-425,l),
+(831,1484,l),
+(666,1484,l)
+);
+},
+{
+alignment = -1;
+ref = a;
+}
+);
+width = 1139;
+},
+{
+layerId = "4CFB2959-BEB7-4CB7-85AA-15E8C72B431E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(123,-425,l),
+(271,-425,l),
+(1021,1484,l),
+(874,1484,l)
+);
+},
+{
+alignment = -1;
+ref = a;
+}
+);
+width = 1139;
+},
+{
+layerId = "6C107EBF-3F3D-4659-9DBC-490DE09F0738";
+shapes = (
+{
+closed = 1;
+nodes = (
+(21,-424,l),
+(157,-424,l),
+(1147,1484,l),
+(1012,1484,l)
+);
+},
+{
+alignment = -1;
+ref = a;
+}
+);
+width = 1139;
+}
+);
+unicode = 11365;
+}
