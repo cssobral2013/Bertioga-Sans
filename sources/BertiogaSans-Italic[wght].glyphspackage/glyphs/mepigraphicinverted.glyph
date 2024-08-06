@@ -2,13 +2,12 @@
 glyphname = mepigraphicinverted;
 layers = (
 {
-layerId = "F22D2CAB-3A7F-49A1-9202-DC9343798BDC";
+layerId = "4BF4B489-BD31-44B3-B107-FC4282D889AB";
 shapes = (
 {
 closed = 1;
 nodes = (
 (819,667,l),
-(886,816,l),
 (953,967,l),
 (958,875,o),
 (962,804,o),
@@ -57,13 +56,12 @@ nodes = (
 width = 1706;
 },
 {
-layerId = "540001E1-6881-4DFA-ACAC-B89E119E0EAF";
+layerId = "86356D96-A9F7-466C-8338-FA4F598E1FDA";
 shapes = (
 {
 closed = 1;
 nodes = (
 (837,770,l),
-(912,931,l),
 (961,1040,l),
 (966,968,o),
 (970,910,o),
@@ -112,13 +110,12 @@ nodes = (
 width = 1706;
 },
 {
-layerId = "85C7CFC8-DA24-401F-A421-248411B25E5A";
+layerId = "55E58B27-7540-477B-A952-538A3E316EF2";
 shapes = (
 {
 closed = 1;
 nodes = (
 (865,926,l),
-(952,1105,l),
 (973,1150,l),
 (978,1108,o),
 (983,1068,o),
@@ -167,13 +164,12 @@ nodes = (
 width = 1706;
 },
 {
-layerId = "9CB70E7F-BC76-4DD2-ACFF-26AC98198772";
+layerId = "79976DCB-F9F8-4AE0-A082-2E792CAF2855";
 shapes = (
 {
 closed = 1;
 nodes = (
 (883,1029,l),
-(978,1220,l),
 (981,1223,l),
 (986,1201,o),
 (991,1174,o),

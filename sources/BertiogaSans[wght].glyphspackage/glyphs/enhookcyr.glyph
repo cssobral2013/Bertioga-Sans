@@ -2,7 +2,7 @@
 glyphname = enhookcyr;
 layers = (
 {
-layerId = "9CBD3AC2-9D8D-48B9-985E-25F89544A3BC";
+layerId = "0223EC17-1D6C-4E86-A3CA-0633C37BA543";
 shapes = (
 {
 closed = 1;
@@ -49,7 +49,7 @@ nodes = (
 width = 1308;
 },
 {
-layerId = "9CAA62FE-9EBF-4577-B1F1-D704579B9400";
+layerId = "D23BE918-FDD7-48F3-9118-B5187C1A8D3A";
 shapes = (
 {
 closed = 1;
@@ -96,7 +96,7 @@ nodes = (
 width = 1237;
 },
 {
-layerId = "4CFB2959-BEB7-4CB7-85AA-15E8C72B431E";
+layerId = "18E55F76-04A3-47B5-A890-6BB42B40107E";
 shapes = (
 {
 closed = 1;
@@ -143,13 +143,13 @@ nodes = (
 width = 1131;
 },
 {
-layerId = "6C107EBF-3F3D-4659-9DBC-490DE09F0738";
+layerId = "68B4E185-86CD-4FB2-9D99-F65C6A982671";
 shapes = (
 {
 closed = 1;
 nodes = (
-(148,-96,l),
-(161,-211,o),
+(168,-117,l),
+(181,-232,o),
 (203,-295,o),
 (273,-347,cs),
 (343,-399,o),

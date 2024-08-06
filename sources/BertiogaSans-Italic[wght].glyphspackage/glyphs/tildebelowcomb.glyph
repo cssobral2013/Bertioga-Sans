@@ -2,7 +2,7 @@
 glyphname = tildebelowcomb;
 layers = (
 {
-layerId = "F22D2CAB-3A7F-49A1-9202-DC9343798BDC";
+layerId = "4BF4B489-BD31-44B3-B107-FC4282D889AB";
 shapes = (
 {
 closed = 1;
@@ -60,7 +60,7 @@ nodes = (
 width = 0;
 },
 {
-layerId = "540001E1-6881-4DFA-ACAC-B89E119E0EAF";
+layerId = "86356D96-A9F7-466C-8338-FA4F598E1FDA";
 shapes = (
 {
 closed = 1;
@@ -118,7 +118,7 @@ nodes = (
 width = 0;
 },
 {
-layerId = "85C7CFC8-DA24-401F-A421-248411B25E5A";
+layerId = "55E58B27-7540-477B-A952-538A3E316EF2";
 shapes = (
 {
 closed = 1;
@@ -176,7 +176,7 @@ nodes = (
 width = 0;
 },
 {
-layerId = "9CB70E7F-BC76-4DD2-ACFF-26AC98198772";
+layerId = "79976DCB-F9F8-4AE0-A082-2E792CAF2855";
 shapes = (
 {
 closed = 1;

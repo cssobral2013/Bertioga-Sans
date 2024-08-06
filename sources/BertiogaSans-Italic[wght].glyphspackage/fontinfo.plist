@@ -3874,7 +3874,7 @@ guides = (
 position = "{0, 512}";
 }
 );
-id = "9CB70E7F-BC76-4DD2-ACFF-26AC98198772";
+id = "79976DCB-F9F8-4AE0-A082-2E792CAF2855";
 metricValues = (
 {
 over = 47;
@@ -4026,7 +4026,7 @@ guides = (
 position = "{0, 512}";
 }
 );
-id = "85C7CFC8-DA24-401F-A421-248411B25E5A";
+id = "55E58B27-7540-477B-A952-538A3E316EF2";
 metricValues = (
 {
 pos = 0;
@@ -4174,7 +4174,7 @@ guides = (
 position = "{0, 512}";
 }
 );
-id = "540001E1-6881-4DFA-ACAC-B89E119E0EAF";
+id = "86356D96-A9F7-466C-8338-FA4F598E1FDA";
 metricValues = (
 {
 pos = 0;
@@ -4323,7 +4323,7 @@ guides = (
 position = "{0, 512}";
 }
 );
-id = "F22D2CAB-3A7F-49A1-9202-DC9343798BDC";
+id = "4BF4B489-BD31-44B3-B107-FC4282D889AB";
 metricValues = (
 {
 pos = 0;
@@ -4423,16 +4423,14 @@ weightClass = Black;
 }
 );
 kerningLTR = {
-"540001E1-6881-4DFA-ACAC-B89E119E0EAF" = {
+"4BF4B489-BD31-44B3-B107-FC4282D889AB" = {
 A = {
 T = -152;
 V = -152;
 W = -113;
 Y = -152;
 quoteright = -113;
-v = -15;
-w = -15;
-y = -7;
+space = 50;
 };
 Alpha = {
 Omicron = -117;
@@ -4445,6 +4443,7 @@ chi = -59;
 gamma = -59;
 nu = -59;
 quoteright = -113;
+space = 50;
 };
 Alphatonos = {
 Omicron = -117;
@@ -4456,30 +4455,32 @@ Upsilondieresis = -252;
 chi = -59;
 gamma = -59;
 nu = -59;
+space = 50;
 };
 Chi = {
 omega = -70;
 omegatonos = -70;
 };
 F = {
-A = -113;
-comma = -227;
-period = -227;
+A = -86;
+comma = -202;
+period = -202;
+space = 24;
 };
 Gamma = {
-Alpha = -178;
+Alpha = -166;
 Lambda = -178;
-comma = -225;
+comma = -200;
 iota = -37;
 iotadieresis = 131;
-iotadieresistonos = 266;
-period = -225;
+iotadieresistonos = 304;
+period = -200;
 uni0394 = -178;
 };
 Kappa = {
 Omicron = -147;
 Phi = -147;
-Theta = -147;
+Theta = -179;
 alpha = -39;
 alphatonos = -39;
 delta = -39;
@@ -4499,7 +4500,7 @@ V = -113;
 W = -113;
 Y = -152;
 quoteright = -152;
-y = -15;
+space = 24;
 };
 Lambda = {
 Omicron = -43;
@@ -4507,15 +4508,15 @@ Tau = -188;
 Theta = -43;
 Upsilon = -252;
 Upsilondieresis = -252;
-};
-Omegatonos = {
-Upsilon = -44;
-Upsilondieresis = -44;
+space = 24;
 };
 Omicron = {
-Alpha = -57;
+Alpha = -79;
+Alphatonos = 15;
+Lambda = 15;
 Upsilon = -82;
 Upsilondieresis = -82;
+uni0394 = 15;
 };
 Omicrontonos = {
 Upsilon = -82;
@@ -4525,9 +4526,10 @@ P = {
 A = -152;
 comma = -264;
 period = -264;
+space = 50;
 };
 Phi = {
-Alpha = -57;
+Alpha = -41;
 Upsilon = -111;
 Upsilondieresis = -111;
 };
@@ -4544,7 +4546,6 @@ sigma = -41;
 };
 R = {
 T = -37;
-V = -15;
 W = -37;
 Y = -37;
 };
@@ -4564,12 +4565,12 @@ O = -37;
 a = -76;
 c = -76;
 colon = -152;
-comma = -152;
+comma = -127;
 e = -76;
-hyphen = -113;
+hyphen = -62;
 i = -37;
 o = -76;
-period = -152;
+period = -127;
 r = -37;
 s = -76;
 semicolon = -152;
@@ -4579,7 +4580,7 @@ y = -76;
 };
 Tau = {
 Alpha = -152;
-Lambda = -92;
+Lambda = -51;
 Omicron = -37;
 Phi = -37;
 Theta = -37;
@@ -4587,44 +4588,43 @@ alpha = -76;
 alphatonos = -76;
 chi = -76;
 colon = -152;
-comma = -152;
+comma = -129;
 delta = -76;
 epsilon = -76;
 epsilontonos = -76;
 eta = -37;
 gamma = -55;
-hyphen = -113;
+hyphen = -64;
 iota = -37;
 iotadieresis = 131;
-iotadieresistonos = 281;
+iotadieresistonos = 326;
 nu = -76;
 omicron = -76;
 omicrontonos = -76;
-period = -152;
+period = -129;
 phi = -76;
 psi = -55;
 semicolon = -152;
 sigma = -76;
-uni0394 = -92;
+uni0394 = -51;
 uni03A9 = -37;
 uni03BC = -37;
 upsilon = -37;
 upsilondieresis = -37;
-upsilondieresistonos = -61;
 upsilontonos = -37;
 };
 Theta = {
-Alpha = -57;
-Lambda = -9;
+Alpha = -79;
 Upsilon = -82;
 Upsilondieresis = -82;
+uni0394 = 15;
 };
 Upsilon = {
-Alpha = -182;
-Lambda = -113;
+Alpha = -202;
+Lambda = -86;
 alpha = -76;
 alphatonos = -76;
-colon = -113;
+colon = -137;
 comma = -186;
 delta = -76;
 eta = -76;
@@ -4633,21 +4633,21 @@ gamma = -43;
 hyphen = -152;
 iota = -76;
 iotadieresis = 131;
-iotadieresistonos = 266;
+iotadieresistonos = 301;
 iotatonos = -76;
 kappa = -76;
 omicron = -76;
 omicrontonos = -76;
 period = -186;
 phi = -76;
-semicolon = -113;
+semicolon = -137;
 sigma = -76;
-uni0394 = -135;
+uni0394 = -123;
 uni03BC = -76;
 };
 Upsilondieresis = {
-Alpha = -182;
-Lambda = -113;
+Alpha = -202;
+Lambda = -86;
 alpha = -76;
 alphatonos = -76;
 delta = -76;
@@ -4655,13 +4655,13 @@ eta = -76;
 etatonos = -76;
 iota = -76;
 iotadieresis = 131;
-iotadieresistonos = 266;
+iotadieresistonos = 301;
 kappa = -76;
 omicron = -76;
 omicrontonos = -76;
 phi = -76;
 sigma = -76;
-uni0394 = -135;
+uni0394 = -123;
 uni03BC = -76;
 };
 Upsilontonos = {
@@ -4685,33 +4685,33 @@ uni0394 = -135;
 uni03BC = -76;
 };
 V = {
-A = -152;
+A = -178;
 a = -76;
-colon = -76;
-comma = -188;
+colon = -102;
+comma = -212;
 e = -76;
 hyphen = -76;
 i = -76;
 o = -76;
-period = -188;
+period = -212;
 r = -37;
-semicolon = -76;
+semicolon = -102;
 u = -37;
 y = -37;
 };
 W = {
-A = -113;
+A = -163;
 a = -37;
-comma = -152;
+comma = -202;
 e = -37;
-hyphen = -76;
+hyphen = -102;
 i = -18;
-period = -152;
+period = -202;
 };
 Y = {
-A = -152;
+A = -178;
 a = -76;
-colon = -113;
+colon = -137;
 comma = -188;
 e = -76;
 hyphen = -152;
@@ -4720,35 +4720,35 @@ o = -76;
 p = -76;
 period = -188;
 q = -76;
-semicolon = -113;
+semicolon = -137;
+space = 24;
 u = -76;
 v = -76;
 };
 chi = {
-alpha = -29;
-alphatonos = -29;
-delta = -29;
+alpha = -24;
+alphatonos = -24;
+delta = -24;
 omega = -29;
 omegatonos = -29;
-omicron = -29;
+omicron = -24;
 omicrontonos = -29;
-phi = -29;
-sigma = -29;
-zeta = -29;
+phi = -24;
+sigma = -24;
+zeta = -24;
 };
 delta = {
 chi = -57;
 gamma = -37;
 pi = -35;
-tau = -18;
 };
 f = {
 quoteright = 37;
 };
 kappa = {
-alpha = -78;
-alphatonos = -78;
-delta = -78;
+alpha = -113;
+alphatonos = -113;
+delta = -113;
 omega = -78;
 omegatonos = -78;
 omicron = -78;
@@ -4756,7 +4756,7 @@ omicrontonos = -78;
 phi = -78;
 sigma = -78;
 xi = -78;
-zeta = -78;
+zeta = -90;
 };
 lambda = {
 alpha = -29;
@@ -4770,20 +4770,22 @@ phi = -29;
 sigma = -29;
 upsilon = -39;
 upsilondieresis = -39;
-upsilondieresistonos = -39;
+upsilondieresistonos = -20;
 upsilontonos = -39;
 xi = -29;
 zeta = -29;
 };
 omega = {
-chi = -57;
+chi = -55;
 gamma = -37;
-pi = -35;
+pi = -28;
+tau = 30;
 };
 omegatonos = {
-chi = -57;
+chi = -55;
 gamma = -37;
-pi = -35;
+pi = -28;
+tau = 30;
 };
 omicron = {
 chi = -57;
@@ -4792,20 +4794,26 @@ pi = -35;
 tau = -35;
 };
 omicrontonos = {
-chi = -57;
+chi = -55;
 gamma = -37;
-pi = -35;
+pi = -28;
+tau = 30;
 };
 phi = {
 chi = -57;
 gamma = -37;
-pi = -35;
+pi = -28;
+tau = 30;
 };
 pi = {
+alpha = 19;
+alphatonos = 19;
+delta = 19;
 omega = 29;
 omegatonos = 29;
+omicron = 19;
 phi = 29;
-sigma = -12;
+zeta = 19;
 };
 quoteleft = {
 quoteleft = -76;
@@ -4813,31 +4821,27 @@ quoteleft = -76;
 quoteright = {
 quoteright = -76;
 s = -37;
+space = 75;
 };
 r = {
 comma = -113;
-period = -113;
+hyphen = 24;
+period = -137;
 quoteright = 76;
 };
 rho = {
-pi = -35;
-tau = -18;
-};
-space = {
-A = -30;
-Alpha = -30;
-Alphatonos = -30;
-Lambda = -15;
-Upsilon = -15;
-Upsilondieresis = -15;
-Upsilontonos = -15;
-Y = -15;
-uni0394 = -30;
+pi = -28;
 };
 tau = {
+alpha = 19;
+alphatonos = 19;
+delta = 19;
 omega = 29;
 omegatonos = 29;
+omicron = 19;
 phi = 29;
+sigma = 19;
+zeta = 19;
 };
 uni0394 = {
 Omicron = -43;
@@ -4845,43 +4849,45 @@ Tau = -188;
 Theta = -43;
 Upsilon = -252;
 Upsilondieresis = -252;
+space = 50;
 };
 uni03A9 = {
-Upsilon = -82;
+Upsilon = -62;
 Upsilondieresis = -82;
 };
 v = {
-comma = -113;
-period = -113;
+comma = -86;
+period = -86;
 };
 w = {
-comma = -76;
-period = -76;
+comma = -51;
+period = -51;
 };
 xi = {
-alpha = -43;
-alphatonos = -43;
-delta = -43;
+alpha = -52;
+alphatonos = -52;
+delta = -52;
 omicron = -43;
 omicrontonos = -43;
 phi = -43;
 sigma = -43;
-xi = -43;
-zeta = -43;
+xi = -52;
+zeta = -52;
 };
 y = {
-comma = -76;
-period = -76;
+comma = -25;
+period = -25;
 };
 zeta = {
-alpha = -221;
-alphatonos = -221;
-delta = -74;
+alpha = -300;
+alphatonos = -300;
+delta = -84;
+epsilon = 83;
+epsilontonos = 83;
 eta = -78;
-etatonos = -78;
-gamma = -57;
+etatonos = -53;
+gamma = -55;
 iota = -78;
-iotadieresis = 45;
 nu = -57;
 omega = -221;
 omegatonos = -221;
@@ -4892,11 +4898,9 @@ pi = -57;
 sigma = -221;
 tau = -57;
 theta = -43;
-upsilon = -50;
-upsilontonos = -50;
 };
 };
-"85C7CFC8-DA24-401F-A421-248411B25E5A" = {
+"55E58B27-7540-477B-A952-538A3E316EF2" = {
 A = {
 T = -152;
 V = -113;
@@ -5401,7 +5405,7 @@ upsilon = -125;
 upsilontonos = -125;
 };
 };
-"9CB70E7F-BC76-4DD2-ACFF-26AC98198772" = {
+"79976DCB-F9F8-4AE0-A082-2E792CAF2855" = {
 A = {
 T = -152;
 V = -113;
@@ -5906,14 +5910,16 @@ upsilon = -125;
 upsilontonos = -125;
 };
 };
-"F22D2CAB-3A7F-49A1-9202-DC9343798BDC" = {
+"86356D96-A9F7-466C-8338-FA4F598E1FDA" = {
 A = {
 T = -152;
 V = -152;
 W = -113;
 Y = -152;
 quoteright = -113;
-space = 50;
+v = -15;
+w = -15;
+y = -7;
 };
 Alpha = {
 Omicron = -117;
@@ -5926,7 +5932,6 @@ chi = -59;
 gamma = -59;
 nu = -59;
 quoteright = -113;
-space = 50;
 };
 Alphatonos = {
 Omicron = -117;
@@ -5938,32 +5943,30 @@ Upsilondieresis = -252;
 chi = -59;
 gamma = -59;
 nu = -59;
-space = 50;
 };
 Chi = {
 omega = -70;
 omegatonos = -70;
 };
 F = {
-A = -86;
-comma = -202;
-period = -202;
-space = 24;
+A = -113;
+comma = -227;
+period = -227;
 };
 Gamma = {
-Alpha = -166;
+Alpha = -178;
 Lambda = -178;
-comma = -200;
+comma = -225;
 iota = -37;
 iotadieresis = 131;
-iotadieresistonos = 304;
-period = -200;
+iotadieresistonos = 266;
+period = -225;
 uni0394 = -178;
 };
 Kappa = {
 Omicron = -147;
 Phi = -147;
-Theta = -179;
+Theta = -147;
 alpha = -39;
 alphatonos = -39;
 delta = -39;
@@ -5983,7 +5986,7 @@ V = -113;
 W = -113;
 Y = -152;
 quoteright = -152;
-space = 24;
+y = -15;
 };
 Lambda = {
 Omicron = -43;
@@ -5991,15 +5994,15 @@ Tau = -188;
 Theta = -43;
 Upsilon = -252;
 Upsilondieresis = -252;
-space = 24;
+};
+Omegatonos = {
+Upsilon = -44;
+Upsilondieresis = -44;
 };
 Omicron = {
-Alpha = -79;
-Alphatonos = 15;
-Lambda = 15;
+Alpha = -57;
 Upsilon = -82;
 Upsilondieresis = -82;
-uni0394 = 15;
 };
 Omicrontonos = {
 Upsilon = -82;
@@ -6009,10 +6012,9 @@ P = {
 A = -152;
 comma = -264;
 period = -264;
-space = 50;
 };
 Phi = {
-Alpha = -41;
+Alpha = -57;
 Upsilon = -111;
 Upsilondieresis = -111;
 };
@@ -6029,6 +6031,7 @@ sigma = -41;
 };
 R = {
 T = -37;
+V = -15;
 W = -37;
 Y = -37;
 };
@@ -6048,12 +6051,12 @@ O = -37;
 a = -76;
 c = -76;
 colon = -152;
-comma = -127;
+comma = -152;
 e = -76;
-hyphen = -62;
+hyphen = -113;
 i = -37;
 o = -76;
-period = -127;
+period = -152;
 r = -37;
 s = -76;
 semicolon = -152;
@@ -6063,7 +6066,7 @@ y = -76;
 };
 Tau = {
 Alpha = -152;
-Lambda = -51;
+Lambda = -92;
 Omicron = -37;
 Phi = -37;
 Theta = -37;
@@ -6071,43 +6074,44 @@ alpha = -76;
 alphatonos = -76;
 chi = -76;
 colon = -152;
-comma = -129;
+comma = -152;
 delta = -76;
 epsilon = -76;
 epsilontonos = -76;
 eta = -37;
 gamma = -55;
-hyphen = -64;
+hyphen = -113;
 iota = -37;
 iotadieresis = 131;
-iotadieresistonos = 326;
+iotadieresistonos = 281;
 nu = -76;
 omicron = -76;
 omicrontonos = -76;
-period = -129;
+period = -152;
 phi = -76;
 psi = -55;
 semicolon = -152;
 sigma = -76;
-uni0394 = -51;
+uni0394 = -92;
 uni03A9 = -37;
 uni03BC = -37;
 upsilon = -37;
 upsilondieresis = -37;
+upsilondieresistonos = -61;
 upsilontonos = -37;
 };
 Theta = {
-Alpha = -79;
+Alpha = -57;
+Lambda = -9;
 Upsilon = -82;
 Upsilondieresis = -82;
-uni0394 = 15;
 };
 Upsilon = {
-Alpha = -202;
-Lambda = -86;
+Alpha = -182;
+Lambda = -113;
 alpha = -76;
 alphatonos = -76;
-colon = -137;
+colon = -113;
 comma = -186;
 delta = -76;
 eta = -76;
@@ -6116,21 +6120,21 @@ gamma = -43;
 hyphen = -152;
 iota = -76;
 iotadieresis = 131;
-iotadieresistonos = 301;
+iotadieresistonos = 266;
 iotatonos = -76;
 kappa = -76;
 omicron = -76;
 omicrontonos = -76;
 period = -186;
 phi = -76;
-semicolon = -137;
+semicolon = -113;
 sigma = -76;
-uni0394 = -123;
+uni0394 = -135;
 uni03BC = -76;
 };
 Upsilondieresis = {
-Alpha = -202;
-Lambda = -86;
+Alpha = -182;
+Lambda = -113;
 alpha = -76;
 alphatonos = -76;
 delta = -76;
@@ -6138,13 +6142,13 @@ eta = -76;
 etatonos = -76;
 iota = -76;
 iotadieresis = 131;
-iotadieresistonos = 301;
+iotadieresistonos = 266;
 kappa = -76;
 omicron = -76;
 omicrontonos = -76;
 phi = -76;
 sigma = -76;
-uni0394 = -123;
+uni0394 = -135;
 uni03BC = -76;
 };
 Upsilontonos = {
@@ -6168,33 +6172,33 @@ uni0394 = -135;
 uni03BC = -76;
 };
 V = {
-A = -178;
+A = -152;
 a = -76;
-colon = -102;
-comma = -212;
+colon = -76;
+comma = -188;
 e = -76;
 hyphen = -76;
 i = -76;
 o = -76;
-period = -212;
+period = -188;
 r = -37;
-semicolon = -102;
+semicolon = -76;
 u = -37;
 y = -37;
 };
 W = {
-A = -163;
+A = -113;
 a = -37;
-comma = -202;
+comma = -152;
 e = -37;
-hyphen = -102;
+hyphen = -76;
 i = -18;
-period = -202;
+period = -152;
 };
 Y = {
-A = -178;
+A = -152;
 a = -76;
-colon = -137;
+colon = -113;
 comma = -188;
 e = -76;
 hyphen = -152;
@@ -6203,35 +6207,35 @@ o = -76;
 p = -76;
 period = -188;
 q = -76;
-semicolon = -137;
-space = 24;
+semicolon = -113;
 u = -76;
 v = -76;
 };
 chi = {
-alpha = -24;
-alphatonos = -24;
-delta = -24;
+alpha = -29;
+alphatonos = -29;
+delta = -29;
 omega = -29;
 omegatonos = -29;
-omicron = -24;
+omicron = -29;
 omicrontonos = -29;
-phi = -24;
-sigma = -24;
-zeta = -24;
+phi = -29;
+sigma = -29;
+zeta = -29;
 };
 delta = {
 chi = -57;
 gamma = -37;
 pi = -35;
+tau = -18;
 };
 f = {
 quoteright = 37;
 };
 kappa = {
-alpha = -113;
-alphatonos = -113;
-delta = -113;
+alpha = -78;
+alphatonos = -78;
+delta = -78;
 omega = -78;
 omegatonos = -78;
 omicron = -78;
@@ -6239,7 +6243,7 @@ omicrontonos = -78;
 phi = -78;
 sigma = -78;
 xi = -78;
-zeta = -90;
+zeta = -78;
 };
 lambda = {
 alpha = -29;
@@ -6253,22 +6257,20 @@ phi = -29;
 sigma = -29;
 upsilon = -39;
 upsilondieresis = -39;
-upsilondieresistonos = -20;
+upsilondieresistonos = -39;
 upsilontonos = -39;
 xi = -29;
 zeta = -29;
 };
 omega = {
-chi = -55;
+chi = -57;
 gamma = -37;
-pi = -28;
-tau = 30;
+pi = -35;
 };
 omegatonos = {
-chi = -55;
+chi = -57;
 gamma = -37;
-pi = -28;
-tau = 30;
+pi = -35;
 };
 omicron = {
 chi = -57;
@@ -6277,26 +6279,20 @@ pi = -35;
 tau = -35;
 };
 omicrontonos = {
-chi = -55;
+chi = -57;
 gamma = -37;
-pi = -28;
-tau = 30;
+pi = -35;
 };
 phi = {
 chi = -57;
 gamma = -37;
-pi = -28;
-tau = 30;
+pi = -35;
 };
 pi = {
-alpha = 19;
-alphatonos = 19;
-delta = 19;
 omega = 29;
 omegatonos = 29;
-omicron = 19;
 phi = 29;
-zeta = 19;
+sigma = -12;
 };
 quoteleft = {
 quoteleft = -76;
@@ -6304,27 +6300,31 @@ quoteleft = -76;
 quoteright = {
 quoteright = -76;
 s = -37;
-space = 75;
 };
 r = {
 comma = -113;
-hyphen = 24;
-period = -137;
+period = -113;
 quoteright = 76;
 };
 rho = {
-pi = -28;
+pi = -35;
+tau = -18;
+};
+space = {
+A = -30;
+Alpha = -30;
+Alphatonos = -30;
+Lambda = -15;
+Upsilon = -15;
+Upsilondieresis = -15;
+Upsilontonos = -15;
+Y = -15;
+uni0394 = -30;
 };
 tau = {
-alpha = 19;
-alphatonos = 19;
-delta = 19;
 omega = 29;
 omegatonos = 29;
-omicron = 19;
 phi = 29;
-sigma = 19;
-zeta = 19;
 };
 uni0394 = {
 Omicron = -43;
@@ -6332,45 +6332,43 @@ Tau = -188;
 Theta = -43;
 Upsilon = -252;
 Upsilondieresis = -252;
-space = 50;
 };
 uni03A9 = {
-Upsilon = -62;
+Upsilon = -82;
 Upsilondieresis = -82;
 };
 v = {
-comma = -86;
-period = -86;
+comma = -113;
+period = -113;
 };
 w = {
-comma = -51;
-period = -51;
+comma = -76;
+period = -76;
 };
 xi = {
-alpha = -52;
-alphatonos = -52;
-delta = -52;
+alpha = -43;
+alphatonos = -43;
+delta = -43;
 omicron = -43;
 omicrontonos = -43;
 phi = -43;
 sigma = -43;
-xi = -52;
-zeta = -52;
+xi = -43;
+zeta = -43;
 };
 y = {
-comma = -25;
-period = -25;
+comma = -76;
+period = -76;
 };
 zeta = {
-alpha = -300;
-alphatonos = -300;
-delta = -84;
-epsilon = 83;
-epsilontonos = 83;
+alpha = -221;
+alphatonos = -221;
+delta = -74;
 eta = -78;
-etatonos = -53;
-gamma = -55;
+etatonos = -78;
+gamma = -57;
 iota = -78;
+iotadieresis = 45;
 nu = -57;
 omega = -221;
 omegatonos = -221;
@@ -6381,6 +6379,8 @@ pi = -57;
 sigma = -221;
 tau = -57;
 theta = -43;
+upsilon = -50;
+upsilontonos = -50;
 };
 };
 };
@@ -6466,7 +6466,7 @@ value = "The Bertioga Sans Project Authors";
 unitsPerEm = 2048;
 userData = {
 GSDimensionPlugin.Dimensions = {
-"9CB70E7F-BC76-4DD2-ACFF-26AC98198772" = {
+"79976DCB-F9F8-4AE0-A082-2E792CAF2855" = {
 HV = 157;
 HH = 132;
 OH = 130;
@@ -6475,7 +6475,7 @@ oH = 114;
 nV = 137;
 tH = 112;
 };
-"85C7CFC8-DA24-401F-A421-248411B25E5A" = {
+"55E58B27-7540-477B-A952-538A3E316EF2" = {
 HV = 216;
 HH = 180;
 OH = 174;
@@ -6484,7 +6484,7 @@ oH = 148;
 nV = 195;
 tH = 146;
 };
-"540001E1-6881-4DFA-ACAC-B89E119E0EAF" = {
+"86356D96-A9F7-466C-8338-FA4F598E1FDA" = {
 HV = 305;
 HH = 252;
 OH = 240;
@@ -6493,7 +6493,7 @@ oH = 198;
 nV = 287;
 tH = 196;
 };
-"F22D2CAB-3A7F-49A1-9202-DC9343798BDC" = {
+"4BF4B489-BD31-44B3-B107-FC4282D889AB" = {
 HV = 364;
 HH = 300;
 OH = 284;
@@ -6505,5 +6505,5 @@ tH = 230;
 };
 };
 versionMajor = 3;
-versionMinor = 12;
+versionMinor = 13;
 }
