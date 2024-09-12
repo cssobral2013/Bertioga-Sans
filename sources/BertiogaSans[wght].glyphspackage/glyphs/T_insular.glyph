@@ -2,7 +2,7 @@
 glyphname = Tinsular;
 layers = (
 {
-layerId = "0223EC17-1D6C-4E86-A3CA-0633C37BA543";
+layerId = "0A527CAB-40A8-47D6-8FB3-136A5153B95C";
 shapes = (
 {
 closed = 1;
@@ -58,7 +58,7 @@ nodes = (
 width = 1593;
 },
 {
-layerId = "D23BE918-FDD7-48F3-9118-B5187C1A8D3A";
+layerId = "878309BC-9289-4993-9212-ED28064DE1EA";
 shapes = (
 {
 closed = 1;
@@ -114,7 +114,7 @@ nodes = (
 width = 1516;
 },
 {
-layerId = "18E55F76-04A3-47B5-A890-6BB42B40107E";
+layerId = "6543F4AE-1A40-4DBA-A005-BFFCCFE6B0CF";
 shapes = (
 {
 closed = 1;
@@ -170,7 +170,7 @@ nodes = (
 width = 1401;
 },
 {
-layerId = "68B4E185-86CD-4FB2-9D99-F65C6A982671";
+layerId = "1E741E55-12B1-42F1-9EAF-651FD3104344";
 shapes = (
 {
 closed = 1;

@@ -2,7 +2,7 @@
 glyphname = circumflexhook.lc;
 layers = (
 {
-layerId = "4BF4B489-BD31-44B3-B107-FC4282D889AB";
+layerId = "31C81AF0-C452-43E7-8668-722D0E517E96";
 shapes = (
 {
 closed = 1;
@@ -62,7 +62,7 @@ nodes = (
 width = 0;
 },
 {
-layerId = "86356D96-A9F7-466C-8338-FA4F598E1FDA";
+layerId = "42D11CF2-4BFF-4A3C-B658-4C314917569F";
 shapes = (
 {
 closed = 1;
@@ -122,7 +122,7 @@ nodes = (
 width = 0;
 },
 {
-layerId = "55E58B27-7540-477B-A952-538A3E316EF2";
+layerId = "D06BE3A0-2FE9-4743-9DA4-DC1042F849F0";
 shapes = (
 {
 closed = 1;
@@ -182,7 +182,7 @@ nodes = (
 width = 0;
 },
 {
-layerId = "79976DCB-F9F8-4AE0-A082-2E792CAF2855";
+layerId = "8B25E0A0-F27A-4A76-9983-E40B0C67E833";
 shapes = (
 {
 closed = 1;

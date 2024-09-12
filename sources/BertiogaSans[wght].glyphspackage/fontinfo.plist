@@ -3865,7 +3865,7 @@ guides = (
 position = "{0, 512}";
 }
 );
-id = "68B4E185-86CD-4FB2-9D99-F65C6A982671";
+id = "1E741E55-12B1-42F1-9EAF-651FD3104344";
 metricValues = (
 {
 over = 47;
@@ -4013,7 +4013,7 @@ guides = (
 position = "{0, 512}";
 }
 );
-id = "18E55F76-04A3-47B5-A890-6BB42B40107E";
+id = "6543F4AE-1A40-4DBA-A005-BFFCCFE6B0CF";
 metricValues = (
 {
 pos = 0;
@@ -4155,7 +4155,7 @@ guides = (
 position = "{0, 512}";
 }
 );
-id = "D23BE918-FDD7-48F3-9118-B5187C1A8D3A";
+id = "878309BC-9289-4993-9212-ED28064DE1EA";
 metricValues = (
 {
 pos = 0;
@@ -4304,7 +4304,7 @@ guides = (
 position = "{0, 512}";
 }
 );
-id = "0223EC17-1D6C-4E86-A3CA-0633C37BA543";
+id = "0A527CAB-40A8-47D6-8FB3-136A5153B95C";
 metricValues = (
 {
 pos = 0;
@@ -4404,7 +4404,7 @@ weightClass = Black;
 }
 );
 kerningLTR = {
-"0223EC17-1D6C-4E86-A3CA-0633C37BA543" = {
+"0A527CAB-40A8-47D6-8FB3-136A5153B95C" = {
 A = {
 T = -152;
 V = -152;
@@ -5443,1124 +5443,7 @@ becyr = -15;
 checyr = -51;
 };
 };
-"18E55F76-04A3-47B5-A890-6BB42B40107E" = {
-A = {
-T = -152;
-V = -152;
-W = -76;
-Y = -152;
-quoteright = -152;
-space = -113;
-v = -37;
-w = -37;
-y = -37;
-};
-Acyr = {
-Checyr = -160;
-Decyr = 68;
-Efcyr = -68;
-Elcyr = 45;
-Ereversedcyr = -45;
-Escyr = -45;
-Ocyr = -45;
-Pecyr = -23;
-Tecyr = -160;
-Ucyr = -90;
-Zecyr = -23;
-acyr = 23;
-efcyr = 23;
-ereversedcyr = 45;
-quoteright = -115;
-tecyr = -45;
-ucyr = -23;
-};
-Alpha = {
-Omicron = -43;
-Phi = -59;
-Tau = -152;
-Theta = -43;
-Upsilon = -152;
-Upsilondieresis = -152;
-chi = -37;
-gamma = -37;
-nu = -37;
-quoteright = -152;
-space = -113;
-};
-Alphatonos = {
-Omicron = -43;
-Phi = -59;
-Tau = -152;
-Theta = -43;
-Upsilon = -152;
-Upsilondieresis = -152;
-chi = -37;
-gamma = -37;
-nu = -37;
-};
-Becyr = {
-Acyr = -45;
-Checyr = -92;
-Efcyr = -23;
-Ereversedcyr = -23;
-Escyr = -23;
-Hacyr = -45;
-Hardcyr = -68;
-Ocyr = -23;
-Tecyr = -92;
-Ucyr = -47;
-Yacyr = -23;
-Zecyr = -23;
-elcyr = -23;
-ucyr = -45;
-};
-Decyr = {
-Checyr = -70;
-Efcyr = -45;
-Ucyr = 23;
-ocyr = 23;
-ucyr = 45;
-zecyr = 68;
-};
-Efcyr = {
-Acyr = -45;
-Checyr = -45;
-Decyr = -68;
-Elcyr = -68;
-Tecyr = -115;
-Ucyr = -92;
-Yacyr = -70;
-elcyr = -68;
-};
-Elcyr = {
-Efcyr = -23;
-becyr = 23;
-ucyr = 23;
-};
-Emcyr = {
-Checyr = -23;
-Efcyr = -23;
-acyr = 23;
-checyr = -23;
-ereversedcyr = 23;
-escyr = 23;
-iecyr = 23;
-ocyr = 23;
-ucyr = 23;
-};
-Ercyr = {
-Acyr = -137;
-Decyr = -137;
-Efcyr = -23;
-Elcyr = -115;
-Emcyr = -23;
-Escyr = -23;
-Hacyr = -92;
-Ocyr = -45;
-Tecyr = -92;
-Ucyr = -45;
-Yacyr = -45;
-Zecyr = -45;
-Zhecyr = -23;
-acyr = -68;
-colon = -45;
-comma = -387;
-decyr = -160;
-ereversedcyr = -45;
-guillemotright = -115;
-iecyr = -90;
-ocyr = -90;
-period = -387;
-semicolon = -45;
-yacyr = -68;
-};
-Ereversedcyr = {
-Decyr = -68;
-Elcyr = -68;
-Hacyr = -70;
-Yacyr = -45;
-Zecyr = -23;
-Zhecyr = -25;
-decyr = -68;
-elcyr = -68;
-emcyr = -23;
-yacyr = -23;
-zhecyr = 23;
-};
-Escyr = {
-Acyr = -45;
-Checyr = -68;
-Decyr = -45;
-Elcyr = -68;
-Emcyr = -23;
-Ereversedcyr = -23;
-Hacyr = -115;
-Hardcyr = -70;
-Ocyr = -45;
-Tecyr = -68;
-Ucyr = -68;
-Zecyr = -23;
-acyr = 23;
-checyr = -23;
-zhecyr = 45;
-};
-F = {
-A = -113;
-comma = -227;
-period = -227;
-};
-Gamma = {
-Alpha = -188;
-Lambda = -188;
-comma = -225;
-iota = -88;
-iotadieresis = 88;
-iotadieresistonos = 164;
-period = -225;
-uni0394 = -188;
-};
-Gecyr = {
-Acyr = -137;
-Decyr = -137;
-Elcyr = -115;
-Emcyr = -47;
-Escyr = -92;
-Ocyr = -115;
-Yacyr = -68;
-Zecyr = -45;
-acyr = -115;
-comma = -250;
-decyr = -137;
-elcyr = -115;
-emcyr = -115;
-emdash = -45;
-encyr = -115;
-ercyr = -115;
-guillemotleft = -137;
-guillemotright = -137;
-icyr = -115;
-iecyr = -137;
-ocyr = -137;
-period = -250;
-softcyr = -115;
-ucyr = -137;
-vecyr = -115;
-yacyr = -137;
-ylongcyr = -115;
-yucyr = -115;
-};
-Geupcyr = {
-colon = -45;
-comma = -250;
-emdash = -45;
-guillemotleft = -160;
-guillemotright = -160;
-period = -250;
-semicolon = -45;
-};
-Gjecyr = {
-comma = -250;
-emdash = -45;
-guillemotleft = -137;
-guillemotright = -137;
-period = -250;
-};
-Hacyr = {
-Efcyr = -68;
-Ereversedcyr = -70;
-Escyr = -68;
-Ocyr = -68;
-Zecyr = -45;
-ocyr = -23;
-ucyr = -45;
-};
-Hardcyr = {
-Yacyr = -68;
-quoteright = -137;
-};
-Iecyr = {
-Zecyr = -45;
-escyr = -23;
-};
-Kacyr = {
-Efcyr = -70;
-Escyr = -23;
-Ocyr = -23;
-Ucyr = 23;
-Zecyr = -23;
-};
-Kappa = {
-Omicron = -63;
-Phi = -113;
-Theta = -63;
-alpha = -25;
-alphatonos = -25;
-delta = -25;
-omega = -25;
-omegatonos = -25;
-omicron = -25;
-omicrontonos = -25;
-phi = -25;
-sigma = -25;
-theta = -25;
-xi = -25;
-zeta = -25;
-};
-L = {
-T = -152;
-V = -152;
-W = -152;
-Y = -152;
-quoteright = -113;
-space = -76;
-y = -76;
-};
-Lambda = {
-Omicron = -43;
-Tau = -152;
-Theta = -43;
-Upsilon = -152;
-Upsilondieresis = -152;
-space = -113;
-};
-Ljecyr = {
-quoteright = -160;
-};
-Njecyr = {
-quoteright = -137;
-};
-Ocyr = {
-Acyr = -45;
-Checyr = -45;
-Decyr = -45;
-Elcyr = -23;
-Hacyr = -92;
-Ucyr = -45;
-Yacyr = -45;
-Zhecyr = -45;
-decyr = -45;
-elcyr = -23;
-hacyr = -23;
-};
-Omegatonos = {
-Upsilon = -47;
-Upsilondieresis = -47;
-};
-Omicron = {
-Alpha = -37;
-Lambda = -37;
-Upsilon = -66;
-Upsilondieresis = -66;
-uni0394 = -43;
-};
-Omicrontonos = {
-Upsilon = -66;
-};
-P = {
-A = -152;
-comma = -264;
-period = -264;
-space = -37;
-};
-Phi = {
-Alpha = -59;
-Upsilon = -66;
-Upsilondieresis = -66;
-};
-Psi = {
-alpha = -78;
-alphatonos = -78;
-delta = -78;
-omega = -78;
-omegatonos = -78;
-omicron = -78;
-omicrontonos = -78;
-phi = -78;
-sigma = -78;
-theta = -39;
-};
-R = {
-T = -37;
-V = -37;
-W = -37;
-Y = -37;
-};
-Rho = {
-Alpha = -152;
-Lambda = -152;
-comma = -262;
-period = -262;
-space = -37;
-uni0394 = -152;
-};
-Shchacyr = {
-acyr = 23;
-ucyr = 45;
-};
-Sigma = {
-pi = -98;
-tau = -98;
-};
-Softcyr = {
-Acyr = -45;
-Checyr = -160;
-Decyr = -45;
-Elcyr = -70;
-Emcyr = -45;
-Ereversedcyr = -23;
-Escyr = -45;
-Hacyr = -92;
-Ocyr = -45;
-Tecyr = -205;
-Yacyr = -92;
-Zecyr = -23;
-Zhecyr = -68;
-quoteright = -160;
-};
-T = {
-A = -152;
-O = -37;
-a = -227;
-c = -227;
-colon = -227;
-comma = -227;
-e = -227;
-hyphen = -113;
-i = -76;
-o = -227;
-period = -227;
-r = -76;
-s = -227;
-semicolon = -227;
-space = -37;
-u = -76;
-w = -113;
-y = -113;
-};
-Tau = {
-Alpha = -152;
-Lambda = -152;
-Omicron = -37;
-Phi = -37;
-Theta = -37;
-alpha = -225;
-alphatonos = -225;
-chi = -113;
-colon = -225;
-comma = -225;
-epsilon = -225;
-epsilontonos = -225;
-eta = -150;
-gamma = -178;
-iota = -76;
-iotadieresis = 188;
-iotadieresistonos = 188;
-nu = -113;
-omicron = -225;
-omicrontonos = -225;
-period = -225;
-phi = -225;
-psi = -150;
-semicolon = -225;
-sigma = -225;
-space = -37;
-uni0394 = -152;
-uni03A9 = -37;
-uni03BC = -150;
-upsilon = -176;
-upsilondieresis = -178;
-upsilondieresistonos = -178;
-upsilontonos = -178;
-};
-Tecyr = {
-Acyr = -68;
-Decyr = -68;
-Efcyr = -68;
-Elcyr = -45;
-Ocyr = -92;
-Yacyr = -45;
-Zecyr = -23;
-Zhecyr = 23;
-acyr = -92;
-comma = -227;
-elcyr = -92;
-emcyr = -90;
-emdash = -45;
-ercyr = -115;
-escyr = -115;
-guillemotleft = -90;
-guillemotright = -90;
-hacyr = -90;
-icyr = -90;
-iecyr = -115;
-kacyr = -90;
-ocyr = -160;
-pecyr = -90;
-period = -227;
-shchacyr = -90;
-softcyr = -90;
-ucyr = -115;
-vecyr = -90;
-yacyr = -115;
-ylongcyr = -90;
-yucyr = -90;
-};
-Theta = {
-Alpha = -37;
-Lambda = -37;
-Upsilon = -66;
-Upsilondieresis = -66;
-uni0394 = -37;
-};
-Tsecyr = {
-Ocyr = -45;
-acyr = 45;
-};
-Ucyr = {
-Acyr = -137;
-Decyr = -92;
-Efcyr = -68;
-Elcyr = -68;
-Ereversedcyr = -45;
-Ocyr = -68;
-Yacyr = -45;
-Zecyr = -45;
-becyr = -45;
-colon = -45;
-comma = -272;
-decyr = -160;
-elcyr = -137;
-emcyr = -92;
-emdash = -23;
-encyr = -92;
-ercyr = -92;
-escyr = -137;
-gecyr = -92;
-guillemotleft = -90;
-guillemotright = -92;
-hacyr = -92;
-icyr = -92;
-iecyr = -137;
-ishortcyr = -68;
-kacyr = -92;
-ocyr = -137;
-pecyr = -92;
-period = -272;
-semicolon = -45;
-shacyr = -92;
-shchacyr = -92;
-tsecyr = -92;
-vecyr = -115;
-yacyr = -137;
-yucyr = -92;
-zecyr = -115;
-zhecyr = -68;
-};
-Upsilon = {
-Alpha = -152;
-Lambda = -152;
-Omicron = -115;
-Phi = -115;
-Theta = -115;
-alpha = -186;
-colon = -113;
-comma = -262;
-eta = -152;
-etatonos = -152;
-gamma = -98;
-hyphen = -186;
-iota = -76;
-iotadieresis = 121;
-iotadieresistonos = 188;
-iotatonos = -76;
-kappa = -152;
-omicron = -186;
-omicrontonos = -186;
-period = -262;
-phi = -186;
-semicolon = -113;
-sigma = -186;
-space = -37;
-uni0394 = -152;
-uni03A9 = -98;
-uni03BC = -152;
-};
-Upsilondieresis = {
-Alpha = -152;
-Lambda = -152;
-Omicron = -115;
-Phi = -115;
-Theta = -115;
-alpha = -186;
-eta = -152;
-etatonos = -152;
-iota = -76;
-iotadieresis = 98;
-iotadieresistonos = 170;
-iotatonos = -76;
-kappa = -152;
-omicron = -186;
-omicrontonos = -186;
-phi = -186;
-sigma = -186;
-space = -37;
-uni0394 = -152;
-uni03A9 = -98;
-uni03BC = -152;
-};
-Upsilontonos = {
-Alpha = -152;
-Lambda = -152;
-Omicron = -115;
-Phi = -115;
-Theta = -115;
-alpha = -186;
-eta = -152;
-etatonos = -152;
-iota = -76;
-iotadieresis = 98;
-iotadieresistonos = 170;
-iotatonos = -76;
-kappa = -152;
-omicron = -186;
-omicrontonos = -186;
-phi = -186;
-sigma = -186;
-uni0394 = -152;
-uni03A9 = -98;
-uni03BC = -152;
-};
-V = {
-A = -152;
-a = -152;
-colon = -76;
-comma = -188;
-e = -113;
-hyphen = -113;
-i = -37;
-o = -113;
-period = -188;
-r = -76;
-semicolon = -76;
-u = -76;
-y = -76;
-};
-Vecyr = {
-Acyr = -68;
-Checyr = -92;
-Decyr = -45;
-Efcyr = -68;
-Elcyr = -23;
-Escyr = -68;
-Hacyr = -90;
-Hardcyr = -115;
-Ocyr = -68;
-Tecyr = -137;
-Ucyr = -68;
-Yacyr = -68;
-Zecyr = -68;
-Zhecyr = -45;
-checyr = -68;
-decyr = -23;
-emcyr = -23;
-hacyr = -23;
-tecyr = -68;
-ucyr = -23;
-yacyr = -23;
-};
-W = {
-A = -76;
-a = -76;
-colon = -37;
-comma = -113;
-e = -37;
-hyphen = -37;
-o = -37;
-period = -113;
-r = -37;
-semicolon = -37;
-u = -37;
-y = -18;
-};
-Y = {
-A = -152;
-a = -152;
-colon = -113;
-comma = -264;
-e = -188;
-hyphen = -188;
-i = -76;
-o = -188;
-p = -152;
-period = -264;
-q = -188;
-semicolon = -133;
-space = -37;
-u = -113;
-v = -113;
-};
-Yucyr = {
-Acyr = -68;
-Checyr = -68;
-Decyr = -90;
-Elcyr = -92;
-Escyr = -23;
-Hacyr = -92;
-Ocyr = -23;
-Tecyr = -115;
-Zhecyr = -45;
-decyr = -92;
-elcyr = -92;
-emcyr = -23;
-};
-Zecyr = {
-Checyr = -45;
-Efcyr = -23;
-Elcyr = -23;
-Escyr = -23;
-Ocyr = -23;
-Tecyr = -45;
-Ucyr = -23;
-Yacyr = -23;
-};
-Zhecyr = {
-Escyr = -23;
-Hardcyr = 45;
-Ocyr = -45;
-Tecyr = 23;
-Ucyr = 45;
-Zecyr = -23;
-acyr = 23;
-iecyr = -25;
-ocyr = -23;
-ucyr = -23;
-};
-acyr = {
-checyr = -45;
-tecyr = -45;
-ucyr = -23;
-zecyr = -23;
-};
-becyr = {
-acyr = -47;
-checyr = -68;
-decyr = -92;
-efcyr = -23;
-elcyr = -92;
-emcyr = -45;
-ereversedcyr = -23;
-escyr = -23;
-hacyr = -68;
-hardcyr = -68;
-iecyr = -23;
-ucyr = -45;
-yacyr = -45;
-zecyr = -45;
-zhecyr = -23;
-};
-chi = {
-alpha = -55;
-alphatonos = -55;
-delta = -55;
-omega = -55;
-omegatonos = -55;
-omicron = -55;
-omicrontonos = -55;
-phi = -55;
-sigma = -55;
-sigmafinal = -55;
-zeta = -55;
-};
-decyr = {
-ereversedcyr = 23;
-hardcyr = -45;
-};
-delta = {
-chi = -55;
-lambda = -39;
-pi = -29;
-tau = -29;
-};
-efcyr = {
-becyr = -23;
-checyr = -45;
-decyr = -45;
-elcyr = -45;
-tecyr = -45;
-ucyr = -23;
-yacyr = -23;
-};
-elcyr = {
-checyr = -45;
-ocyr = 23;
-};
-emcyr = {
-becyr = -23;
-ucyr = 23;
-zecyr = -23;
-};
-ercyr = {
-checyr = -45;
-decyr = -47;
-elcyr = -70;
-hacyr = -23;
-tecyr = -45;
-ucyr = -23;
-yacyr = -23;
-zecyr = -23;
-};
-ereversedcyr = {
-decyr = -45;
-elcyr = -45;
-hacyr = -23;
-iecyr = 23;
-ocyr = 23;
-tecyr = -45;
-yacyr = -23;
-zecyr = -23;
-};
-escyr = {
-checyr = -23;
-ereversedcyr = 23;
-ocyr = 23;
-zhecyr = 23;
-};
-f = {
-f = -37;
-quoteright = 37;
-};
-gecyr = {
-acyr = -45;
-comma = -250;
-decyr = -92;
-elcyr = -45;
-escyr = -45;
-iecyr = -45;
-ocyr = -45;
-period = -250;
-yacyr = -23;
-zecyr = -23;
-};
-hacyr = {
-acyr = -23;
-becyr = -23;
-checyr = -45;
-efcyr = -23;
-escyr = -23;
-iecyr = -23;
-ocyr = -23;
-tecyr = -23;
-zecyr = -23;
-};
-iecyr = {
-becyr = -23;
-checyr = -68;
-decyr = -45;
-elcyr = -68;
-hacyr = -45;
-tecyr = -68;
-ucyr = -23;
-zecyr = -45;
-zhecyr = -23;
-};
-kacyr = {
-acyr = 45;
-becyr = 45;
-elcyr = 23;
-ereversedcyr = 23;
-escyr = 23;
-iecyr = 23;
-ocyr = 23;
-tecyr = 23;
-ucyr = 23;
-zecyr = 23;
-};
-kappa = {
-alpha = -25;
-alphatonos = -25;
-delta = -25;
-omega = -25;
-omegatonos = -25;
-omicron = -25;
-omicrontonos = -25;
-phi = -25;
-sigma = -25;
-sigmafinal = -25;
-theta = -25;
-xi = -25;
-zeta = -25;
-};
-lambda = {
-alpha = -31;
-alphatonos = -31;
-delta = -31;
-omega = -31;
-omegatonos = -31;
-omicron = -31;
-omicrontonos = -31;
-phi = -37;
-sigma = -31;
-sigmafinal = -47;
-upsilon = -49;
-upsilontonos = -49;
-xi = -31;
-};
-ocyr = {
-checyr = -45;
-decyr = -45;
-elcyr = -45;
-hacyr = -23;
-tecyr = -45;
-ucyr = -23;
-zecyr = -23;
-zhecyr = -23;
-};
-omega = {
-chi = -55;
-lambda = -39;
-pi = -29;
-tau = -29;
-};
-omegatonos = {
-chi = -55;
-lambda = -39;
-pi = -29;
-tau = -29;
-};
-omicron = {
-chi = -55;
-lambda = -39;
-pi = -29;
-tau = -29;
-};
-omicrontonos = {
-chi = -55;
-lambda = -39;
-pi = -29;
-tau = -29;
-};
-phi = {
-chi = -55;
-lambda = -39;
-pi = -29;
-tau = -29;
-};
-pi = {
-alpha = -29;
-alphatonos = -29;
-omega = -29;
-omegatonos = -29;
-omicron = -29;
-phi = -29;
-sigma = -29;
-sigmafinal = -29;
-zeta = -29;
-};
-quotedblbase = {
-Checyr = -68;
-Djecyr = -160;
-Hardcyr = -68;
-Tecyr = -160;
-Tshecyr = -160;
-};
-quoteleft = {
-quoteleft = -37;
-};
-quoteright = {
-quoteright = -37;
-s = -37;
-space = -76;
-};
-r = {
-comma = -113;
-period = -113;
-quoteright = 76;
-};
-rho = {
-lambda = -39;
-pi = -29;
-tau = -29;
-};
-shchacyr = {
-iecyr = -23;
-ocyr = -23;
-ucyr = 23;
-};
-softcyr = {
-checyr = -137;
-tecyr = -160;
-};
-space = {
-A = -113;
-Alpha = -113;
-Alphatonos = -113;
-Lambda = -113;
-T = -37;
-Tau = -37;
-Upsilon = -37;
-Upsilondieresis = -37;
-Y = -37;
-uni0394 = -113;
-};
-tau = {
-alpha = -29;
-alphatonos = -29;
-delta = -29;
-omega = -29;
-omegatonos = -29;
-omicron = -29;
-phi = -29;
-sigma = -29;
-sigmafinal = -29;
-zeta = -29;
-};
-tecyr = {
-acyr = -23;
-comma = -227;
-decyr = -68;
-elcyr = -45;
-escyr = -23;
-iecyr = -23;
-ocyr = -23;
-period = -227;
-ucyr = 23;
-zhecyr = 68;
-};
-theta = {
-lambda = -39;
-};
-tsecyr = {
-escyr = -23;
-iecyr = -23;
-ocyr = -23;
-zecyr = -23;
-};
-ucyr = {
-acyr = -23;
-becyr = 23;
-comma = -205;
-decyr = -68;
-efcyr = -23;
-elcyr = -45;
-emcyr = -23;
-ercyr = -23;
-ereversedcyr = -23;
-escyr = -23;
-guillemotright = 23;
-iecyr = -23;
-ocyr = -25;
-period = -205;
-yacyr = -23;
-zhecyr = 23;
-};
-uni0394 = {
-Omicron = -43;
-Tau = -119;
-Theta = -43;
-Upsilon = -152;
-Upsilondieresis = -152;
-space = -113;
-};
-uni03A9 = {
-Upsilon = -47;
-Upsilondieresis = -47;
-};
-ushortcyr = {
-comma = -205;
-period = -205;
-};
-v = {
-comma = -152;
-period = -152;
-};
-vecyr = {
-acyr = -23;
-becyr = -23;
-checyr = -92;
-decyr = -23;
-efcyr = -23;
-elcyr = -47;
-emcyr = -23;
-escyr = -23;
-hardcyr = -68;
-iecyr = -23;
-ocyr = -23;
-tecyr = -45;
-ucyr = -45;
-yacyr = -23;
-zecyr = -23;
-zhecyr = -23;
-};
-w = {
-comma = -113;
-period = -113;
-};
-xi = {
-alpha = -55;
-alphatonos = -55;
-delta = -55;
-omicron = -55;
-omicrontonos = -55;
-phi = -55;
-sigma = -55;
-sigmafinal = -55;
-xi = -55;
-zeta = -55;
-};
-y = {
-comma = -152;
-period = -152;
-};
-yucyr = {
-checyr = -45;
-decyr = -45;
-elcyr = -45;
-emcyr = -23;
-hacyr = -23;
-tecyr = -45;
-zhecyr = -23;
-};
-zecyr = {
-becyr = -23;
-checyr = -68;
-decyr = -45;
-efcyr = -23;
-elcyr = -23;
-escyr = -23;
-hardcyr = -45;
-iecyr = -23;
-ocyr = -23;
-ucyr = -23;
-zecyr = -23;
-};
-zeta = {
-alpha = -137;
-alphatonos = -137;
-delta = -76;
-eta = -37;
-etatonos = -37;
-gamma = -86;
-iota = -37;
-kappa = -37;
-nu = -86;
-omega = -137;
-omegatonos = -137;
-omicron = -137;
-omicrontonos = -137;
-phi = -137;
-pi = -86;
-sigma = -137;
-tau = -86;
-theta = -98;
-};
-zhecyr = {
-becyr = 23;
-checyr = -23;
-hardcyr = 45;
-ucyr = 23;
-};
-};
-"68B4E185-86CD-4FB2-9D99-F65C6A982671" = {
+"1E741E55-12B1-42F1-9EAF-651FD3104344" = {
 A = {
 T = -152;
 V = -152;
@@ -7677,7 +6560,1124 @@ hardcyr = 45;
 ucyr = 23;
 };
 };
-"D23BE918-FDD7-48F3-9118-B5187C1A8D3A" = {
+"6543F4AE-1A40-4DBA-A005-BFFCCFE6B0CF" = {
+A = {
+T = -152;
+V = -152;
+W = -76;
+Y = -152;
+quoteright = -152;
+space = -113;
+v = -37;
+w = -37;
+y = -37;
+};
+Acyr = {
+Checyr = -160;
+Decyr = 68;
+Efcyr = -68;
+Elcyr = 45;
+Ereversedcyr = -45;
+Escyr = -45;
+Ocyr = -45;
+Pecyr = -23;
+Tecyr = -160;
+Ucyr = -90;
+Zecyr = -23;
+acyr = 23;
+efcyr = 23;
+ereversedcyr = 45;
+quoteright = -115;
+tecyr = -45;
+ucyr = -23;
+};
+Alpha = {
+Omicron = -43;
+Phi = -59;
+Tau = -152;
+Theta = -43;
+Upsilon = -152;
+Upsilondieresis = -152;
+chi = -37;
+gamma = -37;
+nu = -37;
+quoteright = -152;
+space = -113;
+};
+Alphatonos = {
+Omicron = -43;
+Phi = -59;
+Tau = -152;
+Theta = -43;
+Upsilon = -152;
+Upsilondieresis = -152;
+chi = -37;
+gamma = -37;
+nu = -37;
+};
+Becyr = {
+Acyr = -45;
+Checyr = -92;
+Efcyr = -23;
+Ereversedcyr = -23;
+Escyr = -23;
+Hacyr = -45;
+Hardcyr = -68;
+Ocyr = -23;
+Tecyr = -92;
+Ucyr = -47;
+Yacyr = -23;
+Zecyr = -23;
+elcyr = -23;
+ucyr = -45;
+};
+Decyr = {
+Checyr = -70;
+Efcyr = -45;
+Ucyr = 23;
+ocyr = 23;
+ucyr = 45;
+zecyr = 68;
+};
+Efcyr = {
+Acyr = -45;
+Checyr = -45;
+Decyr = -68;
+Elcyr = -68;
+Tecyr = -115;
+Ucyr = -92;
+Yacyr = -70;
+elcyr = -68;
+};
+Elcyr = {
+Efcyr = -23;
+becyr = 23;
+ucyr = 23;
+};
+Emcyr = {
+Checyr = -23;
+Efcyr = -23;
+acyr = 23;
+checyr = -23;
+ereversedcyr = 23;
+escyr = 23;
+iecyr = 23;
+ocyr = 23;
+ucyr = 23;
+};
+Ercyr = {
+Acyr = -137;
+Decyr = -137;
+Efcyr = -23;
+Elcyr = -115;
+Emcyr = -23;
+Escyr = -23;
+Hacyr = -92;
+Ocyr = -45;
+Tecyr = -92;
+Ucyr = -45;
+Yacyr = -45;
+Zecyr = -45;
+Zhecyr = -23;
+acyr = -68;
+colon = -45;
+comma = -387;
+decyr = -160;
+ereversedcyr = -45;
+guillemotright = -115;
+iecyr = -90;
+ocyr = -90;
+period = -387;
+semicolon = -45;
+yacyr = -68;
+};
+Ereversedcyr = {
+Decyr = -68;
+Elcyr = -68;
+Hacyr = -70;
+Yacyr = -45;
+Zecyr = -23;
+Zhecyr = -25;
+decyr = -68;
+elcyr = -68;
+emcyr = -23;
+yacyr = -23;
+zhecyr = 23;
+};
+Escyr = {
+Acyr = -45;
+Checyr = -68;
+Decyr = -45;
+Elcyr = -68;
+Emcyr = -23;
+Ereversedcyr = -23;
+Hacyr = -115;
+Hardcyr = -70;
+Ocyr = -45;
+Tecyr = -68;
+Ucyr = -68;
+Zecyr = -23;
+acyr = 23;
+checyr = -23;
+zhecyr = 45;
+};
+F = {
+A = -113;
+comma = -227;
+period = -227;
+};
+Gamma = {
+Alpha = -188;
+Lambda = -188;
+comma = -225;
+iota = -88;
+iotadieresis = 88;
+iotadieresistonos = 164;
+period = -225;
+uni0394 = -188;
+};
+Gecyr = {
+Acyr = -137;
+Decyr = -137;
+Elcyr = -115;
+Emcyr = -47;
+Escyr = -92;
+Ocyr = -115;
+Yacyr = -68;
+Zecyr = -45;
+acyr = -115;
+comma = -250;
+decyr = -137;
+elcyr = -115;
+emcyr = -115;
+emdash = -45;
+encyr = -115;
+ercyr = -115;
+guillemotleft = -137;
+guillemotright = -137;
+icyr = -115;
+iecyr = -137;
+ocyr = -137;
+period = -250;
+softcyr = -115;
+ucyr = -137;
+vecyr = -115;
+yacyr = -137;
+ylongcyr = -115;
+yucyr = -115;
+};
+Geupcyr = {
+colon = -45;
+comma = -250;
+emdash = -45;
+guillemotleft = -160;
+guillemotright = -160;
+period = -250;
+semicolon = -45;
+};
+Gjecyr = {
+comma = -250;
+emdash = -45;
+guillemotleft = -137;
+guillemotright = -137;
+period = -250;
+};
+Hacyr = {
+Efcyr = -68;
+Ereversedcyr = -70;
+Escyr = -68;
+Ocyr = -68;
+Zecyr = -45;
+ocyr = -23;
+ucyr = -45;
+};
+Hardcyr = {
+Yacyr = -68;
+quoteright = -137;
+};
+Iecyr = {
+Zecyr = -45;
+escyr = -23;
+};
+Kacyr = {
+Efcyr = -70;
+Escyr = -23;
+Ocyr = -23;
+Ucyr = 23;
+Zecyr = -23;
+};
+Kappa = {
+Omicron = -63;
+Phi = -113;
+Theta = -63;
+alpha = -25;
+alphatonos = -25;
+delta = -25;
+omega = -25;
+omegatonos = -25;
+omicron = -25;
+omicrontonos = -25;
+phi = -25;
+sigma = -25;
+theta = -25;
+xi = -25;
+zeta = -25;
+};
+L = {
+T = -152;
+V = -152;
+W = -152;
+Y = -152;
+quoteright = -113;
+space = -76;
+y = -76;
+};
+Lambda = {
+Omicron = -43;
+Tau = -152;
+Theta = -43;
+Upsilon = -152;
+Upsilondieresis = -152;
+space = -113;
+};
+Ljecyr = {
+quoteright = -160;
+};
+Njecyr = {
+quoteright = -137;
+};
+Ocyr = {
+Acyr = -45;
+Checyr = -45;
+Decyr = -45;
+Elcyr = -23;
+Hacyr = -92;
+Ucyr = -45;
+Yacyr = -45;
+Zhecyr = -45;
+decyr = -45;
+elcyr = -23;
+hacyr = -23;
+};
+Omegatonos = {
+Upsilon = -47;
+Upsilondieresis = -47;
+};
+Omicron = {
+Alpha = -37;
+Lambda = -37;
+Upsilon = -66;
+Upsilondieresis = -66;
+uni0394 = -43;
+};
+Omicrontonos = {
+Upsilon = -66;
+};
+P = {
+A = -152;
+comma = -264;
+period = -264;
+space = -37;
+};
+Phi = {
+Alpha = -59;
+Upsilon = -66;
+Upsilondieresis = -66;
+};
+Psi = {
+alpha = -78;
+alphatonos = -78;
+delta = -78;
+omega = -78;
+omegatonos = -78;
+omicron = -78;
+omicrontonos = -78;
+phi = -78;
+sigma = -78;
+theta = -39;
+};
+R = {
+T = -37;
+V = -37;
+W = -37;
+Y = -37;
+};
+Rho = {
+Alpha = -152;
+Lambda = -152;
+comma = -262;
+period = -262;
+space = -37;
+uni0394 = -152;
+};
+Shchacyr = {
+acyr = 23;
+ucyr = 45;
+};
+Sigma = {
+pi = -98;
+tau = -98;
+};
+Softcyr = {
+Acyr = -45;
+Checyr = -160;
+Decyr = -45;
+Elcyr = -70;
+Emcyr = -45;
+Ereversedcyr = -23;
+Escyr = -45;
+Hacyr = -92;
+Ocyr = -45;
+Tecyr = -205;
+Yacyr = -92;
+Zecyr = -23;
+Zhecyr = -68;
+quoteright = -160;
+};
+T = {
+A = -152;
+O = -37;
+a = -227;
+c = -227;
+colon = -227;
+comma = -227;
+e = -227;
+hyphen = -113;
+i = -76;
+o = -227;
+period = -227;
+r = -76;
+s = -227;
+semicolon = -227;
+space = -37;
+u = -76;
+w = -113;
+y = -113;
+};
+Tau = {
+Alpha = -152;
+Lambda = -152;
+Omicron = -37;
+Phi = -37;
+Theta = -37;
+alpha = -225;
+alphatonos = -225;
+chi = -113;
+colon = -225;
+comma = -225;
+epsilon = -225;
+epsilontonos = -225;
+eta = -150;
+gamma = -178;
+iota = -76;
+iotadieresis = 188;
+iotadieresistonos = 188;
+nu = -113;
+omicron = -225;
+omicrontonos = -225;
+period = -225;
+phi = -225;
+psi = -150;
+semicolon = -225;
+sigma = -225;
+space = -37;
+uni0394 = -152;
+uni03A9 = -37;
+uni03BC = -150;
+upsilon = -176;
+upsilondieresis = -178;
+upsilondieresistonos = -178;
+upsilontonos = -178;
+};
+Tecyr = {
+Acyr = -68;
+Decyr = -68;
+Efcyr = -68;
+Elcyr = -45;
+Ocyr = -92;
+Yacyr = -45;
+Zecyr = -23;
+Zhecyr = 23;
+acyr = -92;
+comma = -227;
+elcyr = -92;
+emcyr = -90;
+emdash = -45;
+ercyr = -115;
+escyr = -115;
+guillemotleft = -90;
+guillemotright = -90;
+hacyr = -90;
+icyr = -90;
+iecyr = -115;
+kacyr = -90;
+ocyr = -160;
+pecyr = -90;
+period = -227;
+shchacyr = -90;
+softcyr = -90;
+ucyr = -115;
+vecyr = -90;
+yacyr = -115;
+ylongcyr = -90;
+yucyr = -90;
+};
+Theta = {
+Alpha = -37;
+Lambda = -37;
+Upsilon = -66;
+Upsilondieresis = -66;
+uni0394 = -37;
+};
+Tsecyr = {
+Ocyr = -45;
+acyr = 45;
+};
+Ucyr = {
+Acyr = -137;
+Decyr = -92;
+Efcyr = -68;
+Elcyr = -68;
+Ereversedcyr = -45;
+Ocyr = -68;
+Yacyr = -45;
+Zecyr = -45;
+becyr = -45;
+colon = -45;
+comma = -272;
+decyr = -160;
+elcyr = -137;
+emcyr = -92;
+emdash = -23;
+encyr = -92;
+ercyr = -92;
+escyr = -137;
+gecyr = -92;
+guillemotleft = -90;
+guillemotright = -92;
+hacyr = -92;
+icyr = -92;
+iecyr = -137;
+ishortcyr = -68;
+kacyr = -92;
+ocyr = -137;
+pecyr = -92;
+period = -272;
+semicolon = -45;
+shacyr = -92;
+shchacyr = -92;
+tsecyr = -92;
+vecyr = -115;
+yacyr = -137;
+yucyr = -92;
+zecyr = -115;
+zhecyr = -68;
+};
+Upsilon = {
+Alpha = -152;
+Lambda = -152;
+Omicron = -115;
+Phi = -115;
+Theta = -115;
+alpha = -186;
+colon = -113;
+comma = -262;
+eta = -152;
+etatonos = -152;
+gamma = -98;
+hyphen = -186;
+iota = -76;
+iotadieresis = 121;
+iotadieresistonos = 188;
+iotatonos = -76;
+kappa = -152;
+omicron = -186;
+omicrontonos = -186;
+period = -262;
+phi = -186;
+semicolon = -113;
+sigma = -186;
+space = -37;
+uni0394 = -152;
+uni03A9 = -98;
+uni03BC = -152;
+};
+Upsilondieresis = {
+Alpha = -152;
+Lambda = -152;
+Omicron = -115;
+Phi = -115;
+Theta = -115;
+alpha = -186;
+eta = -152;
+etatonos = -152;
+iota = -76;
+iotadieresis = 98;
+iotadieresistonos = 170;
+iotatonos = -76;
+kappa = -152;
+omicron = -186;
+omicrontonos = -186;
+phi = -186;
+sigma = -186;
+space = -37;
+uni0394 = -152;
+uni03A9 = -98;
+uni03BC = -152;
+};
+Upsilontonos = {
+Alpha = -152;
+Lambda = -152;
+Omicron = -115;
+Phi = -115;
+Theta = -115;
+alpha = -186;
+eta = -152;
+etatonos = -152;
+iota = -76;
+iotadieresis = 98;
+iotadieresistonos = 170;
+iotatonos = -76;
+kappa = -152;
+omicron = -186;
+omicrontonos = -186;
+phi = -186;
+sigma = -186;
+uni0394 = -152;
+uni03A9 = -98;
+uni03BC = -152;
+};
+V = {
+A = -152;
+a = -152;
+colon = -76;
+comma = -188;
+e = -113;
+hyphen = -113;
+i = -37;
+o = -113;
+period = -188;
+r = -76;
+semicolon = -76;
+u = -76;
+y = -76;
+};
+Vecyr = {
+Acyr = -68;
+Checyr = -92;
+Decyr = -45;
+Efcyr = -68;
+Elcyr = -23;
+Escyr = -68;
+Hacyr = -90;
+Hardcyr = -115;
+Ocyr = -68;
+Tecyr = -137;
+Ucyr = -68;
+Yacyr = -68;
+Zecyr = -68;
+Zhecyr = -45;
+checyr = -68;
+decyr = -23;
+emcyr = -23;
+hacyr = -23;
+tecyr = -68;
+ucyr = -23;
+yacyr = -23;
+};
+W = {
+A = -76;
+a = -76;
+colon = -37;
+comma = -113;
+e = -37;
+hyphen = -37;
+o = -37;
+period = -113;
+r = -37;
+semicolon = -37;
+u = -37;
+y = -18;
+};
+Y = {
+A = -152;
+a = -152;
+colon = -113;
+comma = -264;
+e = -188;
+hyphen = -188;
+i = -76;
+o = -188;
+p = -152;
+period = -264;
+q = -188;
+semicolon = -133;
+space = -37;
+u = -113;
+v = -113;
+};
+Yucyr = {
+Acyr = -68;
+Checyr = -68;
+Decyr = -90;
+Elcyr = -92;
+Escyr = -23;
+Hacyr = -92;
+Ocyr = -23;
+Tecyr = -115;
+Zhecyr = -45;
+decyr = -92;
+elcyr = -92;
+emcyr = -23;
+};
+Zecyr = {
+Checyr = -45;
+Efcyr = -23;
+Elcyr = -23;
+Escyr = -23;
+Ocyr = -23;
+Tecyr = -45;
+Ucyr = -23;
+Yacyr = -23;
+};
+Zhecyr = {
+Escyr = -23;
+Hardcyr = 45;
+Ocyr = -45;
+Tecyr = 23;
+Ucyr = 45;
+Zecyr = -23;
+acyr = 23;
+iecyr = -25;
+ocyr = -23;
+ucyr = -23;
+};
+acyr = {
+checyr = -45;
+tecyr = -45;
+ucyr = -23;
+zecyr = -23;
+};
+becyr = {
+acyr = -47;
+checyr = -68;
+decyr = -92;
+efcyr = -23;
+elcyr = -92;
+emcyr = -45;
+ereversedcyr = -23;
+escyr = -23;
+hacyr = -68;
+hardcyr = -68;
+iecyr = -23;
+ucyr = -45;
+yacyr = -45;
+zecyr = -45;
+zhecyr = -23;
+};
+chi = {
+alpha = -55;
+alphatonos = -55;
+delta = -55;
+omega = -55;
+omegatonos = -55;
+omicron = -55;
+omicrontonos = -55;
+phi = -55;
+sigma = -55;
+sigmafinal = -55;
+zeta = -55;
+};
+decyr = {
+ereversedcyr = 23;
+hardcyr = -45;
+};
+delta = {
+chi = -55;
+lambda = -39;
+pi = -29;
+tau = -29;
+};
+efcyr = {
+becyr = -23;
+checyr = -45;
+decyr = -45;
+elcyr = -45;
+tecyr = -45;
+ucyr = -23;
+yacyr = -23;
+};
+elcyr = {
+checyr = -45;
+ocyr = 23;
+};
+emcyr = {
+becyr = -23;
+ucyr = 23;
+zecyr = -23;
+};
+ercyr = {
+checyr = -45;
+decyr = -47;
+elcyr = -70;
+hacyr = -23;
+tecyr = -45;
+ucyr = -23;
+yacyr = -23;
+zecyr = -23;
+};
+ereversedcyr = {
+decyr = -45;
+elcyr = -45;
+hacyr = -23;
+iecyr = 23;
+ocyr = 23;
+tecyr = -45;
+yacyr = -23;
+zecyr = -23;
+};
+escyr = {
+checyr = -23;
+ereversedcyr = 23;
+ocyr = 23;
+zhecyr = 23;
+};
+f = {
+f = -37;
+quoteright = 37;
+};
+gecyr = {
+acyr = -45;
+comma = -250;
+decyr = -92;
+elcyr = -45;
+escyr = -45;
+iecyr = -45;
+ocyr = -45;
+period = -250;
+yacyr = -23;
+zecyr = -23;
+};
+hacyr = {
+acyr = -23;
+becyr = -23;
+checyr = -45;
+efcyr = -23;
+escyr = -23;
+iecyr = -23;
+ocyr = -23;
+tecyr = -23;
+zecyr = -23;
+};
+iecyr = {
+becyr = -23;
+checyr = -68;
+decyr = -45;
+elcyr = -68;
+hacyr = -45;
+tecyr = -68;
+ucyr = -23;
+zecyr = -45;
+zhecyr = -23;
+};
+kacyr = {
+acyr = 45;
+becyr = 45;
+elcyr = 23;
+ereversedcyr = 23;
+escyr = 23;
+iecyr = 23;
+ocyr = 23;
+tecyr = 23;
+ucyr = 23;
+zecyr = 23;
+};
+kappa = {
+alpha = -25;
+alphatonos = -25;
+delta = -25;
+omega = -25;
+omegatonos = -25;
+omicron = -25;
+omicrontonos = -25;
+phi = -25;
+sigma = -25;
+sigmafinal = -25;
+theta = -25;
+xi = -25;
+zeta = -25;
+};
+lambda = {
+alpha = -31;
+alphatonos = -31;
+delta = -31;
+omega = -31;
+omegatonos = -31;
+omicron = -31;
+omicrontonos = -31;
+phi = -37;
+sigma = -31;
+sigmafinal = -47;
+upsilon = -49;
+upsilontonos = -49;
+xi = -31;
+};
+ocyr = {
+checyr = -45;
+decyr = -45;
+elcyr = -45;
+hacyr = -23;
+tecyr = -45;
+ucyr = -23;
+zecyr = -23;
+zhecyr = -23;
+};
+omega = {
+chi = -55;
+lambda = -39;
+pi = -29;
+tau = -29;
+};
+omegatonos = {
+chi = -55;
+lambda = -39;
+pi = -29;
+tau = -29;
+};
+omicron = {
+chi = -55;
+lambda = -39;
+pi = -29;
+tau = -29;
+};
+omicrontonos = {
+chi = -55;
+lambda = -39;
+pi = -29;
+tau = -29;
+};
+phi = {
+chi = -55;
+lambda = -39;
+pi = -29;
+tau = -29;
+};
+pi = {
+alpha = -29;
+alphatonos = -29;
+omega = -29;
+omegatonos = -29;
+omicron = -29;
+phi = -29;
+sigma = -29;
+sigmafinal = -29;
+zeta = -29;
+};
+quotedblbase = {
+Checyr = -68;
+Djecyr = -160;
+Hardcyr = -68;
+Tecyr = -160;
+Tshecyr = -160;
+};
+quoteleft = {
+quoteleft = -37;
+};
+quoteright = {
+quoteright = -37;
+s = -37;
+space = -76;
+};
+r = {
+comma = -113;
+period = -113;
+quoteright = 76;
+};
+rho = {
+lambda = -39;
+pi = -29;
+tau = -29;
+};
+shchacyr = {
+iecyr = -23;
+ocyr = -23;
+ucyr = 23;
+};
+softcyr = {
+checyr = -137;
+tecyr = -160;
+};
+space = {
+A = -113;
+Alpha = -113;
+Alphatonos = -113;
+Lambda = -113;
+T = -37;
+Tau = -37;
+Upsilon = -37;
+Upsilondieresis = -37;
+Y = -37;
+uni0394 = -113;
+};
+tau = {
+alpha = -29;
+alphatonos = -29;
+delta = -29;
+omega = -29;
+omegatonos = -29;
+omicron = -29;
+phi = -29;
+sigma = -29;
+sigmafinal = -29;
+zeta = -29;
+};
+tecyr = {
+acyr = -23;
+comma = -227;
+decyr = -68;
+elcyr = -45;
+escyr = -23;
+iecyr = -23;
+ocyr = -23;
+period = -227;
+ucyr = 23;
+zhecyr = 68;
+};
+theta = {
+lambda = -39;
+};
+tsecyr = {
+escyr = -23;
+iecyr = -23;
+ocyr = -23;
+zecyr = -23;
+};
+ucyr = {
+acyr = -23;
+becyr = 23;
+comma = -205;
+decyr = -68;
+efcyr = -23;
+elcyr = -45;
+emcyr = -23;
+ercyr = -23;
+ereversedcyr = -23;
+escyr = -23;
+guillemotright = 23;
+iecyr = -23;
+ocyr = -25;
+period = -205;
+yacyr = -23;
+zhecyr = 23;
+};
+uni0394 = {
+Omicron = -43;
+Tau = -119;
+Theta = -43;
+Upsilon = -152;
+Upsilondieresis = -152;
+space = -113;
+};
+uni03A9 = {
+Upsilon = -47;
+Upsilondieresis = -47;
+};
+ushortcyr = {
+comma = -205;
+period = -205;
+};
+v = {
+comma = -152;
+period = -152;
+};
+vecyr = {
+acyr = -23;
+becyr = -23;
+checyr = -92;
+decyr = -23;
+efcyr = -23;
+elcyr = -47;
+emcyr = -23;
+escyr = -23;
+hardcyr = -68;
+iecyr = -23;
+ocyr = -23;
+tecyr = -45;
+ucyr = -45;
+yacyr = -23;
+zecyr = -23;
+zhecyr = -23;
+};
+w = {
+comma = -113;
+period = -113;
+};
+xi = {
+alpha = -55;
+alphatonos = -55;
+delta = -55;
+omicron = -55;
+omicrontonos = -55;
+phi = -55;
+sigma = -55;
+sigmafinal = -55;
+xi = -55;
+zeta = -55;
+};
+y = {
+comma = -152;
+period = -152;
+};
+yucyr = {
+checyr = -45;
+decyr = -45;
+elcyr = -45;
+emcyr = -23;
+hacyr = -23;
+tecyr = -45;
+zhecyr = -23;
+};
+zecyr = {
+becyr = -23;
+checyr = -68;
+decyr = -45;
+efcyr = -23;
+elcyr = -23;
+escyr = -23;
+hardcyr = -45;
+iecyr = -23;
+ocyr = -23;
+ucyr = -23;
+zecyr = -23;
+};
+zeta = {
+alpha = -137;
+alphatonos = -137;
+delta = -76;
+eta = -37;
+etatonos = -37;
+gamma = -86;
+iota = -37;
+kappa = -37;
+nu = -86;
+omega = -137;
+omegatonos = -137;
+omicron = -137;
+omicrontonos = -137;
+phi = -137;
+pi = -86;
+sigma = -137;
+tau = -86;
+theta = -98;
+};
+zhecyr = {
+becyr = 23;
+checyr = -23;
+hardcyr = 45;
+ucyr = 23;
+};
+};
+"878309BC-9289-4993-9212-ED28064DE1EA" = {
 A = {
 T = -152;
 V = -152;
@@ -8829,7 +8829,7 @@ value = "The Bertioga Sans Project Authors";
 unitsPerEm = 2048;
 userData = {
 GSDimensionPlugin.Dimensions = {
-"68B4E185-86CD-4FB2-9D99-F65C6A982671" = {
+"1E741E55-12B1-42F1-9EAF-651FD3104344" = {
 HV = 157;
 HH = 132;
 OV = 160;
@@ -8839,7 +8839,7 @@ oH = 114;
 nV = 138;
 tH = 112;
 };
-"18E55F76-04A3-47B5-A890-6BB42B40107E" = {
+"6543F4AE-1A40-4DBA-A005-BFFCCFE6B0CF" = {
 HV = 217;
 HH = 180;
 OV = 218;
@@ -8849,7 +8849,7 @@ oH = 148;
 nV = 194;
 tH = 146;
 };
-"D23BE918-FDD7-48F3-9118-B5187C1A8D3A" = {
+"878309BC-9289-4993-9212-ED28064DE1EA" = {
 HV = 305;
 HH = 252;
 OV = 308;
@@ -8859,7 +8859,7 @@ oH = 198;
 nV = 281;
 tH = 196;
 };
-"0223EC17-1D6C-4E86-A3CA-0633C37BA543" = {
+"0A527CAB-40A8-47D6-8FB3-136A5153B95C" = {
 HV = 365;
 HH = 300;
 OV = 366;
@@ -8872,5 +8872,5 @@ tH = 230;
 };
 };
 versionMajor = 3;
-versionMinor = 13;
+versionMinor = 14;
 }
