@@ -2,7 +2,7 @@
 glyphname = three.alt;
 layers = (
 {
-layerId = "0A527CAB-40A8-47D6-8FB3-136A5153B95C";
+layerId = "1DEF85E5-E6DA-4BD7-A4F9-3FA9E428A319";
 shapes = (
 {
 closed = 1;
@@ -75,7 +75,7 @@ nodes = (
 width = 0;
 },
 {
-layerId = "878309BC-9289-4993-9212-ED28064DE1EA";
+layerId = "F8FBB777-9D69-46EE-A2C4-A8FDEBDF8C7E";
 shapes = (
 {
 closed = 1;
@@ -148,7 +148,7 @@ nodes = (
 width = 0;
 },
 {
-layerId = "6543F4AE-1A40-4DBA-A005-BFFCCFE6B0CF";
+layerId = "6975E435-B590-441E-B7DA-A87770204C86";
 shapes = (
 {
 closed = 1;
@@ -221,7 +221,7 @@ nodes = (
 width = 0;
 },
 {
-layerId = "1E741E55-12B1-42F1-9EAF-651FD3104344";
+layerId = "AB1FD75E-92AF-4808-893A-81D0A5D4219E";
 shapes = (
 {
 closed = 1;
