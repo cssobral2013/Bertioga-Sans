@@ -1,0 +1,82 @@
+{
+glyphname = emacron;
+layers = (
+{
+layerId = "2D57F921-1619-4848-A780-0286F5C5F7A5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1022,1376,l),
+(405,1376,l),
+(368,1181,l),
+(978,1181,l)
+);
+},
+{
+alignment = -1;
+ref = e;
+}
+);
+width = 1139;
+},
+{
+layerId = "7F330584-10E9-4267-8E26-4D2DDDC504D5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1007,1371,l),
+(412,1371,l),
+(379,1200,l),
+(969,1200,l)
+);
+},
+{
+alignment = -1;
+ref = e;
+}
+);
+width = 1139;
+},
+{
+layerId = "70541219-6074-4DB1-927E-09A6A4A4AC13";
+shapes = (
+{
+closed = 1;
+nodes = (
+(983,1365,l),
+(424,1365,l),
+(397,1228,l),
+(955,1228,l)
+);
+},
+{
+alignment = -1;
+ref = e;
+}
+);
+width = 1139;
+},
+{
+layerId = "D7EC7508-C152-41F5-B530-A2FB36F9EC58";
+shapes = (
+{
+closed = 1;
+nodes = (
+(968,1360,l),
+(431,1360,l),
+(408,1247,l),
+(946,1247,l)
+);
+},
+{
+alignment = -1;
+ref = e;
+}
+);
+width = 1139;
+}
+);
+unicode = 275;
+}

@@ -1,0 +1,65 @@
+{
+glyphname = ocyr_acutecomb;
+layers = (
+{
+layerId = "40F9559D-0C66-47C0-904D-85A1A1CF5568";
+shapes = (
+{
+alignment = -1;
+ref = ocyr;
+},
+{
+alignment = -1;
+pos = (972,-409);
+ref = acutecomb;
+}
+);
+width = 1326;
+},
+{
+layerId = "5D6D431B-CC1B-4FAD-85A4-67ADFEBCB3CA";
+shapes = (
+{
+alignment = -1;
+ref = ocyr;
+},
+{
+alignment = -1;
+pos = (930,-394);
+ref = acutecomb;
+}
+);
+width = 1251;
+},
+{
+layerId = "4F4EDE15-BE4F-4838-A8D1-739248E5F6B1";
+shapes = (
+{
+alignment = -1;
+ref = ocyr;
+},
+{
+alignment = -1;
+pos = (866,-374);
+ref = acutecomb;
+}
+);
+width = 1139;
+},
+{
+layerId = "B3E42AB7-2F0B-4826-A062-029E39AD2446";
+shapes = (
+{
+alignment = -1;
+ref = ocyr;
+},
+{
+alignment = -1;
+pos = (856,-360);
+ref = acutecomb;
+}
+);
+width = 1102;
+}
+);
+}

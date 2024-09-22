@@ -1,0 +1,82 @@
+{
+glyphname = gobliquestroke;
+layers = (
+{
+layerId = "40F9559D-0C66-47C0-904D-85A1A1CF5568";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1308,648,l),
+(1248,825,l),
+(-8,371,l),
+(43,192,l)
+);
+},
+{
+alignment = -1;
+ref = g;
+}
+);
+width = 1326;
+},
+{
+layerId = "5D6D431B-CC1B-4FAD-85A4-67ADFEBCB3CA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1252,649,l),
+(1197,812,l),
+(-23,372,l),
+(26,207,l)
+);
+},
+{
+alignment = -1;
+ref = g;
+}
+);
+width = 1251;
+},
+{
+layerId = "4F4EDE15-BE4F-4838-A8D1-739248E5F6B1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1168,651,l),
+(1123,792,l),
+(-43,372,l),
+(0,231,l)
+);
+},
+{
+alignment = -1;
+ref = g;
+}
+);
+width = 1139;
+},
+{
+layerId = "B3E42AB7-2F0B-4826-A062-029E39AD2446";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1132,652,l),
+(1092,779,l),
+(-38,373,l),
+(3,246,l)
+);
+},
+{
+alignment = -1;
+ref = g;
+}
+);
+width = 1102;
+}
+);
+unicode = 42913;
+}

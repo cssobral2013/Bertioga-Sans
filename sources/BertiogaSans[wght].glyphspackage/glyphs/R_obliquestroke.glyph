@@ -1,0 +1,82 @@
+{
+glyphname = Robliquestroke;
+layers = (
+{
+layerId = "40F9559D-0C66-47C0-904D-85A1A1CF5568";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1533,1128,l),
+(1452,1322,l),
+(-110,734,l),
+(-45,528,l)
+);
+},
+{
+alignment = -1;
+ref = R;
+}
+);
+width = 1479;
+},
+{
+layerId = "5D6D431B-CC1B-4FAD-85A4-67ADFEBCB3CA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1514,1133,l),
+(1446,1307,l),
+(-81,735,l),
+(-23,553,l)
+);
+},
+{
+alignment = -1;
+ref = R;
+}
+);
+width = 1479;
+},
+{
+layerId = "4F4EDE15-BE4F-4838-A8D1-739248E5F6B1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1486,1139,l),
+(1438,1283,l),
+(-37,735,l),
+(9,589,l)
+);
+},
+{
+alignment = -1;
+ref = R;
+}
+);
+width = 1479;
+},
+{
+layerId = "B3E42AB7-2F0B-4826-A062-029E39AD2446";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1467,1144,l),
+(1432,1268,l),
+(-8,736,l),
+(31,614,l)
+);
+},
+{
+alignment = -1;
+ref = R;
+}
+);
+width = 1479;
+}
+);
+unicode = 42918;
+}

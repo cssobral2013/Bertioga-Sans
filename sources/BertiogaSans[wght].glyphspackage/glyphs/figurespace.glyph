@@ -1,0 +1,22 @@
+{
+glyphname = figurespace;
+layers = (
+{
+layerId = "40F9559D-0C66-47C0-904D-85A1A1CF5568";
+width = 1139;
+},
+{
+layerId = "5D6D431B-CC1B-4FAD-85A4-67ADFEBCB3CA";
+width = 1139;
+},
+{
+layerId = "4F4EDE15-BE4F-4838-A8D1-739248E5F6B1";
+width = 1139;
+},
+{
+layerId = "B3E42AB7-2F0B-4826-A062-029E39AD2446";
+width = 1139;
+}
+);
+unicode = 8199;
+}

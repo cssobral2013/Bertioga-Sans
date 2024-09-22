@@ -1,0 +1,82 @@
+{
+glyphname = Nobliquestroke;
+layers = (
+{
+layerId = "2D57F921-1619-4848-A780-0286F5C5F7A5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1636,873,l),
+(1549,1032,l),
+(-76,439,l),
+(-7,268,l)
+);
+},
+{
+alignment = -1;
+ref = N;
+}
+);
+width = 1479;
+},
+{
+layerId = "7F330584-10E9-4267-8E26-4D2DDDC504D5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1607,876,l),
+(1544,1027,l),
+(-61,452,l),
+(-10,293,l)
+);
+},
+{
+alignment = -1;
+ref = N;
+}
+);
+width = 1479;
+},
+{
+layerId = "70541219-6074-4DB1-927E-09A6A4A4AC13";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1565,880,l),
+(1538,1019,l),
+(-37,470,l),
+(-14,329,l)
+);
+},
+{
+alignment = -1;
+ref = N;
+}
+);
+width = 1479;
+},
+{
+layerId = "D7EC7508-C152-41F5-B530-A2FB36F9EC58";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1536,883,l),
+(1533,1014,l),
+(-22,483,l),
+(-17,354,l)
+);
+},
+{
+alignment = -1;
+ref = N;
+}
+);
+width = 1479;
+}
+);
+unicode = 42916;
+}

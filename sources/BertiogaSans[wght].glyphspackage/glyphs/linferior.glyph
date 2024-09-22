@@ -1,0 +1,66 @@
+{
+glyphname = linferior;
+layers = (
+{
+layerId = "40F9559D-0C66-47C0-904D-85A1A1CF5568";
+shapes = (
+{
+closed = 1;
+nodes = (
+(313,914,l),
+(80,914,l),
+(80,-137,l),
+(315,-137,l)
+);
+}
+);
+width = 394;
+},
+{
+layerId = "5D6D431B-CC1B-4FAD-85A4-67ADFEBCB3CA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(273,909,l),
+(77,909,l),
+(77,-137,l),
+(275,-137,l)
+);
+}
+);
+width = 351;
+},
+{
+layerId = "4F4EDE15-BE4F-4838-A8D1-739248E5F6B1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(214,903,l),
+(72,903,l),
+(72,-137,l),
+(214,-137,l)
+);
+}
+);
+width = 286;
+},
+{
+layerId = "B3E42AB7-2F0B-4826-A062-029E39AD2446";
+shapes = (
+{
+closed = 1;
+nodes = (
+(185,898,l),
+(80,898,l),
+(80,-137,l),
+(185,-137,l)
+);
+}
+);
+width = 264;
+}
+);
+unicode = 8343;
+}

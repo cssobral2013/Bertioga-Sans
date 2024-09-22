@@ -1,0 +1,66 @@
+{
+glyphname = sinologicaldot;
+layers = (
+{
+layerId = "2D57F921-1619-4848-A780-0286F5C5F7A5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(520,950,l),
+(170,950,l),
+(100,588,l),
+(450,588,l)
+);
+}
+);
+width = 569;
+},
+{
+layerId = "7F330584-10E9-4267-8E26-4D2DDDC504D5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(480,853,l),
+(183,853,l),
+(122,539,l),
+(419,539,l)
+);
+}
+);
+width = 569;
+},
+{
+layerId = "70541219-6074-4DB1-927E-09A6A4A4AC13";
+shapes = (
+{
+closed = 1;
+nodes = (
+(420,707,l),
+(203,707,l),
+(156,467,l),
+(373,467,l)
+);
+}
+);
+width = 569;
+},
+{
+layerId = "D7EC7508-C152-41F5-B530-A2FB36F9EC58";
+shapes = (
+{
+closed = 1;
+nodes = (
+(380,610,l),
+(216,610,l),
+(178,418,l),
+(342,418,l)
+);
+}
+);
+width = 569;
+}
+);
+unicode = 42895;
+}
