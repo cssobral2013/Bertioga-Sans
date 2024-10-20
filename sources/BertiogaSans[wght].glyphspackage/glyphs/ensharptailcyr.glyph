@@ -2,7 +2,7 @@
 glyphname = ensharptailcyr;
 layers = (
 {
-layerId = "40F9559D-0C66-47C0-904D-85A1A1CF5568";
+layerId = "48B546D8-C5CA-40A8-8404-D5B3E1476F73";
 shapes = (
 {
 closed = 1;
@@ -29,7 +29,7 @@ nodes = (
 width = 1308;
 },
 {
-layerId = "5D6D431B-CC1B-4FAD-85A4-67ADFEBCB3CA";
+layerId = "9443E7DC-0C4A-42CC-997B-DD23E98306F4";
 shapes = (
 {
 closed = 1;
@@ -56,7 +56,7 @@ nodes = (
 width = 1237;
 },
 {
-layerId = "4F4EDE15-BE4F-4838-A8D1-739248E5F6B1";
+layerId = "F7133933-345E-44EA-AD01-EBD83B4D43ED";
 shapes = (
 {
 closed = 1;
@@ -83,7 +83,7 @@ nodes = (
 width = 1131;
 },
 {
-layerId = "B3E42AB7-2F0B-4826-A062-029E39AD2446";
+layerId = "F39F01FC-5766-40F9-87FF-669365FEE249";
 shapes = (
 {
 closed = 1;

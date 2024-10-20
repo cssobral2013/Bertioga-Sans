@@ -2,7 +2,7 @@
 glyphname = diaeresisringcomb;
 layers = (
 {
-layerId = "2D57F921-1619-4848-A780-0286F5C5F7A5";
+layerId = "826E86D0-E588-4774-9A02-039E3F74D6B5";
 shapes = (
 {
 closed = 1;
@@ -96,7 +96,7 @@ nodes = (
 width = 0;
 },
 {
-layerId = "7F330584-10E9-4267-8E26-4D2DDDC504D5";
+layerId = "CCC0E55B-A8B0-4BE5-BCFE-654143F4C169";
 shapes = (
 {
 closed = 1;
@@ -190,7 +190,7 @@ nodes = (
 width = 0;
 },
 {
-layerId = "70541219-6074-4DB1-927E-09A6A4A4AC13";
+layerId = "BA5C3EFA-52F0-4978-BF26-13A2AC8190BC";
 shapes = (
 {
 closed = 1;
@@ -284,7 +284,7 @@ nodes = (
 width = 0;
 },
 {
-layerId = "D7EC7508-C152-41F5-B530-A2FB36F9EC58";
+layerId = "344EAA8B-658C-4164-B741-D5EC6A8B0AA2";
 shapes = (
 {
 closed = 1;
