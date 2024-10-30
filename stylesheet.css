@@ -5,6 +5,7 @@
         url('ttf/BertiogaSans-ExtraLight.ttf') format('truetype');
     font-weight: 200;
     font-style: normal;
+	font-stretch: normal;
     font-display: swap;
 }
 
@@ -15,6 +16,7 @@
         url('ttf/BertiogaSans-Light.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
+	font-stretch: normal;
     font-display: swap;
 }
 
@@ -25,6 +27,7 @@
         url('ttf/BertiogaSans-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
+	font-stretch: normal;
     font-display: swap;
 }
 
@@ -35,6 +38,7 @@
         url('ttf/BertiogaSans-Medium.ttf') format('truetype');
     font-weight: 500;
     font-style: normal;
+	font-stretch: normal;
     font-display: swap;
 }
 
@@ -45,6 +49,7 @@
         url('ttf/BertiogaSans-SemiBold.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
+	font-stretch: normal;
     font-display: swap;
 }
 
@@ -55,6 +60,7 @@
         url('ttf/BertiogaSans-Bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
+	font-stretch: normal;
     font-display: swap;
 }
 
@@ -65,6 +71,7 @@
         url('ttf/BertiogaSans-ExtraBold.ttf') format('truetype');
     font-weight: 800;
     font-style: normal;
+	font-stretch: normal;
     font-display: swap;
 }
 
@@ -75,6 +82,7 @@
         url('ttf/BertiogaSans-Black.ttf') format('truetype');
     font-weight: 900;
     font-style: normal;
+	font-stretch: normal;
     font-display: swap;
 }
 
@@ -85,6 +93,7 @@
         url('ttf/BertiogaSans-ExtraLightItalic.ttf') format('truetype');
     font-weight: 200;
     font-style: italic;
+	font-stretch: normal;
     font-display: swap;
 }
 
@@ -95,6 +104,7 @@
         url('ttf/BertiogaSans-LightItalic.ttf') format('truetype');
     font-weight: 300;
     font-style: italic;
+	font-stretch: normal;
     font-display: swap;
 }
 
@@ -105,6 +115,7 @@
         url('ttf/BertiogaSans-Italic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
+	font-stretch: normal;
     font-display: swap;
 }
 
@@ -115,6 +126,7 @@
         url('ttf/BertiogaSans-MediumItalic.ttf') format('truetype');
     font-weight: 500;
     font-style: italic;
+	font-stretch: normal;
     font-display: swap;
 }
 
@@ -125,6 +137,7 @@
         url('ttf/BertiogaSans-SemiBoldItalic.ttf') format('truetype');
     font-weight: 600;
     font-style: italic;
+	font-stretch: normal;
     font-display: swap;
 }
 
@@ -135,6 +148,7 @@
         url('ttf/BertiogaSans-BoldItalic.ttf') format('truetype');
     font-weight: bold;
     font-style: italic;
+	font-stretch: normal;
     font-display: swap;
 }
 
@@ -145,6 +159,7 @@
         url('ttf/BertiogaSans-ExtraBoldItalic.ttf') format('truetype');
     font-weight: 800;
     font-style: italic;
+	font-stretch: normal;
     font-display: swap;
 }
 
@@ -155,5 +170,181 @@
         url('ttf/BertiogaSans-BlackItalic.ttf') format('truetype');
     font-weight: 900;
     font-style: italic;
+	font-stretch: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bertioga Sans';
+    src: url('web/BertiogaSans-ExtLtSemCond.woff2') format('woff2'),
+        url('web/BertiogaSans-ExtLtSemCond.woff') format('woff'),
+	    url('ttf/BertiogaSans-ExtLtSemCond.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-stretch: semi-condensed;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bertioga Sans';
+    src: url('web/BertiogaSans-ExtLtSemCondIta.woff2') format('woff2'),
+        url('web/BertiogaSans-ExtLtSemCondIta.woff') format('woff'),
+	    url('ttf/BertiogaSans-ExtLtSemCondIta.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-stretch: semi-condensed;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bertioga Sans';
+    src: url('web/BertiogaSans-LightSemCond.woff2') format('woff2'),
+        url('web/BertiogaSans-LightSemCond.woff') format('woff'),
+		url('ttf/BertiogaSans-LightSemCond.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: semi-condensed;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bertioga Sans';
+    src: url('web/BertiogaSans-LightSemCondIta.woff2') format('woff2'),
+        url('web/BertiogaSans-LightSemCondIta.woff') format('woff'),
+	    url('ttf/BertiogaSans-LightSemCondIta.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-stretch: semi-condensed;
+    font-display: swap;
+}@
+font-face {
+    font-family: 'Bertioga Sans';
+    src: url('web/BertiogaSans-SemiCondensed.woff2') format('woff2'),
+        url('web/BertiogaSans-SemiCondensed.woff') format('woff'),
+	    url('ttf/BertiogaSans-SemiCondensed.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: semi-condensed;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bertioga Sans';
+    src: url('web/BertiogaSans-SemCondIta.woff2') format('woff2'),
+        url('web/BertiogaSans-SemCondIta.woff') format('woff'),
+	    url('ttf/BertiogaSans-SemCondIta.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-stretch: semi-condensed;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bertioga Sans';
+    src: url('web/BertiogaSans-MedSemCond.woff2') format('woff2'),
+        url('web/BertiogaSans-MedSemCond.woff') format('woff'),
+	    url('ttf/BertiogaSans-MedSemCond.ttf') format('truetype');
+	font-weight: 500;
+    font-style: normal;
+    font-stretch: semi-condensed;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bertioga Sans';
+    src: url('web/BertiogaSans-MedSemCondIta.woff2') format('woff2'),
+        url('web/BertiogaSans-MedSemCondIta.woff') format('woff'),
+	    url('ttf/BertiogaSans-MedSemCondIta.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-stretch: semi-condensed;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bertioga Sans';
+    src: url('web/BertiogaSans-SemBdSemCond.woff2') format('woff2'),
+        url('web/BertiogaSans-SemBdSemCond.woff') format('woff'),
+	    url('ttf/BertiogaSans-SemBdSemCond.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: semi-condensed;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bertioga Sans';
+    src: url('web/BertiogaSans-SemBdSemCondIta.woff2') format('woff2'),
+        url('web/BertiogaSans-SemBdSemCondIta.woff') format('woff'),
+	    url('ttf/BertiogaSans-SemBdSemCondIta.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-stretch: semi-condensed;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bertioga Sans';
+    src: url('web/BertiogaSans-BoldSemCond.woff2') format('woff2'),
+        url('web/BertiogaSans-BoldSemCond.woff') format('woff'),
+	    url('ttf/BertiogaSans-BoldSemCond.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: semi-condensed;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bertioga Sans';
+    src: url('web/BertiogaSans-BoldSemCondIta.woff2') format('woff2'),
+        url('web/BertiogaSans-BoldSemCondIta.woff') format('woff'),
+	    url('ttf/BertiogaSans-BoldSemCondIta.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-stretch: semi-condensed;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bertioga Sans';
+    src: url('web/BertiogaSans-ExtBdSemCond.woff2') format('woff2'),
+        url('web/BertiogaSans-ExtBdSemCond.woff') format('woff'),
+        url('ttf/BertiogaSans-ExtBdSemCond.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-stretch: semi-condensed;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bertioga Sans';
+    src: url('web/BertiogaSans-ExtBdSemCondIta.woff2') format('woff2'),
+        url('web/BertiogaSans-ExtBdSemCondIta.woff') format('woff'),
+        url('ttf/BertiogaSans-ExtBdSemCondIta.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-stretch: semi-condensed;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bertioga Sans';
+    src: url('web/BertiogaSans-BlackSemCond.woff2') format('woff2'),
+        url('web/BertiogaSans-BlackSemCond.woff') format('woff'),
+	    url('ttf/BertiogaSans-BlackSemCond.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: semi-condensed;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bertioga Sans';
+    src: url('web/BertiogaSans-BlackSemCondIta.woff2') format('woff2'),
+        url('web/BertiogaSans-BlackSemCondIta.woff') format('woff'),
+	    url('ttf/BertiogaSans-BlackSemCondIta.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-stretch: semi-condensed;
     font-display: swap;
 }

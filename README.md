@@ -4,7 +4,7 @@ Arimo (https://github.com/googlefonts/Arimo) and
 Libra Sans (https://github.com/StefanPeev/Libra-Sans).
 Main changes include:
 
-- Expanded to eight weights plus matching italics and variable font;
+- Expanded to variable font with width & weight axes;
 - Non-serifed 'J';
 - Changed capital Eng to N-shaped;
 - Imported BGR Cyrillic from Libra Sans.
