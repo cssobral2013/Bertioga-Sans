@@ -1,5 +1,16 @@
 @font-face {
     font-family: 'Bertioga Sans';
+    src: url('web/BertiogaSans-Thin.woff2') format('woff2'),
+        url('web/BertiogaSans-Thin.woff') format('woff'),
+        url('ttf/BertiogaSans-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+	font-stretch: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bertioga Sans';
     src: url('web/BertiogaSans-ExtraLight.woff2') format('woff2'),
         url('web/BertiogaSans-ExtraLight.woff') format('woff'),
         url('ttf/BertiogaSans-ExtraLight.ttf') format('truetype');
@@ -82,6 +93,17 @@
         url('ttf/BertiogaSans-Black.ttf') format('truetype');
     font-weight: 900;
     font-style: normal;
+	font-stretch: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bertioga Sans';
+    src: url('web/BertiogaSans-ThinItalic.woff2') format('woff2'),
+        url('web/BertiogaSans-ThinItalic.woff') format('woff'),
+        url('ttf/BertiogaSans-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
 	font-stretch: normal;
     font-display: swap;
 }
@@ -176,175 +198,198 @@
 
 @font-face {
     font-family: 'Bertioga Sans';
-    src: url('web/BertiogaSans-ExtLtSemCond.woff2') format('woff2'),
-        url('web/BertiogaSans-ExtLtSemCond.woff') format('woff'),
-	    url('ttf/BertiogaSans-ExtLtSemCond.ttf') format('truetype');
+    src: url('web/BertiogaSans-ThinCondensed.woff2') format('woff2'),
+        url('web/BertiogaSans-ThinCondensed.woff') format('woff'),
+		url('ttf/BertiogaSans-ThinCondensed.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-stretch: condensed;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bertioga Sans';
+    src: url('web/BertiogaSans-ThinCondIta.woff2') format('woff2'),
+        url('web/BertiogaSans-ThinCondIta.woff') format('woff'),
+	    url('ttf/BertiogaSans-ThinCondIta.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-stretch: condensed;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bertioga Sans';
+    src: url('web/BertiogaSans-ExtLtCond.woff2') format('woff2'),
+        url('web/BertiogaSans-ExtLtCond.woff') format('woff'),
+	    url('ttf/BertiogaSans-ExtLtCond.ttf') format('truetype');
     font-weight: 200;
     font-style: normal;
-    font-stretch: semi-condensed;
+    font-stretch: condensed;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Bertioga Sans';
-    src: url('web/BertiogaSans-ExtLtSemCondIta.woff2') format('woff2'),
-        url('web/BertiogaSans-ExtLtSemCondIta.woff') format('woff'),
-	    url('ttf/BertiogaSans-ExtLtSemCondIta.ttf') format('truetype');
+    src: url('web/BertiogaSans-ExtLtCondIta.woff2') format('woff2'),
+        url('web/BertiogaSans-ExtLtCondIta.woff') format('woff'),
+	    url('ttf/BertiogaSans-ExtLtCondIta.ttf') format('truetype');
     font-weight: 200;
     font-style: italic;
-    font-stretch: semi-condensed;
+    font-stretch: condensed;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Bertioga Sans';
-    src: url('web/BertiogaSans-LightSemCond.woff2') format('woff2'),
-        url('web/BertiogaSans-LightSemCond.woff') format('woff'),
-		url('ttf/BertiogaSans-LightSemCond.ttf') format('truetype');
+    src: url('web/BertiogaSans-LightCondensed.woff2') format('woff2'),
+        url('web/BertiogaSans-LightCondensed.woff') format('woff'),
+		url('ttf/BertiogaSans-LightCondensed.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
-    font-stretch: semi-condensed;
+    font-stretch: condensed;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Bertioga Sans';
-    src: url('web/BertiogaSans-LightSemCondIta.woff2') format('woff2'),
-        url('web/BertiogaSans-LightSemCondIta.woff') format('woff'),
-	    url('ttf/BertiogaSans-LightSemCondIta.ttf') format('truetype');
+    src: url('web/BertiogaSans-LightCondIta.woff2') format('woff2'),
+        url('web/BertiogaSans-LightCondIta.woff') format('woff'),
+	    url('ttf/BertiogaSans-LightCondIta.ttf') format('truetype');
     font-weight: 300;
     font-style: italic;
-    font-stretch: semi-condensed;
+    font-stretch: condensed;
     font-display: swap;
-}@
-font-face {
+}
+
+@font-face {
     font-family: 'Bertioga Sans';
-    src: url('web/BertiogaSans-SemiCondensed.woff2') format('woff2'),
-        url('web/BertiogaSans-SemiCondensed.woff') format('woff'),
-	    url('ttf/BertiogaSans-SemiCondensed.ttf') format('truetype');
+    src: url('web/BertiogaSans-Condensed.woff2') format('woff2'),
+        url('web/BertiogaSans-Condensed.woff') format('woff'),
+	    url('ttf/BertiogaSans-Condensed.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
-    font-stretch: semi-condensed;
+    font-stretch: condensed;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Bertioga Sans';
-    src: url('web/BertiogaSans-SemCondIta.woff2') format('woff2'),
-        url('web/BertiogaSans-SemCondIta.woff') format('woff'),
-	    url('ttf/BertiogaSans-SemCondIta.ttf') format('truetype');
+    src: url('web/BertiogaSans-CondensedItalic.woff2') format('woff2'),
+        url('web/BertiogaSans-CondensedItalic.woff') format('woff'),
+	    url('ttf/BertiogaSans-CondensedItalic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
-    font-stretch: semi-condensed;
+    font-stretch: condensed;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Bertioga Sans';
-    src: url('web/BertiogaSans-MedSemCond.woff2') format('woff2'),
-        url('web/BertiogaSans-MedSemCond.woff') format('woff'),
-	    url('ttf/BertiogaSans-MedSemCond.ttf') format('truetype');
+    src: url('web/BertiogaSans-MediumCondensed.woff2') format('woff2'),
+        url('web/BertiogaSans-MediumCondensed.woff') format('woff'),
+	    url('ttf/BertiogaSans-MediumCondensed.ttf') format('truetype');
 	font-weight: 500;
     font-style: normal;
-    font-stretch: semi-condensed;
+    font-stretch: condensed;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Bertioga Sans';
-    src: url('web/BertiogaSans-MedSemCondIta.woff2') format('woff2'),
-        url('web/BertiogaSans-MedSemCondIta.woff') format('woff'),
-	    url('ttf/BertiogaSans-MedSemCondIta.ttf') format('truetype');
+    src: url('web/BertiogaSans-MedCondIta.woff2') format('woff2'),
+        url('web/BertiogaSans-MedCondIta.woff') format('woff'),
+	    url('ttf/BertiogaSans-MedCondIta.ttf') format('truetype');
     font-weight: 500;
     font-style: italic;
-    font-stretch: semi-condensed;
+    font-stretch: condensed;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Bertioga Sans';
-    src: url('web/BertiogaSans-SemBdSemCond.woff2') format('woff2'),
-        url('web/BertiogaSans-SemBdSemCond.woff') format('woff'),
-	    url('ttf/BertiogaSans-SemBdSemCond.ttf') format('truetype');
+    src: url('web/BertiogaSans-SemBdCond.woff2') format('woff2'),
+        url('web/BertiogaSans-SemBdCond.woff') format('woff'),
+	    url('ttf/BertiogaSans-SemBdCond.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
-    font-stretch: semi-condensed;
+    font-stretch: condensed;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Bertioga Sans';
-    src: url('web/BertiogaSans-SemBdSemCondIta.woff2') format('woff2'),
-        url('web/BertiogaSans-SemBdSemCondIta.woff') format('woff'),
-	    url('ttf/BertiogaSans-SemBdSemCondIta.ttf') format('truetype');
+    src: url('web/BertiogaSans-SemBdCondIta.woff2') format('woff2'),
+        url('web/BertiogaSans-SemBdCondIta.woff') format('woff'),
+	    url('ttf/BertiogaSans-SemBdCondIta.ttf') format('truetype');
     font-weight: 600;
     font-style: italic;
-    font-stretch: semi-condensed;
+    font-stretch: condensed;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Bertioga Sans';
-    src: url('web/BertiogaSans-BoldSemCond.woff2') format('woff2'),
-        url('web/BertiogaSans-BoldSemCond.woff') format('woff'),
-	    url('ttf/BertiogaSans-BoldSemCond.ttf') format('truetype');
+    src: url('web/BertiogaSans-BoldCondensed.woff2') format('woff2'),
+        url('web/BertiogaSans-BoldCondensed.woff') format('woff'),
+	    url('ttf/BertiogaSans-BoldCondensed.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
-    font-stretch: semi-condensed;
+    font-stretch: condensed;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Bertioga Sans';
-    src: url('web/BertiogaSans-BoldSemCondIta.woff2') format('woff2'),
-        url('web/BertiogaSans-BoldSemCondIta.woff') format('woff'),
-	    url('ttf/BertiogaSans-BoldSemCondIta.ttf') format('truetype');
+    src: url('web/BertiogaSans-BoldCondIta.woff2') format('woff2'),
+        url('web/BertiogaSans-BoldCondIta.woff') format('woff'),
+	    url('ttf/BertiogaSans-BoldCondIta.ttf') format('truetype');
     font-weight: bold;
     font-style: italic;
-    font-stretch: semi-condensed;
+    font-stretch: condensed;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Bertioga Sans';
-    src: url('web/BertiogaSans-ExtBdSemCond.woff2') format('woff2'),
-        url('web/BertiogaSans-ExtBdSemCond.woff') format('woff'),
-        url('ttf/BertiogaSans-ExtBdSemCond.ttf') format('truetype');
+    src: url('web/BertiogaSans-ExtBdCond.woff2') format('woff2'),
+        url('web/BertiogaSans-ExtBdCond.woff') format('woff'),
+        url('ttf/BertiogaSans-ExtBdCond.ttf') format('truetype');
     font-weight: 800;
     font-style: normal;
-    font-stretch: semi-condensed;
+    font-stretch: condensed;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Bertioga Sans';
-    src: url('web/BertiogaSans-ExtBdSemCondIta.woff2') format('woff2'),
-        url('web/BertiogaSans-ExtBdSemCondIta.woff') format('woff'),
-        url('ttf/BertiogaSans-ExtBdSemCondIta.ttf') format('truetype');
+    src: url('web/BertiogaSans-ExtBdCondIta.woff2') format('woff2'),
+        url('web/BertiogaSans-ExtBdCondIta.woff') format('woff'),
+        url('ttf/BertiogaSans-ExtBdCondIta.ttf') format('truetype');
     font-weight: 800;
     font-style: italic;
-    font-stretch: semi-condensed;
+    font-stretch: condensed;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Bertioga Sans';
-    src: url('web/BertiogaSans-BlackSemCond.woff2') format('woff2'),
-        url('web/BertiogaSans-BlackSemCond.woff') format('woff'),
-	    url('ttf/BertiogaSans-BlackSemCond.ttf') format('truetype');
+    src: url('web/BertiogaSans-BlackCondensed.woff2') format('woff2'),
+        url('web/BertiogaSans-BlackCondensed.woff') format('woff'),
+	    url('ttf/BertiogaSans-BlackCondensed.ttf') format('truetype');
     font-weight: 900;
     font-style: normal;
-    font-stretch: semi-condensed;
+    font-stretch: condensed;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Bertioga Sans';
-    src: url('web/BertiogaSans-BlackSemCondIta.woff2') format('woff2'),
-        url('web/BertiogaSans-BlackSemCondIta.woff') format('woff'),
-	    url('ttf/BertiogaSans-BlackSemCondIta.ttf') format('truetype');
+    src: url('web/BertiogaSans-BlackCondIta.woff2') format('woff2'),
+        url('web/BertiogaSans-BlackCondIta.woff') format('woff'),
+	    url('ttf/BertiogaSans-BlackCondIta.ttf') format('truetype');
     font-weight: 900;
     font-style: italic;
-    font-stretch: semi-condensed;
+    font-stretch: condensed;
     font-display: swap;
 }

@@ -2,6 +2,20 @@ from fontTools.ttLib import TTFont
 
 '''Generate WOFF from TTF or OTF font.'''
 
+srcPath  = './ttf/BertiogaSans-Thin.ttf'
+woffPath = './web/BertiogaSans-Thin.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)
+
+srcPath  = './ttf/BertiogaSans-ThinItalic.ttf'
+woffPath = './web/BertiogaSans-ThinItalic.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)
+
 srcPath  = './ttf/BertiogaSans-ExtraLight.ttf'
 woffPath = './web/BertiogaSans-ExtraLight.woff'
 
@@ -126,124 +140,138 @@ with TTFont(srcPath) as font:
     font.flavor = 'woff'
     font.save(woffPath)    
 
-srcPath  = './ttf/BertiogaSans-ExtLtSemCond.ttf'
-woffPath = './web/BertiogaSans-ExtLtSemCond.woff'
+srcPath  = './ttf/BertiogaSans-ThinCondensed.ttf'
+woffPath = './web/BertiogaSans-ThinCondensed.woff'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff'
     font.save(woffPath)
 
-srcPath  = './ttf/BertiogaSans-ExtLtSemCondIta.ttf'
-woffPath = './web/BertiogaSans-ExtLtSemCondIta.woff'
+srcPath  = './ttf/BertiogaSans-ThinCondIta.ttf'
+woffPath = './web/BertiogaSans-ThinCondIta.woff'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff'
     font.save(woffPath)
 
-srcPath  = './ttf/BertiogaSans-LightSemCond.ttf'
-woffPath = './web/BertiogaSans-LightSemCond.woff'
+srcPath  = './ttf/BertiogaSans-ExtLtCond.ttf'
+woffPath = './web/BertiogaSans-ExtLtCond.woff'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff'
     font.save(woffPath)
 
-srcPath  = './ttf/BertiogaSans-LightSemCondIta.ttf'
-woffPath = './web/BertiogaSans-LightSemCondIta.woff'
+srcPath  = './ttf/BertiogaSans-ExtLtCondIta.ttf'
+woffPath = './web/BertiogaSans-ExtLtCondIta.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)
+
+srcPath  = './ttf/BertiogaSans-LightCondensed.ttf'
+woffPath = './web/BertiogaSans-LightCondensed.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)
+
+srcPath  = './ttf/BertiogaSans-LightCondIta.ttf'
+woffPath = './web/BertiogaSans-LightCondIta.woff'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff'
     font.save(woffPath)
     
-srcPath  = './ttf/BertiogaSans-BlackSemCond.ttf'
-woffPath = './web/BertiogaSans-BlackSemCond.woff'
+srcPath  = './ttf/BertiogaSans-BlackCondensed.ttf'
+woffPath = './web/BertiogaSans-BlackCondensed.woff'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff'
     font.save(woffPath)    
 
     
-srcPath  = './ttf/BertiogaSans-BlackSemCondIta.ttf'
-woffPath = './web/BertiogaSans-BlackSemCondIta.woff'
+srcPath  = './ttf/BertiogaSans-BlackCondIta.ttf'
+woffPath = './web/BertiogaSans-BlackCondIta.woff'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff'
     font.save(woffPath)    
 
     
-srcPath  = './ttf/BertiogaSans-SemiCondensed.ttf'
-woffPath = './web/BertiogaSans-SemiCondensed.woff'
+srcPath  = './ttf/BertiogaSans-Condensed.ttf'
+woffPath = './web/BertiogaSans-Condensed.woff'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff'
     font.save(woffPath)    
 
     
-srcPath  = './ttf/BertiogaSans-SemCondIta.ttf'
-woffPath = './web/BertiogaSans-SemCondIta.woff'
+srcPath  = './ttf/BertiogaSans-CondensedItalic.ttf'
+woffPath = './web/BertiogaSans-CondensedItalic.woff'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff'
     font.save(woffPath)    
 
     
-srcPath  = './ttf/BertiogaSans-MedSemCond.ttf'
-woffPath = './web/BertiogaSans-MedSemCond.woff'
+srcPath  = './ttf/BertiogaSans-MediumCondensed.ttf'
+woffPath = './web/BertiogaSans-MediumCondensed.woff'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff'
     font.save(woffPath)    
 
     
-srcPath  = './ttf/BertiogaSans-MedSemCondIta.ttf'
-woffPath = './web/BertiogaSans-MedSemCondIta.woff'
+srcPath  = './ttf/BertiogaSans-MedCondIta.ttf'
+woffPath = './web/BertiogaSans-MedCondIta.woff'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff'
     font.save(woffPath)    
 
     
-srcPath  = './ttf/BertiogaSans-SemBdSemCond.ttf'
-woffPath = './web/BertiogaSans-SemBdSemCond.woff'
+srcPath  = './ttf/BertiogaSans-SemBdCond.ttf'
+woffPath = './web/BertiogaSans-SemBdCond.woff'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff'
     font.save(woffPath)    
 
     
-srcPath  = './ttf/BertiogaSans-SemBdSemCondIta.ttf'
-woffPath = './web/BertiogaSans-SemBdSemCondIta.woff'
+srcPath  = './ttf/BertiogaSans-SemBdCondIta.ttf'
+woffPath = './web/BertiogaSans-SemBdCondIta.woff'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff'
     font.save(woffPath)    
 
     
-srcPath  = './ttf/BertiogaSans-BoldSemCond.ttf'
-woffPath = './web/BertiogaSans-BoldSemCond.woff'
+srcPath  = './ttf/BertiogaSans-BoldCondensed.ttf'
+woffPath = './web/BertiogaSans-BoldCondensed.woff'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff'
     font.save(woffPath)    
 
     
-srcPath  = './ttf/BertiogaSans-BoldSemCondIta.ttf'
-woffPath = './web/BertiogaSans-BoldSemCondIta.woff'
+srcPath  = './ttf/BertiogaSans-BoldCondIta.ttf'
+woffPath = './web/BertiogaSans-BoldCondIta.woff'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff'
     font.save(woffPath)    
 
     
-srcPath  = './ttf/BertiogaSans-ExtBdSemCond.ttf'
-woffPath = './web/BertiogaSans-ExtBdSemCond.woff'
+srcPath  = './ttf/BertiogaSans-ExtBdCond.ttf'
+woffPath = './web/BertiogaSans-ExtBdCond.woff'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff'
     font.save(woffPath)    
 
     
-srcPath  = './ttf/BertiogaSans-ExtBdSemCondIta.ttf'
-woffPath = './web/BertiogaSans-ExtBdSemCondIta.woff'
+srcPath  = './ttf/BertiogaSans-ExtBdCondIta.ttf'
+woffPath = './web/BertiogaSans-ExtBdCondIta.woff'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff'
@@ -251,372 +279,277 @@ with TTFont(srcPath) as font:
 
 '''Generate WOFF2 from TTF or OTF font.'''
 
+srcPath  = './ttf/BertiogaSans-Thin.ttf'
+woffPath = './web/BertiogaSans-Thin.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)
+
+srcPath  = './ttf/BertiogaSans-ThinItalic.ttf'
+woffPath = './web/BertiogaSans-ThinItalic.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)
+
 srcPath  = './ttf/BertiogaSans-ExtraLight.ttf'
-woff2Path = './web/BertiogaSans-ExtraLight.woff2'
+woffPath = './web/BertiogaSans-ExtraLight.woff2'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff2'
-    font.save(woff2Path)
+    font.save(woffPath)
 
 srcPath  = './ttf/BertiogaSans-ExtraLightItalic.ttf'
-woff2Path = './web/BertiogaSans-ExtraLightItalic.woff2'
+woffPath = './web/BertiogaSans-ExtraLightItalic.woff2'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff2'
-    font.save(woff2Path)
+    font.save(woffPath)
 
 srcPath  = './ttf/BertiogaSans-Light.ttf'
-woff2Path = './web/BertiogaSans-Light.woff2'
+woffPath = './web/BertiogaSans-Light.woff2'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff2'
-    font.save(woff2Path)
+    font.save(woffPath)
 
 srcPath  = './ttf/BertiogaSans-LightItalic.ttf'
-woff2Path = './web/BertiogaSans-LightItalic.woff2'
+woffPath = './web/BertiogaSans-LightItalic.woff2'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff2'
-    font.save(woff2Path)
+    font.save(woffPath)
     
 srcPath  = './ttf/BertiogaSans-Black.ttf'
-woff2Path = './web/BertiogaSans-Black.woff2'
+woffPath = './web/BertiogaSans-Black.woff2'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff2'
-    font.save(woff2Path)    
+    font.save(woffPath)    
 
     
 srcPath  = './ttf/BertiogaSans-BlackItalic.ttf'
-woff2Path = './web/BertiogaSans-BlackItalic.woff2'
+woffPath = './web/BertiogaSans-BlackItalic.woff2'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff2'
-    font.save(woff2Path)    
+    font.save(woffPath)    
 
     
 srcPath  = './ttf/BertiogaSans-Regular.ttf'
-woff2Path = './web/BertiogaSans-Regular.woff2'
+woffPath = './web/BertiogaSans-Regular.woff2'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff2'
-    font.save(woff2Path)    
+    font.save(woffPath)    
 
     
 srcPath  = './ttf/BertiogaSans-Italic.ttf'
-woff2Path = './web/BertiogaSans-Italic.woff2'
+woffPath = './web/BertiogaSans-Italic.woff2'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff2'
-    font.save(woff2Path)    
+    font.save(woffPath)    
 
     
 srcPath  = './ttf/BertiogaSans-Medium.ttf'
-woff2Path = './web/BertiogaSans-Medium.woff2'
+woffPath = './web/BertiogaSans-Medium.woff2'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff2'
-    font.save(woff2Path)    
+    font.save(woffPath)    
 
     
 srcPath  = './ttf/BertiogaSans-MediumItalic.ttf'
-woff2Path = './web/BertiogaSans-MediumItalic.woff2'
+woffPath = './web/BertiogaSans-MediumItalic.woff2'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff2'
-    font.save(woff2Path)     
+    font.save(woffPath)    
 
     
 srcPath  = './ttf/BertiogaSans-SemiBold.ttf'
-woff2Path = './web/BertiogaSans-SemiBold.woff2'
+woffPath = './web/BertiogaSans-SemiBold.woff2'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff2'
-    font.save(woff2Path)    
+    font.save(woffPath)    
 
     
 srcPath  = './ttf/BertiogaSans-SemiBoldItalic.ttf'
-woff2Path = './web/BertiogaSans-SemiBoldItalic.woff2'
+woffPath = './web/BertiogaSans-SemiBoldItalic.woff2'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff2'
-    font.save(woff2Path)    
-
-    
-srcPath  = './ttf/BertiogaSans-Bold.ttf'
-woff2Path = './web/BertiogaSans-Bold.woff2'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff2'
-    font.save(woff2Path)    
-
-    
-srcPath  = './ttf/BertiogaSans-BoldItalic.ttf'
-woff2Path = './web/BertiogaSans-BoldItalic.woff2'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff2'
-    font.save(woff2Path)    
-
-    
-srcPath  = './ttf/BertiogaSans-ExtraBold.ttf'
-woff2Path = './web/BertiogaSans-ExtraBold.woff2'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff2'
-    font.save(woff2Path)    
-
-    
-srcPath  = './ttf/BertiogaSans-ExtraBoldItalic.ttf'
-woff2Path = './web/BertiogaSans-ExtraBoldItalic.woff2'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff2'
-    font.save(woff2Path)    
-    
-    srcPath  = './ttf/BertiogaSans-ExtraLight.ttf'
-woff2Path = './web/BertiogaSans-ExtraLight.woff2'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff2'
-    font.save(woff2Path)
-
-srcPath  = './ttf/BertiogaSans-ExtraLightItalic.ttf'
-woff2Path = './web/BertiogaSans-ExtraLightItalic.woff2'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff2'
-    font.save(woff2Path)
-
-srcPath  = './ttf/BertiogaSans-Light.ttf'
-woff2Path = './web/BertiogaSans-Light.woff2'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff2'
-    font.save(woff2Path)
-
-srcPath  = './ttf/BertiogaSans-LightItalic.ttf'
-woff2Path = './web/BertiogaSans-LightItalic.woff2'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff2'
-    font.save(woff2Path)
-    
-srcPath  = './ttf/BertiogaSans-Black.ttf'
-woff2Path = './web/BertiogaSans-Black.woff2'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff2'
-    font.save(woff2Path)    
-
-    
-srcPath  = './ttf/BertiogaSans-BlackItalic.ttf'
-woff2Path = './web/BertiogaSans-BlackItalic.woff2'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff2'
-    font.save(woff2Path)    
-
-    
-srcPath  = './ttf/BertiogaSans-Regular.ttf'
-woff2Path = './web/BertiogaSans-Regular.woff2'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff2'
-    font.save(woff2Path)    
-
-    
-srcPath  = './ttf/BertiogaSans-Italic.ttf'
-woff2Path = './web/BertiogaSans-Italic.woff2'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff2'
-    font.save(woff2Path)    
-
-    
-srcPath  = './ttf/BertiogaSans-Medium.ttf'
-woff2Path = './web/BertiogaSans-Medium.woff2'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff2'
-    font.save(woff2Path)    
-
-    
-srcPath  = './ttf/BertiogaSans-MediumItalic.ttf'
-woff2Path = './web/BertiogaSans-MediumItalic.woff2'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff2'
-    font.save(woff2Path)    
-
-    
-srcPath  = './ttf/BertiogaSans-SemiBold.ttf'
-woff2Path = './web/BertiogaSans-SemiBold.woff2'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff2'
-    font.save(woff2Path)    
-
-    
-srcPath  = './ttf/BertiogaSans-SemiBoldItalic.ttf'
-woff2Path = './web/BertiogaSans-SemiBoldItalic.woff2'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff2'
-    font.save(woff2Path)    
+    font.save(woffPath)    
 
 
     
 srcPath  = './ttf/BertiogaSans-Bold.ttf'
-woff2Path = './web/BertiogaSans-Bold.woff2'
+woffPath = './web/BertiogaSans-Bold.woff2'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff2'
-    font.save(woff2Path)    
+    font.save(woffPath)    
 
     
 srcPath  = './ttf/BertiogaSans-BoldItalic.ttf'
-woff2Path = './web/BertiogaSans-BoldItalic.woff2'
+woffPath = './web/BertiogaSans-BoldItalic.woff2'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff2'
-    font.save(woff2Path)    
+    font.save(woffPath)    
 
     
 srcPath  = './ttf/BertiogaSans-ExtraBold.ttf'
-woff2Path = './web/BertiogaSans-ExtraBold.woff2'
+woffPath = './web/BertiogaSans-ExtraBold.woff2'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff2'
-    font.save(woff2Path)    
+    font.save(woffPath)    
 
     
 srcPath  = './ttf/BertiogaSans-ExtraBoldItalic.ttf'
-woff2Path = './web/BertiogaSans-ExtraBoldItalic.woff2'
+woffPath = './web/BertiogaSans-ExtraBoldItalic.woff2'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff2'
-    font.save(woff2Path)    
+    font.save(woffPath)    
 
-srcPath  = './ttf/BertiogaSans-ExtLtSemCond.ttf'
-woff2Path = './web/BertiogaSans-ExtLtSemCond.woff2'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff2'
-    font.save(woff2Path)
-
-srcPath  = './ttf/BertiogaSans-ExtLtSemCondIta.ttf'
-woff2Path = './web/BertiogaSans-ExtLtSemCondIta.woff2'
+srcPath  = './ttf/BertiogaSans-ThinCondensed.ttf'
+woffPath = './web/BertiogaSans-ThinCondensed.woff2'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff2'
-    font.save(woff2Path)
+    font.save(woffPath)
 
-srcPath  = './ttf/BertiogaSans-LightSemCond.ttf'
-woff2Path = './web/BertiogaSans-LightSemCond.woff2'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff2'
-    font.save(woff2Path)
-
-srcPath  = './ttf/BertiogaSans-LightSemCondIta.ttf'
-woff2Path = './web/BertiogaSans-LightSemCondIta.woff2'
+srcPath  = './ttf/BertiogaSans-ThinCondIta.ttf'
+woffPath = './web/BertiogaSans-ThinCondIta.woff2'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff2'
-    font.save(woff2Path)
+    font.save(woffPath)
+
+srcPath  = './ttf/BertiogaSans-ExtLtCond.ttf'
+woffPath = './web/BertiogaSans-ExtLtCond.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)
+
+srcPath  = './ttf/BertiogaSans-ExtLtCondIta.ttf'
+woffPath = './web/BertiogaSans-ExtLtCondIta.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)
+
+srcPath  = './ttf/BertiogaSans-LightCondensed.ttf'
+woffPath = './web/BertiogaSans-LightCondensed.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)
+
+srcPath  = './ttf/BertiogaSans-LightCondIta.ttf'
+woffPath = './web/BertiogaSans-LightCondIta.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)
     
-srcPath  = './ttf/BertiogaSans-BlackSemCond.ttf'
-woff2Path = './web/BertiogaSans-BlackSemCond.woff2'
+srcPath  = './ttf/BertiogaSans-BlackCondensed.ttf'
+woffPath = './web/BertiogaSans-BlackCondensed.woff2'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff2'
-    font.save(woff2Path)    
-
-    
-srcPath  = './ttf/BertiogaSans-BlackSemCondIta.ttf'
-woff2Path = './web/BertiogaSans-BlackSemCondIta.woff2'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff2'
-    font.save(woff2Path)    
-
-    
-srcPath  = './ttf/BertiogaSans-SemiCondensed.ttf'
-woff2Path = './web/BertiogaSans-SemiCondensed.woff2'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff2'
-    font.save(woff2Path)    
+    font.save(woffPath)    
 
     
-srcPath  = './ttf/BertiogaSans-SemCondIta.ttf'
-woff2Path = './web/BertiogaSans-SemCondIta.woff2'
+srcPath  = './ttf/BertiogaSans-BlackCondIta.ttf'
+woffPath = './web/BertiogaSans-BlackCondIta.woff2'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff2'
-    font.save(woff2Path)    
+    font.save(woffPath)    
 
     
-srcPath  = './ttf/BertiogaSans-MedSemCond.ttf'
-woff2Path = './web/BertiogaSans-MedSemCond.woff2'
+srcPath  = './ttf/BertiogaSans-Condensed.ttf'
+woffPath = './web/BertiogaSans-Condensed.woff2'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff2'
-    font.save(woff2Path)    
+    font.save(woffPath)    
 
     
-srcPath  = './ttf/BertiogaSans-MedSemCondIta.ttf'
-woff2Path = './web/BertiogaSans-MedSemCondIta.woff2'
+srcPath  = './ttf/BertiogaSans-CondensedItalic.ttf'
+woffPath = './web/BertiogaSans-CondensedItalic.woff2'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff2'
-    font.save(woff2Path)    
+    font.save(woffPath)    
 
     
-srcPath  = './ttf/BertiogaSans-SemBdSemCond.ttf'
-woff2Path = './web/BertiogaSans-SemBdSemCond.woff2'
+srcPath  = './ttf/BertiogaSans-MediumCondensed.ttf'
+woffPath = './web/BertiogaSans-MediumCondensed.woff2'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff2'
-    font.save(woff2Path)    
+    font.save(woffPath)    
 
     
-srcPath  = './ttf/BertiogaSans-SemBdSemCondIta.ttf'
-woff2Path = './web/BertiogaSans-SemBdSemCondIta.woff2'
+srcPath  = './ttf/BertiogaSans-MedCondIta.ttf'
+woffPath = './web/BertiogaSans-MedCondIta.woff2'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff2'
-    font.save(woff2Path)    
+    font.save(woffPath)    
 
     
-srcPath  = './ttf/BertiogaSans-BoldSemCond.ttf'
-woff2Path = './web/BertiogaSans-BoldSemCond.woff2'
+srcPath  = './ttf/BertiogaSans-SemBdCond.ttf'
+woffPath = './web/BertiogaSans-SemBdCond.woff2'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff2'
-    font.save(woff2Path)    
+    font.save(woffPath)    
 
     
-srcPath  = './ttf/BertiogaSans-BoldSemCondIta.ttf'
-woff2Path = './web/BertiogaSans-BoldSemCondIta.woff2'
+srcPath  = './ttf/BertiogaSans-SemBdCondIta.ttf'
+woffPath = './web/BertiogaSans-SemBdCondIta.woff2'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff2'
-    font.save(woff2Path)    
+    font.save(woffPath)    
 
     
-srcPath  = './ttf/BertiogaSans-ExtBdSemCond.ttf'
-woff2Path = './web/BertiogaSans-ExtBdSemCond.woff2'
+srcPath  = './ttf/BertiogaSans-BoldCondensed.ttf'
+woffPath = './web/BertiogaSans-BoldCondensed.woff2'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff2'
-    font.save(woff2Path)    
+    font.save(woffPath)    
 
     
-srcPath  = './ttf/BertiogaSans-ExtBdSemCondIta.ttf'
-woff2Path = './web/BertiogaSans-ExtBdSemCondIta.woff2'
+srcPath  = './ttf/BertiogaSans-BoldCondIta.ttf'
+woffPath = './web/BertiogaSans-BoldCondIta.woff2'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff2'
-    font.save(woff2Path) 
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/BertiogaSans-ExtBdCond.ttf'
+woffPath = './web/BertiogaSans-ExtBdCond.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/BertiogaSans-ExtBdCondIta.ttf'
+woffPath = './web/BertiogaSans-ExtBdCondIta.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)      
